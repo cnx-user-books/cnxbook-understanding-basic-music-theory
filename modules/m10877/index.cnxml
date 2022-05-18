@@ -1,0 +1,104 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Triads</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10877</md:content-id>
+  <md:title>Triads</md:title>
+  <md:abstract>Triads are basic three-note chords built of thirds. They can be in root position, first inversion, or second inversion.</md:abstract>
+  <md:uuid>04979f99-abf4-4789-abe6-ad3426bb3a12</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10890/latest/" strength="3">Naming Triads</link>
+      <link url="http://cnx.rice.edu/content/m11654/latest/" strength="3">Harmony</link>
+      <link url="http://cnx.rice.edu/content/m11995/latest/" strength="2">Beyond Triads</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Major Keys</link>
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="3">Minor Keys</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <para id="p0a">
+<link document="m11654" strength="3">Harmony</link> in <link document="m11421" strength="2">Western music</link> is based on triads. <term>Triads</term> are simple three-note <link document="m11654" target-id="l0b" strength="3">chords</link> built of <link document="m10867" target-id="p1b" strength="3">thirds</link>.
+    </para>
+
+    <section id="s1">	
+    <title>Triads in Root Position</title>
+
+   	<figure id="fig18a"><title>Triads in Root Position</title>
+		<media id="id24936657" alt=""><image src="../../media/roottriads.png" mime-type="image/png"/><image for="pdf" src="../../media/roottriads-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+ 
+      <para id="p1a">The chords in <link target-id="fig18a"/> are written in root position, which is the most basic way to write a triad. In <term>root position</term>, the <term>root</term>, which is the note that names the chord, is the lowest note. The <term>third of the chord</term> is written a <link document="m10867" target-id="fig7c" strength="3">third</link> higher than the root, and the <term>fifth of the chord</term> is written a <link document="m10867" target-id="fig7c" strength="3">fifth</link> higher than the root (which is also a third higher than the third of the chord). So the simplest way to write a triad is as a stack of thirds, in root position.<note id="id24979780">The type of interval or chord - major, minor, diminished, etc., is not important when you are determining the position of the chord. To simplify things, all notes in the examples and exercises below are natural, but it would not change their position at all if some notes were sharp or flat. It would, however, change the name of the triad - see <link document="m10890" strength="3">Naming Triads</link>.</note>
+     </para>
+
+     <exercise id="exer1a">
+      <problem id="id13069736">
+       <para id="prob1a">
+Write a triad in root position using each root given. If you need some staff paper for exercises you can print this <link resource="staffpaper1.pdf">PDF file</link>.
+       </para>
+
+	<figure id="fig18e"><media id="id13057726" alt=""><image src="../../media/triadprob1.png" mime-type="image/png"/><image for="pdf" src="../../media/triadprob1-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+      </problem>
+
+      <solution id="id24984722">
+		<figure id="fig18f"><media id="id13064224" alt=""><image src="../../media/Triadsolv1.png" mime-type="image/png"/><image for="pdf" src="../../media/Triadsolv1-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+      </solution>
+
+     </exercise>
+
+
+    </section> 
+    <section id="s2">	<title>First and Second Inversions</title>
+     <para id="p2a">
+Any other chord that has the same-named notes as a root position chord is considered to be essentially the same chord in a different <term>position</term>. In other words, all chords that have only D naturals, F sharps, and A naturals, are considered D major chords. <note id="id12874294"><emphasis>But</emphasis> if you change the <link document="m10943" strength="2">pitch</link> or <link document="m11641" strength="2">spelling</link> of any note in the triad, you have changed the chord (see <link document="m10890" strength="3">Naming Triads</link>). For example, if the F sharps are written as G flats, or if the A's are sharp instead of natural, you have a different chord, not an inversion of the same chord. If you add notes, you have also changed the name of the chord (see <link document="m11995" strength="3">Beyond Triads</link>). <emphasis>You cannot call one chord the inversion of another if either one of them has a note that does not share a name (for example "F sharp" or "B natural") with a note in the other chord.</emphasis></note> If the third of the chord is the lowest note, the chord is in <term>first inversion</term>. If the fifth of the chord is the lowest note, the chord is in <term>second inversion</term>. A chord in second inversion may also be called a <term>six-four chord</term>, because the <link document="m10867" strength="3">intervals</link> in it are a sixth and a fourth.
+     </para>
+
+	<figure id="fig18b"><media id="id12983943" alt=""><image src="../../media/triadpositions.png" mime-type="image/png"/><image for="pdf" src="../../media/triadpositions-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+
+     <para id="p2b">
+It does not matter how far the higher notes are from the lowest note, or how many of each note there are (at different octaves or on different instruments); all that matters is which note is lowest. (In fact, one of the notes may not even be written, only implied by the context of the chord in a piece of music. A practiced ear will tell you what the missing note is; we won't worry about that here.) To decide what position a chord is in, move the notes to make a stack of thirds and identify the root.
+     </para>
+
+
+     <example id="examp2a">
+		<figure id="fig18c"><media id="id3831963" alt=""><image src="../../media/triadex1.png" mime-type="image/png"/><image for="pdf" src="../../media/triadex1-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+
+     </example>
+
+     <example id="examp2b">
+		<figure id="fig18cc"><media id="id24682748" alt=""><image src="../../media/Triadex2.png" mime-type="image/png"/><image for="pdf" src="../../media/Triadex2-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+
+     </example>
+
+
+     <exercise id="exer2a">
+
+      <problem id="id15852961">
+                <para id="prob2a">
+Rewrite each chord in root position, and name the original position of the chord.
+                </para>
+		<figure id="fig18d"><media id="id12874786" alt=""><image src="../../media/TriadProb2.png" mime-type="image/png"/><image for="pdf" src="../../media/TriadProb2-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+      </problem>
+
+      <solution id="id16050706">
+		<figure id="fig18g"><media id="id13573664" alt=""><image src="../../media/TriadSolv2.png" mime-type="image/png"/><image for="pdf" src="../../media/TriadSolv2-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+      </solution>
+     </exercise>
+
+    </section></content>
+  
+</document>

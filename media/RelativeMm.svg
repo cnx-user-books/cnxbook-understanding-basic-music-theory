@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="413" height="95"
+	 viewBox="0.396 -0.426 413 95" overflow="visible" enable-background="new 0.396 -0.426 413 95" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'ArialNarrow';src:url("data:;base64,\
+T1RUTwACACAAAQAAQ0ZGILBTOXcAAAAsAAABY2NtYXD/jQCwAAABkAAAACwBAAQCAAEBAQxBcmlh\
+bE5hcnJvdwABAQE0+BsB+BgE/An9CBwH/xwIsAUeoABIgoEl/4uLHqAASIKBJf+LiwwH9ycPjBD3\
+KhGL9/cSAAEBAUFBcmlhbCBpcyBhIHJlZ2lzdGVyZWQgdHJhZGVtYXJrIG9mIFRoZSBNb25vdHlw\
+ZSBDb3Jwb3JhdGlvbiBwbGMuAAAAAFwAAgEBG8j4Z7cWHAUA+Bkc+wAH++rAFfe8HASg+7wGDvjF\
+ufj4FbCMq5emoqainqyWt5a2kN+M9xCM9w2N3I+zksycwKW2nqqkoqqZCJmqtpLAG7n7MXEGU2Z/\
+c3gfeHKBUzMa+0yH+wmDWh6ASHpYc2hzZ2drXG/FbbZdp00Ip02ZI/smGvsnjTWQch6SaJdynX0I\
+fJ2rhLobpfsxXQZSYJKabh9umXSgeaZysHu3hL2EvYfnivcbivcQhd+AuIC3eKxxonGha5dljAgO\
+AAAAAAEAAAADAAAADAAEACAAAAAEAAQAAQAAAHv//wAAAHv///+GAAEAAAAAAAAAAAAAAAAAAAAA\
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABD\
+AEEAAAEIAAAAAAB40rgIhwEAAIXSuAiIAQAAxtK4CIkBAABJ07gIigEAAFbTuAiKAQAAY9O4CIQB\
+")}
+@font-face{font-family:'Myriad-Roman';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGICwEndEAAAA8AAAHOUdQT1O1asViAAAIJAAAAcpjbWFwBNEDAwAAB3gA\
+AACsAQAEAgABAQENTXlyaWFkLVJvbWFuAAEBASD4GwH4GARd+476+vnTBR0AAKQDDfd9D/eoEcUc\
+Bv8SAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAAAAAEAGwAeACkALgAxADQAOABCAEQARgBHAEkASgBLAE0ATwBQAFEAUwBVABYCAAEA\
+AgADADwAXQCGAO4BQAGYAgcCeQK6AxUDVgObA88EJAQ3BH8EwAUrBXUFuw4O+/CA9xH3ePcRAb/3\
+CgP3BPfqFa+ipq6wdKVnaXJxZmijcK0f+/UEr6KmrrB0pWdpcnFmaKNwrR8OtPchx/ccxwGz+JgD\
++MD35RXH/JhPB/iY+1gVx/yYTwcO7KB299DX9653Adbj99rjA9b5NhX9NuP30Pfa+9Dj+TYz+677\
+2veuBw73jaB2+N/iAcX5RAP5KBbhBmH5NgX7Awb7DPvabTZzQXlHGYkGedF11W/e+wf32hj7AwZc\
+/TYF3gad97WR8ZD3BI3fGY0GnjulNasr9wL71RjNBvcL99ut6Kbgo9kZjQY4kfsGkC0eDnSgdvec\
+0feo0AHX4veF4wPXFuL3ogaGn6OKpRvg1qS8uR+urp27yBrHdLxmqx6vY0yfNRtFVIWDYR/iTRWO\
+mqiPsRvrymAxMExXIW9yjZB4Hw5NgNT4u9MBw+P3beMDtawVc6/Sd8wb9zPX5vPuUsH7BrgfLq9i\
+qsoaua7C58i4eH6gHqPSBZxuWJtHG/sXND0iLc9R9wJjH+Zpr2ZNGkZXXTJPU56kZB4O97eL8Dt2\
++M/yi3cSmvnLE1j3qRbr9/MFE2ik4pvMls8IjQaUR5lJoDTg+/IY5gb3U/k2BTIGMvvoBROYdjd4\
+QH1BCIkGgdJ52njcOffqGDAGMfvodDR2O4BIGYkGf8x53nfgO/fpGC8G9z/9NgUOQoDManb3i8j3\
+DswSruP3X+MTvPgy970V7Gfw+ylOUHpyYx6fUAWirbqYuRvujJZCYxqBB/tPjCNL+wkaRb1G7dDA\
+rbGlHo4GE3yTTgXaBoasibS1GjW6FRO8goqBiIIeYn1iY0sbX2Wlxen3AZzriR8OIIDS+AHRAbHk\
+A/gn3hWAcmp/WRsrQ9D3BPDH3vcDu6x/gKAfn84FmHNdmFcb+zIl+wH7Kfsp6ij3Jsy+nJaiHw5V\
+gdD/AKeAAP8AP4AA9yPKAbHg95XgA/hi93YVjZWMmZ0a5GL3H/sy+yE0+wf7J/sl5Sj3KNjBnJmq\
+HnvJBX5rZIBMGzNAvPcLiR+MyhXIkrHd5RvtozNUih8O+5ugdvg1zvc60gHc4wP3PRb4NfcIzvsJ\
+pQfVn83VpZyGhZkels8FknpxkmsbY19+a2ofYmR7TUcadEhIzvw1Bw6LoHb4OtT3a3cB1OP3gOMD\
+1Bbj97gGnIyYkJceu5y3s8Qb3qhKPB/7quP3tAf3OyOzSmpsgntxHnB9dXR9cgiJ98IzBg771aB2\
++Hh39wH3BRLH9wUn4xPo9zUW+Hgz/HgHE/C2+NEVrqGlqqp1pGlpdHJsbKFxrB8O+8z7Z9BbdvlL\
+d/cB9wUS0vcFJ+MTdGf7ZxW6y5uysh+2t5rI6Rr4TTP8KwcTtPsIgWRzcB52dGmAYogIE3j3Qflf\
+Fa+gpaqqdaRpaXRybGyhcawfDvvVoHb5WncB1OMD1Bbj+VozBg6LoHb4O9OAdxLU4/eA4xPY1Bbj\
+97gGmY2bj5YevJu4tMQb3qhJPR/7q+P3tQf3OiOzSDtTXl5zHokGE7iG2gU9Bo5jjGNYGg6FgM34\
+Cs0BseT3ueYD96OAFfcH9xHZ90j3Jy3w+x/7GSAs+zb7LfEr9xYfjc0VNk/b9ee46/LztCQ5+wJM\
+PDcfDpn7RXb3T9D4A9GAdxLU4/eu5BPs1PtaFeP3m40GW6jCb8wb9wX24fdC9ycz7vsKPVFpT2gf\
+iQYT3IbeBTwGjl2MWU0a414Vlo6YjZceE+zNnMS1xxvovTgq+wNVPy5NVbXIfB+IloqYlxoO+3ig\
+dvgw3oB3p3cS1eITyNQW4/eWBpqMmY2YHsyXt7rJG5eUioqVHxOY3QcTyI2DhIyCG1BVYkp1H4gG\
+E6iH6gU+Bo5ejFpSGg77dIDUY3b4NM4S6OETcOj40RUyQEjW+5wHE7BSlWCjcB50oKx9tButppGR\
+nB+HzgWHfn2Jcxtaeq3HH/eZ9xLO+xL3CAcOgJb5Npb7XZf3Lpa8lgb3mZD8ZpFwlAceoGBFgpn/\
+DAkeegmZmZ8MCs4K4wvOkQwM448MDfdoFPi/FQAAAAAAAAEAAAADAAAADAAEAKAAAAAkACAABAAE\
+AAkAIAA6AD0ASABNAFAAUwBXAGEAYwBmAGoAbABwAHIAdP//AAAACQAgADoAPQBIAE0AUABTAFcA\
+YQBjAGUAaABsAG4AcgB0////9//h/8j/xv+8/7j/tv+0/7H/qP+n/6b/pf+k/6P/ov+hAAEAAAAA\
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAoAHgAsAAFERkxUAAgABAAAAAD/\
+/wABAAAAAWtlcm4ACAAAAAEAAAABAAQAAgAAAAEACAABAXYABAAAABAAKgAwADYAQABeAIgAtgDc\
+AOIA9AEKARABFgEkATIBaAABAAj/3AABAAH/vAACAAsAAQASAAEABwAJAAYACgAGAAsABgAOAA0A\
+DwALABEACwASAAUACgAC//0ACf/mAAv/5wAN//sADv/7ABD/+wAR/+8AEv/nABT/7wAVAAYACwAJ\
+AAUACwAGAA3//QAO//8AD//8ABD//gAR//8AEgAEABP//wAU//8AFf/8AAkAAv/wAAcAAgAJ/94A\
+C//eAA3/+wAOAAIAEv/dABT/8AAVAAkAAQAV//wABAAJAAEAC//6ABL/+gAVAA0ABQACAB8ACv/0\
+AAv/9AAS//QAFQALAAEAFf/8AAEAFf/8AAMACgABAAsAAQASAAEAAwAKAAEACwABABIAAQANAAIA\
+EAAJ//oACv/6AAv/+gAMAB4ADQAFAA4ABAAQAAQAEQAEABL/+gATAAQAFAAEABUAGAADAAr/+gAL\
+//oAEv/6AAIABAABAAIAAAAEAAoAAgAMAA0ACQARABUACwAA")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<text transform="matrix(1 0 0 1 10.9575 76.6621)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">W = Whole</tspan><tspan x="0" y="14.5" font-family="'Myriad-Roman'" font-size="12">         Step</tspan></text>
+		<text transform="matrix(1 0 0 1 90.4565 76.1631)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">H = Half</tspan><tspan x="0" y="14.5" font-family="'Myriad-Roman'" font-size="12">        Step</tspan></text>
+		<text transform="matrix(1 0 0 1 113.7007 9.9717)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">W	</tspan><tspan x="36" y="0" font-family="'Myriad-Roman'" font-size="12"> H	</tspan><tspan x="72" y="0" font-family="'Myriad-Roman'" font-size="12"> W	</tspan><tspan x="108" y="0" font-family="'Myriad-Roman'" font-size="12"> W	</tspan><tspan x="144" y="0" font-family="'Myriad-Roman'" font-size="12">H 	</tspan><tspan x="180" y="0" font-family="'Myriad-Roman'" font-size="12">W  	</tspan><tspan x="216" y="0" font-family="'Myriad-Roman'" font-size="12">W</tspan></text>
+		<text transform="matrix(1 0 0 1 187.4937 37.3506)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">W	</tspan><tspan x="36" y="0" font-family="'Myriad-Roman'" font-size="12">W	</tspan><tspan x="72" y="0" font-family="'Myriad-Roman'" font-size="12">H          W           W           W          H</tspan></text>
+		<text transform="matrix(1 0 0 1 0 11.1807)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">Minor Scale Pattern:</tspan><tspan x="0" y="29" font-family="'Myriad-Roman'" font-size="12">Major Scale Pattern:</tspan></text>
+		<text transform="matrix(4.489659e-011 -0.5823 1 2.614131e-011 400.7002 48.1787)"><tspan x="0" y="0" fill="#FF0000" font-family="'ArialNarrow'" font-size="41.219">{</tspan></text>
+		<text transform="matrix(4.489659e-011 -0.5823 1 2.614131e-011 146.71 21.668)"><tspan x="0" y="0" fill="#FF0000" font-family="'ArialNarrow'" font-size="41.219">{</tspan></text>
+		<g>
+			<g>
+				<path fill="none" d="M143.396,46.574c4,3,8,6,13,8c7,3,14,4,22,5c13,2,27,2,41,3c8,0,17,1,25,0c8,0,16-1,23-2c21-1,41-3,61-4
+					c15-1,30-3,45-5"/>
+				<path fill="#FF0000" d="M142.968,47.186c7.142,5.344,14.211,9.13,22.959,11.161c8.753,2.032,17.982,2.853,26.928,3.503
+					c19.057,1.385,38.115,2.144,57.196,1.312c9.749-0.425,19.439-1.902,29.188-2.507c10.174-0.632,20.337-1.447,30.505-2.176
+					c21.375-1.532,42.528-3.337,63.781-6.169c0.955-0.127,0.691-1.596-0.26-1.47c-19.367,2.582-38.644,4.492-58.135,5.779
+					c-19.378,1.28-38.803,2.442-58.098,4.508c-19.426,2.079-38.994,0.61-58.442-0.42c-9.142-0.484-18.206-1.48-27.255-2.856
+					c-10.474-1.593-19.081-5.579-27.513-11.887C143.052,45.386,142.198,46.609,142.968,47.186z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" d="M143.396,46.574c-2-2-4-4-4-6"/>
+				<path fill="#FF0000" d="M143.964,46.091c-1.525-1.527-3.708-3.332-3.834-5.646c-0.052-0.959-1.521-0.689-1.47,0.259
+					c0.143,2.61,2.448,4.633,4.166,6.354C143.501,47.732,144.646,46.774,143.964,46.091z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" d="M134.396,43.574c1,0,3-1,4-2"/>
+				<path fill="#FF0000" d="M134.525,44.309c1.557-0.07,3.256-1.118,4.354-2.166c0.692-0.661-0.268-1.805-0.966-1.138
+					c-0.932,0.89-2.322,1.775-3.646,1.834C133.307,42.882,133.578,44.352,134.525,44.309z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" d="M138.396,39.574c4,2,6,3,10,3"/>
+				<path fill="#FF0000" d="M138.137,40.274c3.338,1.667,6.407,2.986,10.188,3.043c0.957,0.014,1.102-1.472,0.141-1.486
+					c-3.652-0.055-6.597-1.351-9.812-2.957C137.792,38.444,137.286,39.849,138.137,40.274z"/>
+			</g>
+		</g>
+	</g>
+</svg>

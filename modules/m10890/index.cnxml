@@ -1,0 +1,154 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Naming Triads</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10890</md:content-id>
+  <md:title>Naming Triads</md:title>
+  <md:abstract>The name of a chord depends on the intervals between its notes when the chord is in root position.</md:abstract>
+  <md:uuid>09b32f59-68bd-42d2-9dc8-ee3b62aab812</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10877/latest/" strength="3">Triads</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">The <link document="m10877">position</link> that a chord is in does make a difference in how it sounds, but it is a fairly small difference. <link resource="Inversions.MID">Listen</link> to a G major chord in three different positions.
+	</para>
+
+	<figure id="fig19aa"><media id="id1170485994779" alt=""><image src="../../media/nametriads1.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriads1-0.eps" mime-type="application/postscript"/></media>
+                <caption>G major chord in three different positions.</caption>
+	</figure>
+
+	<para id="p0b">A much bigger difference in the chord's sound comes from the <link document="m10867" strength="3">intervals</link> between the root-position notes of the chord. For example, if the B in one of the chords  above was changed to a B flat, you would still have a G <link document="m10877" strength="3">triad</link>, but the chord would now sound very different. So chords are named according to the intervals between the notes when the chord is in <link document="m10877" strength="3">root position</link>. <link resource="GChords.MID">Listen</link> to four different G chords.
+
+    </para>
+
+	<figure id="fig19ab"><media id="id1170485994849" alt=""><image src="../../media/nametriads2.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriads2-0.eps" mime-type="application/postscript"/></media>
+                <caption>These are also all G chords, but they are four different G chords. The intervals between the notes are different, so the chords sound very different.</caption>
+	</figure>
+
+    <section id="s1">
+     <title>Major and Minor Chords</title>
+
+     <para id="p1a">The most commonly used <link document="m10877" strength="3">triads</link> form 
+<link document="m10851">major</link>
+ chords and <link document="m10856">minor</link> chords. All major chords and minor chords have an <link document="m10867" strength="3">interval</link> of a <link document="m10867" target-id="p21b">perfect fifth</link> between the <link document="m10877" strength="3">root and the fifth of the chord</link>. A perfect fifth (7 half-steps) can be divided into a <link document="m10867" target-id="list22a">major third</link> (4 half-steps) plus a <link document="m10867" target-id="list22a">minor third</link> (3 half-steps). If the interval between the root and the third of the chord is the major third (with the minor third between the third and the fifth of the chord), the triad is a <term>major chord</term>. If the interval between the root and the third of the chord is the minor third (and the major third is between the third and fifth of the chord), then the triad is a <term>minor chord</term>. Listen closely to a <link resource="chomj.mp3">major triad</link> and a <link resource="chomin.mp3">minor triad</link>.
+     </para>
+
+     <example id="examp1a">
+		<figure id="fig19b"><media id="id1170485995099" alt=""><image src="../../media/nametriads3.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriads3-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+     </example>
+
+     <example id="element-705"><figure id="figexamp2"><title>Some Major and Minor Triads</title>
+<media id="id1170485995135" alt=""><image src="../../media/Mmtriads.png" mime-type="image/png"/><image for="pdf" src="../../media/Mmtriads-0.eps" mime-type="application/postscript"/></media></figure>
+</example><exercise id="exer1a">
+      <problem id="id1170485995157">
+       <para id="prob1a">
+Write the major chord for each root given.
+       </para>
+		<figure id="fig19c"><media id="id1170485995173" alt=""><image src="../../media/nametriadsprob1.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadsprob1-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+      </problem>
+      <solution id="id1170485995191">
+		<figure id="fig19d"><media id="id1170485995199" alt=""><image src="../../media/nametriadssolv1.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadssolv1-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+                
+      </solution>
+     </exercise>
+
+	<exercise id="exer1b">
+
+		<problem id="id1170486222786">
+			<para id="prob1b">
+Write the minor chord for each root given.
+			</para>
+			<figure id="fig19e"><media id="id1170486222804" alt=""><image src="../../media/nametriadsprob1.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadsprob1-0.eps" mime-type="application/postscript"/></media>
+			</figure>
+		</problem>
+
+		<solution id="id1170486222824">
+			<figure id="fig19f"><media id="id1170486222834" alt=""><image src="../../media/nametriadssolv2.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadssolv2-0.eps" mime-type="application/postscript"/></media>
+			</figure>
+                        
+		</solution>
+
+	</exercise>
+
+    </section>   
+    <section id="s2">
+     <title>Augmented and Diminished Chords</title>
+
+     <para id="p2a">Because they don't contain a perfect fifth, augmented and diminished chords have an unsettled feeling and are normally used sparingly. An <term>augmented chord</term> is built from two major thirds, which adds up to an augmented fifth. A <term>diminished chord</term> is built from two minor thirds, which add up to a diminished fifth. Listen closely to an <link resource="choaug.mp3">augmented triad</link> and a <link resource="chodim.mp3">diminished triad</link>.
+     </para>
+
+     <example id="examp2a">
+		<figure id="fig19g"><title>Some Augmented and Diminished Triads</title>
+			<media id="id1170486222922" alt=""><image src="../../media/nametriads8.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriads8-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+                
+     </example>
+
+     <exercise id="exer2a">
+      <problem id="id1170486222950">
+       	<para id="prob2a">Write the augmented triad for each root given.
+       	</para>
+		<figure id="fig19h"><media id="id1170486222968" alt=""><image src="../../media/nametriadsprob1.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadsprob1-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+      </problem>
+
+      <solution id="id1170486222988">
+		<figure id="fig19i"><media id="id1170485999734" alt=""><image src="../../media/nametriadssolv3.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadssolv3-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+                
+      </solution>
+     </exercise>
+
+     <exercise id="exer2b"><problem id="id1170485999766">
+       <para id="prob2b">
+Write the diminished triad for each root given.
+       </para>
+		<figure id="fig19dim"><media id="id1170485999790" alt=""><image src="../../media/nametriadsprob1.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadsprob1-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+      </problem>
+      <solution id="id1170485999813">
+		<figure id="fig19k"><media id="id1170485999827" alt=""><image src="../../media/nametriadssolv4.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadssolv4-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+      </solution>
+     </exercise>
+
+     <para id="p2b">Notice that you can't avoid double sharps or double flats by writing the note on a different space or line. <emphasis>If you change the <link document="m11641">spelling</link> of a chord's notes, you have also changed the chord's name.</emphasis> For example, if, in an augmented G sharp major chord, you rewrite the D double sharp as an E natural, the triad becomes an E augmented chord.
+     </para>
+		<figure id="fig19l"><media id="id1170485999888" alt=""><image src="../../media/nametriads13.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriads13-0.eps" mime-type="application/postscript"/></media>
+		<caption>Changing the spelling of any note in a chord also changes the chord's name.</caption></figure>
+
+	<para id="p2c">You can put the chord in a different <link document="m10877">position</link> or add more of the same-named notes at other octaves without changing the name of the chord. But changing the note names or adding different-named notes, will change the name of the chord. Here is a summary of the intervals in triads in root position.
+	</para>
+
+	<figure id="figsum"><media id="id1170485999946" alt=""><image src="../../media/nametriads14.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriads14-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+
+	<exercise id="exer2c">
+
+		<problem id="id1170485999977">
+			<para id="prob2c">
+Now see if you can identify these chords that are not necessarily in root position. Rewrite them in root position first if that helps.
+			</para>
+			<figure id="fig19m"><media id="id1170486233100" alt=""><image src="../../media/nametriadsprob5.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadsprob5-0.eps" mime-type="application/postscript"/></media>
+			</figure>
+		</problem>
+
+		<solution id="id1170486233119">
+			<figure id="fig19n"><media id="id1170486233133" alt=""><image src="../../media/nametriadsolv5.png" mime-type="image/png"/><image for="pdf" src="../../media/nametriadsolv5-0.eps" mime-type="application/postscript"/></media>
+			</figure>
+		</solution>
+
+	</exercise>
+
+    </section></content>
+  
+</document>

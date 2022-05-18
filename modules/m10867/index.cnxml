@@ -1,0 +1,442 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Interval</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10867</md:content-id>
+  <md:title>Interval</md:title>
+  <md:abstract>The distance between two pitches is the interval between them. The name of an interval depends both on how the notes are written and the actual distance between the notes as measured in half steps.</md:abstract>
+  <md:uuid>c5636c43-9682-40a7-9bde-d26f89e35df1</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11641/latest/" strength="3">Enharmonic Spelling</link>
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="2">Frequency, Wavelength, and Pitch</link>
+      <link url="http://cnx.rice.edu/content/m11118/latest/" strength="2">Harmonic Series</link>
+      <link url="http://cnx.rice.edu/content/m11643/latest/" strength="1">Beginning Harmonic Analysis</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10866/latest/" strength="3">Half Steps and Whole Steps</link>
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="3">Pitch</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <section id="s0">
+      <title>The Distance Between Pitches</title>
+    <para id="p0a">The <term>interval</term> between two notes is the distance between the two <link document="m10943" strength="3">pitches</link> - in other words, how much higher or lower one note is than the other. This concept is so important that it is almost impossible to talk about <link document="m10851">scales</link>, <link document="m11654" target-id="l0b">chords</link>, <link document="m11654" target-id="l0b">harmonic progression</link>, <link document="m12402">cadence</link>, or <link document="m11953">dissonance</link> without referring to intervals. So if you want to learn music theory, it would be a good idea to spend some time getting comfortable with the concepts below and practicing identifying intervals.</para>
+
+   <para id="p0b">Scientists usually describe the distance between two pitches in terms of the difference between their <link document="m11060" strength="3">frequencies</link>. Musicians find it more useful to talk about interval. Intervals can be described using <link document="m10866" strength="3">half steps and whole steps</link>. For example, you can say "B natural is a half step below C natural", or "E flat is a step and a half above C natural". But when we talk about larger intervals in the <link document="m10862">major/minor system</link>, there is a more convenient and descriptive way to name them.</para>
+
+</section>
+<section id="s1">	
+   <title>Naming Intervals</title>
+
+    <para id="p1a">
+The first step in naming the interval is to find the distance between the notes <emphasis>as they are written on the staff</emphasis>. Count every line and every space in between the notes, as well as the lines or spaces that the notes are on. This gives you the number for the interval.
+    </para>
+
+    <example id="exam1a">
+      <figure id="fig7ab"><title>Counting Intervals</title>
+<media id="id1171655225541" alt=""><image src="../../media/IntervalFig1.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig1-0.eps" mime-type="application/postscript"/></media>  </figure>
+
+     <para id="pexam1a">To find the interval, count the lines or spaces that the two notes are on as well as all the lines or spaces in between. The interval between B and D is a third. The interval between A and F is a sixth.
+Note that, at this stage, <link document="m10881">key signature</link>, <link document="m10941">clef</link>, and <link document="m10943" target-id="p0e">accidentals</link> do not matter at all.</para>
+    </example>
+
+    <para id="p1b">
+The <term>simple intervals</term> are one octave or smaller.
+    </para>
+
+    <figure id="fig7c"><title>Simple Intervals</title>
+
+     <media id="id1171661527452" alt=""><image src="../../media/IntervalFig2.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig2-0.eps" mime-type="application/postscript"/></media>
+    </figure>
+
+    <para id="p1ca">If you like you can listen to each interval as written in <link target-id="fig7c"/>: <link resource="prime.mid">prime</link>, <link resource="second.mid">second</link>, <link resource="third.mid">third</link>, <link resource="fourht.mid">fourth</link>, <link resource="fifth.mid">fifth</link>, <link resource="sixth.mid">sixth</link>, <link resource="seventh.mid">seventh</link>, <link resource="octave.mid">octave</link>.
+    </para>
+
+    <para id="p1c">
+<term>Compound intervals</term> are larger than an octave.
+    </para>
+
+    <figure id="fig7d"><title>Compound Intervals</title>
+     <media id="id1171659818858" alt=""><image src="../../media/IntervalFig3.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig3-0.eps" mime-type="application/postscript"/></media>
+    </figure>
+
+    <para id="p1cb">Listen to the compound intervals in <link target-id="fig7d"/>: <link resource="ninth.mid">ninth</link>, <link resource="tenth.mid">tenth</link>, <link resource="eleventh.mid">eleventh</link>.
+    </para>
+
+   <exercise id="exer1a">
+
+   <problem id="id1171657905960">
+    <para id="prob1a">
+Name the intervals.
+    </para>
+    <figure id="fig7e"><media id="id1171666511713" alt=""><image src="../../media/IntervalFig4.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig4-0.eps" mime-type="application/postscript"/></media>
+    </figure>
+   </problem>
+
+   <solution id="id1171656889585">
+    	<figure id="fig7f"><media id="id3152036" alt=""><image src="../../media/IntervalFig5.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig5-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+    </solution>
+   </exercise>
+
+   <exercise id="exer1b">
+
+    <problem id="id1171655688578">
+     <para id="prob1b">
+Write a note that will give the named interval.
+     </para>
+	<figure id="fig7p"><media id="id1171658677050" alt=""><image src="../../media/IntervalFig6.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig6-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+    </problem>
+
+    <solution id="id1171655362497">
+     <figure id="fig7g"><media id="id1171661082681" alt=""><image src="../../media/IntervalFig7.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig7-0.eps" mime-type="application/postscript"/></media>     </figure>
+     
+    </solution>
+
+   </exercise>
+
+
+   </section>
+   <section id="s2">	
+     <title>Classifying Intervals</title>
+
+    <para id="p2a">So far, the actual distance, in half-steps, between the two notes has not mattered. But a third made up of three half-steps sounds different from a third made up of four half-steps. And a fifth made up of seven half-steps sounds very different from one of only six half-steps. So in the second step of identifying an interval, <link document="m10941">clef</link>, <link document="m10881">key signature</link>, and <link document="m10943" target-id="p0e">accidentals</link> become important.
+	</para>
+
+	<figure id="fig7hi"><media id="id1171657907854" alt=""><image src="../../media/IntervalFig8.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig8-0.eps" mime-type="application/postscript"/></media>
+		<caption>A to C natural and A to C sharp are both thirds, but A to C sharp is a larger interval, with a different sound. The difference between the intervals A to E natural and A to E flat is even more noticeable.</caption>
+	</figure>
+
+        <para id="p2ba">Listen to the differences in the <link resource="twothirds.mid">thirds</link> and the <link resource="twofifths.mid">fifths</link> in <link target-id="fig7hi"/>.
+        </para>
+
+	<para id="p2b">So the second step to naming an interval is to classify it based on the number of <link document="m10866">half steps</link> in the interval. Familiarity with the <link document="m10866" target-id="p0bb">chromatic scale</link> is necessary to do this accurately.
+    </para>
+
+     <section id="s21">	
+     <title>Perfect Intervals</title>
+
+      <para id="p21a">Primes, octaves, fourths, and fifths can be <term>perfect</term> intervals. <note id="id1171666083277">These intervals <emphasis>are never classified as major or minor</emphasis>, although they can be augmented or diminished (see <link target-id="s23" strength="2">below</link>).</note> What makes these particular intervals perfect? The physics of sound waves (<term>acoustics</term>) shows us that the notes of a perfect interval are very closely related to each other. (For more information on this, see <link document="m11060" strength="3">Frequency, Wavelength, and Pitch</link> and <link document="m11118" strength="3">Harmonic Series</link>.) Because they are so closely related, they sound particularly good together, a fact that has been noticed since at least the times of classical Greece, and probably even longer. (Both the octave and the perfect fifth have prominent positions in most of the world's musical traditions.) Because they sound so closely related to each other, they have been given the name "perfect" intervals. <note id="id1171655409815">Actually, modern <link document="m11639" target-id="s22" strength="2">equal temperament</link> tuning does not give the  harmonic-series-based <link document="m11639" target-id="s11" strength="3">pure</link> perfect fourths and fifths. For the music-theory purpose of identifying intervals, this does not matter. To learn more about how tuning affects intervals as they are actually played, see <link document="m11639" strength="2">Tuning Systems</link>.</note>
+       </para>
+       <para id="p21b">A perfect prime is also called a <term>unison</term>. It is two notes that are the same <link document="m10943">pitch</link>. A perfect octave is the "same" note an <link document="m10862" strength="2">octave</link> - 12 half-steps - higher or lower. A <term>perfect 5th</term> is 7 half-steps. A <term>perfect fourth</term> is 5 half-steps. 
+      </para>
+
+      <example id="exam2a">
+       <figure id="fig7j"><title>Perfect Intervals</title>
+        <media id="id6493685" alt=""><image src="../../media/Intervalfig9.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig9-0.eps" mime-type="application/postscript"/></media>
+       </figure>
+       <para id="pexam2a">Listen to the <link resource="P8.mp3">octave</link>, <link resource="P4.mp3">perfect fourth</link>, and <link resource="P5.mp3">perfect fifth</link>.
+       </para>
+      </example>
+
+     </section>
+     <section id="s22">	
+      <title>Major and Minor Intervals</title>
+
+      <para id="p22a">
+Seconds, thirds, sixths, and sevenths can be <term>major intervals</term> or <term>minor intervals</term>. The minor interval is always a half-step smaller than the major interval.
+      </para>
+
+      <list id="list22a">	
+       <title>Major and Minor Intervals</title>
+<item>1 half-step = minor second (m2)</item>
+<item>2 half-steps = major second (M2)</item>
+<item>3 half-steps = minor third (m3)</item>
+<item>4 half-steps = major third (M3)</item> 
+<item>8 half-steps = minor sixth (m6)</item>
+<item>9 half-steps = major sixth (M6)</item>
+<item>10 half-steps = minor seventh (m7)</item>
+<item>11 half-steps = major seventh (M7)</item>
+      </list>
+
+      <example id="exam22a">
+       <figure id="fig7kk"><title>Major and Minor Intervals</title>
+        <media id="id5697921" alt=""><image src="../../media/IntervalFig10.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig10-0.eps" mime-type="application/postscript"/></media>
+       </figure>
+       <para id="pexam22a">Listen to the <link resource="min2.mp3">minor second</link>, <link resource="M2.mp3">major second</link>, <link resource="min3.mp3">minor third</link>, <link resource="M3.mp3">major third</link>, <link resource="min6.mp3">minor sixth</link>, <link resource="M6.mp3">major sixth</link>, <link resource="min7.mp3">minor seventh</link>, and <link resource="M7.mp3">major seventh</link>.
+       </para>
+      </example><exercise id="element-623"><problem id="id2982271">
+       <para id="prob2a">Give the complete name for each interval.
+       </para>
+       <figure id="fig7m"><media id="id8839504" alt=""><image src="../../media/IntervalFig13a.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig13a-0.eps" mime-type="application/postscript"/></media>
+       </figure>
+      </problem>
+
+      <solution id="id1980113">
+      	<figure id="fig7q"><media id="id1171663244865" alt=""><image src="../../media/IntervalFig14a.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig14a-0.eps" mime-type="application/postscript"/></media>
+		
+		</figure>	
+      </solution></exercise><exercise id="element-47"><problem id="id8785364">
+       <para id="prob2b">
+Fill in the second note of the interval given.
+       </para>
+       <figure id="fig7n"><media id="id1171666255838" alt=""><image src="../../media/IntervalFig15.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig15-0.eps" mime-type="application/postscript"/></media>
+       </figure>
+      </problem>
+
+      <solution id="id8241310">
+       <figure id="fig7o"><media id="id1171671645569" alt=""><image src="../../media/IntervalFig16a.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig16a-0.eps" mime-type="application/postscript"/></media>                                                               </figure>
+       
+      </solution></exercise>
+
+     </section>
+     <section id="s23">	
+      <title>Augmented and Diminished Intervals</title>
+
+      <para id="p23a">If an interval is a half-step larger than a perfect or a major interval, it is called <term>augmented</term>. An interval that is a half-step smaller than a perfect or a minor interval is called <term>diminished</term>. A <link document="m10943" target-id="p0f">double sharp</link> or <link document="m10943" target-id="p0f">double flat</link> is sometimes needed to write an augmented or diminished interval correctly. Always remember, though, that it is the actual distance in half steps between the notes that determines the type of interval, not whether the notes are written as natural, sharp, or double-sharp.
+      </para>
+
+      <example id="exam23a">
+       <figure id="fig7l"><title>Some Diminished and Augmented Intervals</title>
+        <media id="id1171662379055" alt=""><image src="../../media/IntervalFig11.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig11-0.eps" mime-type="application/postscript"/></media>
+       </figure>
+       <para id="pexam23a">Listen to the <link resource="aug1.mid">augmented prime</link>, <link resource="dim2.mid">diminished second</link>, <link resource="aug3.mid">augmented third</link>, <link resource="dim6.mid">diminished sixth</link>, <link resource="aug7.mid">augmented seventh</link>, <link resource="dim8.mid">diminished octave</link>, <link resource="aug4.mid">augmented fourth</link>, and <link resource="dim5.mid">diminished fifth</link>. Are you surprised that the augmented fourth and diminished fifth sound the same?
+       </para>
+      </example>
+
+   <exercise id="ex2a">
+    <problem id="id1171660360389">
+     <para id="prob23a">
+Write a note that will give the named interval.
+     </para>
+	<figure id="figprob23a"><media id="id1171664306207" alt=""><image src="../../media/AugProb.png" mime-type="image/png"/><image for="pdf" src="../../media/AugProb-0.eps" mime-type="application/postscript"/></media></figure>
+    </problem>
+
+    <solution id="id7740758">
+     <figure id="figsolv3a"><media id="id1171655258064" alt=""><image src="../../media/AugSolv.png" mime-type="image/png"/><image for="pdf" src="../../media/AugSolv-0.eps" mime-type="application/postscript"/></media></figure>
+     
+    </solution>
+   </exercise>
+
+      <para id="p23b">As mentioned above, the diminished fifth and augmented fourth sound the same. Both are six half-steps, or <emphasis>three whole tones</emphasis>, so another term for this interval is a <term>tritone</term>. In  <link document="m11421" strength="2">Western Music</link>, this unique interval, which cannot be spelled as a major, minor, or perfect interval, is considered unusually <link document="m11953" strength="3">dissonant</link> and unstable (tending to want to <link document="m11953" target-id="p0h" strength="2">resolve</link> to another interval).
+      </para>
+      <para id="p23c">You have probably noticed by now that the tritone is not the only interval that can be "spelled" in more than one way. In fact, because of <link document="m11641" strength="2">enharmonic spellings</link>, the interval for any two pitches can be written in various ways. A major third could be written as a diminished fourth, for example, or a minor second as an augmented prime. <emphasis>Always classify the interval as it is written; the composer had a reason for writing it that way.</emphasis> That reason sometimes has to do with subtle differences in the way different written notes will be interpreted by performers, but it is mostly a matter of placing the notes correctly in the context of the <link document="m10851">key</link>, the <link document="m11654" target-id="l0b">chord</link>, and the evolving <link document="m11654">harmony</link>. (Please see <link document="m11643" strength="3">Beginning Harmonic Analysis</link> for more on that subject.)
+      </para>
+      <figure id="fig23a"><title>Enharmonic Intervals</title>
+<media id="id2985375" alt=""><image src="../../media/intervalfig12.png" mime-type="image/png"/><image for="pdf" src="../../media/intervalfig12-0.eps" mime-type="application/postscript"/></media>
+<caption>Any interval can be written in a variety of ways using <link document="m11641">enharmonic</link> spelling. Always classify the interval as it is written.</caption>
+
+      </figure>
+
+
+     
+
+
+     
+
+   </section>
+   </section>   
+   <section id="s3">
+     <title>Inverting Intervals</title>
+
+     <para id="p3a">To <term>invert</term> any interval, simply imagine that one of the notes has moved one octave, so that the higher note has become the lower and vice-versa. Because inverting an interval only involves moving one note by an octave (it is still essentially the "same" note in the tonal system), intervals that are <term>inversions</term> of each other have a very close relationship in the <link document="m10862">tonal</link> system.
+     </para>
+     <figure id="fig3a"><title>Inverting Intervals</title>
+        <media id="id1171660723849" alt=""><image src="../../media/IntervalFig17.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig17-0.eps" mime-type="application/postscript"/></media></figure>
+     <list id="l3a" list-type="enumerated">
+  <title>To find the inversion of an interval</title>
+  <item>
+To name the new interval, subtract the name of the old interval from 9.
+  </item>
+  <item>
+The inversion of a perfect interval is still perfect.
+  </item>
+  <item>
+The inversion of a major interval is minor, and of a minor interval is major.
+  </item>
+  <item>
+The inversion of an augmented interval is diminished and of a diminished interval is augmented.
+  </item>
+     </list>
+
+    <example id="exam3a">
+      <figure id="figexam3a"><media id="id1171666028790" alt=""><image src="../../media/Intervalfig18.png" mime-type="image/png"/><image for="pdf" src="../../media/IntervalFig18-0.eps" mime-type="application/postscript"/></media></figure>
+    </example>
+
+     <exercise id="exer3a">
+
+      <problem id="id6527222">
+       <para id="prob3a">
+What are the inversions of the following intervals? 
+       </para>
+     <list id="probl3a" list-type="enumerated"><item>
+Augmented third
+        </item>
+       <item>
+Perfect fifth
+        </item>
+        <item>
+Diminished fifth
+        </item>
+       <item>
+Major seventh
+        </item>
+        <item>
+Minor sixth
+        </item>
+      </list>
+      </problem>
+
+      <solution id="id3442018">
+     <list id="solvl3a" list-type="enumerated">
+        <item>
+Diminished sixth
+        </item>
+       <item>
+Perfect fourth
+        </item>
+        <item>
+Augmented fourth
+        </item>
+       <item>
+Minor second
+        </item>
+        <item>
+Major third
+        </item>
+      </list>
+   </solution>
+     </exercise>
+
+   </section><section id="eip-605"><title>Summary</title><para id="eip-912">
+Here is a quick summary of the above information, for reference.
+</para><table id="eip-230" summary="Table listing all intervals from unison to octave, including interval size, common spelling, alternate spelling, examples, and interval inversion.">
+<tgroup cols="6"><tbody>
+  <row>
+    <entry><emphasis>Number of half steps</emphasis></entry>
+    <entry><emphasis>Common Spelling</emphasis></entry>
+    <entry><emphasis>Example, from C</emphasis></entry>
+    <entry><emphasis>Alternate Spelling</emphasis></entry>
+    <entry><emphasis>Example, from C</emphasis></entry>
+    <entry><emphasis>Inversion</emphasis></entry>
+  </row>
+  <row>
+    <entry>0</entry>
+    <entry>Perfect Unison (P1)</entry>
+    <entry>C</entry>
+    <entry>Diminished Second</entry>
+    <entry>D double flat</entry>
+    <entry>Octave (P8)</entry>
+  </row>
+  <row>
+    <entry>1</entry>
+    <entry>Minor Second (m2)</entry>
+    <entry>D flat</entry>
+    <entry>Augmented Unison</entry>
+    <entry>C sharp</entry>
+    <entry>Major Seventh (M7)</entry>
+  </row>
+  <row>
+    <entry>2</entry>
+    <entry>Major Second (M2)</entry>
+    <entry>D</entry>
+    <entry>Diminished Third</entry>
+    <entry>E double flat</entry>
+    <entry>Minor Seventh (m7)</entry>
+  </row>
+  <row>
+    <entry>3</entry>
+    <entry>Minor Third (m3)</entry>
+    <entry>E flat</entry>
+    <entry>Augmented Second</entry>
+    <entry>D sharp</entry>
+    <entry>Major Sixth (M6)</entry>
+  </row>
+  <row>
+    <entry>4</entry>
+    <entry>Major Third (M3)</entry>
+    <entry>E</entry>
+    <entry>Diminished Fourth</entry>
+    <entry>F flat</entry>
+    <entry>Minor Sixth (m6)</entry>
+  </row>
+  <row>
+    <entry>5</entry>
+    <entry>Perfect Fourth (P4)</entry>
+    <entry>F</entry>
+    <entry>Augmented Third</entry>
+    <entry>E sharp</entry>
+    <entry>Perfect Fifth (P5)</entry>
+  </row>
+  <row>
+    <entry>6</entry>
+    <entry>Tritone (TT)</entry>
+    <entry>F sharp or G flat</entry>
+    <entry>Augmented Fourth or Diminished Fifth</entry>
+    <entry>F sharp or G flat</entry>
+    <entry>Tritone (TT)</entry>
+  </row>
+  <row>
+    <entry>7</entry>
+    <entry>Perfect Fifth (P5)</entry>
+    <entry>G</entry>
+    <entry>Diminished Sixth</entry>
+    <entry>A double flat</entry>
+    <entry>Perfect Fourth (P4)</entry>
+  </row>
+  <row>
+    <entry>8</entry>
+    <entry>Minor Sixth (m6)</entry>
+    <entry>A flat</entry>
+    <entry>Augmented Fifth</entry>
+    <entry>G sharp</entry>
+    <entry>Major Third (M3)</entry>
+  </row>
+  <row>
+    <entry>9</entry>
+    <entry>Major Sixth (M6)</entry>
+    <entry>A</entry>
+    <entry>Diminished Seventh</entry>
+    <entry>B double flat</entry>
+    <entry>Minor Third (m3)</entry>
+  </row>
+  <row>
+    <entry>10</entry>
+    <entry>Minor Seventh (m7)</entry>
+    <entry>B flat</entry>
+    <entry>Augmented Sixth</entry>
+    <entry>A sharp</entry>
+    <entry>Major Second (M2)</entry>
+  </row>
+  <row>
+    <entry>11</entry>
+    <entry>Major Seventh (M7)</entry>
+    <entry>B</entry>
+    <entry>Diminished Octave</entry>
+    <entry>C' flat</entry>
+    <entry>Minor Second (m2)</entry>
+  </row>
+  <row>
+    <entry>12</entry>
+    <entry>Perfect Octave (P8)</entry>
+    <entry>C'</entry>
+    <entry>Augmented Seventh</entry>
+    <entry>B sharp</entry>
+    <entry>Perfect Unison (P1)</entry>
+  </row>
+
+</tbody>
+
+
+
+
+
+
+
+</tgroup><caption>The examples given name the note reached if one starts on C, and goes up the named interval.</caption>
+</table><list id="eip-390"><title>Summary Notes: Perfect Intervals</title><item>A perfect prime is often called a unison. It is two notes of the same pitch.</item>
+<item>A perfect octave is often simply called an octave. It is the next "note with the same name".</item>
+<item>Perfect intervals - unison, fourth, fifth, and octave - are never called major or minor</item></list><list id="eip-651"><title>Summary Notes: Augmented and Diminished Intervals</title><item>An augmented interval is one half step larger than the perfect or major interval.</item>
+<item>A diminished interval is one half step smaller than the perfect or minor interval.</item></list><list id="eip-769"><title>Summary Notes: Inversions of Intervals</title><item>To find the inversion's number name, subtract the interval number name from 9.</item>
+<item>Inversions of perfect intervals are perfect.</item>
+<item>Inversions of major intervals are minor, and inversions of minor intervals are major.</item>
+<item>Inversions of augmented intervals are diminished, and inversions of diminished intervals are augmented.</item></list></section></content>
+  
+</document>

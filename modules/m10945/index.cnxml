@@ -1,0 +1,158 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Duration: Note Lengths in Written Music</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10945</md:content-id>
+  <md:title>Duration: Note Lengths in Written Music</md:title>
+  <md:abstract>In standard music notation, the duration (time length) of a particular note is defined by how long it lasts compared to a whole note.</md:abstract>
+  <md:uuid>4ac2d675-2263-4350-8da5-d369449197e8</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10956/latest/" strength="3">Time Signature</link>
+      <link url="http://cnx.rice.edu/content/m11887/latest/" strength="3">Duration: Rest Lengths</link>
+      <link url="http://cnx.rice.edu/content/m11888/latest/" strength="3">Dots, Ties, and Borrowed Divisions</link>
+      <link url="http://cnx.rice.edu/content/m11648/latest/" strength="2">Tempo</link>
+      <link url="http://cnx.rice.edu/content/m11646/latest/" strength="2">Rhythm</link>
+      <link url="http://cnx.rice.edu/content/m11807/latest/" strength="2">Fractions</link>
+      <link url="http://cnx.rice.edu/content/m11644/latest/" strength="2">Syncopation</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10880/latest/" strength="3">The Staff</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <section id="s1">
+   <title>The Shape of a Note</title>
+
+    <para id="p1a">In standard notation, a single musical sound is written as a <term>note</term>. The two most important things a written piece of music needs to tell you about a note are its pitch - how high or low it is - and its <term>duration</term> - how long it lasts.
+    </para> 
+
+    <para id="p1b">To find out the <link document="m10943" strength="2">pitch</link> of a written note, you look at the <link document="m10941" strength="2">clef</link> and the <link document="m10881" strength="2">key signature</link>, then see what line or space the note is on. The higher a note sits on the <link document="m10880">staff</link>, the higher it sounds. To find out the duration of the written note, you look at the <link document="m11648" strength="3">tempo</link> and the <link document="m10956" strength="3">time signature</link> and then see what the note looks like.
+    </para>
+
+	<figure id="fig23a"><title>The Parts of a Note</title>
+<media id="id13703004" alt=""><image src="../../media/notes1.png" mime-type="image/png"/><image for="pdf" src="../../media/notes1-0.eps" mime-type="application/postscript"/></media>
+                <caption>
+All of the parts of a written note affect how long it lasts.
+                </caption>
+	</figure>
+
+    <para id="p1c">The pitch of the note depends only on what line or space the <term>head</term> of the note is on. (Please see <link document="m10943" strength="2">pitch</link> , <link document="m10941" strength="2">clef</link> and <link document="m10881" strength="2">key signature</link> for more information.) If the note does not have a head (see <link target-id="fig23aa"/>), that means that it does not have one definite pitch.
+    </para>
+
+    <figure id="fig23aa"><title>Notes Without Heads</title>
+<media id="id17531275" alt=""><image src="../../media/headless.png" mime-type="image/png"/><image for="pdf" src="../../media/headless-0.eps" mime-type="application/postscript"/></media>
+        <caption>
+If a note does not have head, it does not have one definite pitch. Such a note may be a pitchless sound, like a drum beat or a hand clap, or it may be an entire chord rather than a single note.
+        </caption>
+    </figure>
+
+
+    <para id="p1ca">
+The head of the note may be filled in (black), or not. The note may also have (or not) a stem, one or more flags, beams connecting it to other notes, or one or more dots following the head of the note. All of these things affect how much time the note is given in the music.
+    <note id="id12339747">A dot that is someplace other than next to the head of the note <emphasis>does not affect the rhythm</emphasis>. Other dots are <link document="m11884" strength="3">articulation</link> marks. They may affect the actual length of the note (the amount of time it sounds), but do not affect the amount of time it must be given. (The extra time when the note could be sounding, but isn't, becomes an unwritten <link document="m11887">rest</link>.) If this is confusing, please see the explanation in <link document="m11884" strength="3">articulation</link>.</note>
+    </para>
+
+  </section>
+  <section id="s2">
+    <title>The Length of a Note</title>
+
+	<figure id="fig23q"><title>Most Common Note Lengths</title>
+<media id="id5516253" alt=""><image src="../../media/notes2.png" mime-type="image/png"/><image for="pdf" src="../../media/notes2-0.eps" mime-type="application/postscript"/></media></figure>
+
+    <para id="p1d">The simplest-looking note, with no stems or flags, is a <term>whole note</term>. All other note lengths are defined by how long they last compared to a whole note. A note that lasts half as long as a whole note is a <term>half note</term>. A note that lasts a quarter as long as a whole note is a <term>quarter note</term>. The pattern continues with <term>eighth notes</term>, <term>sixteenth notes</term>, <term>thirty-second notes</term>, <term>sixty-fourth notes</term>, and so on, each type of note being half the length of the previous type. (There are no such thing as third notes, sixth notes, tenth notes, etc.; see <link document="m11888">Dots, Ties, and Borrowed Divisions</link> to find out how notes of unusual lengths are written.)
+    </para>
+
+	<figure id="fig23b"><media id="id20425248" alt=""><image src="../../media/notes3.png" mime-type="image/png"/><image for="pdf" src="../../media/notes3-0.eps" mime-type="application/postscript"/></media>
+		<caption>
+Note lengths work just like fractions in arithmetic: two half notes or four quarter notes last the same amount of time as one whole note. Flags are often replaced by beams that connect the notes into easy-to-read groups.
+                </caption>
+	</figure>
+
+      <para id="prob1a">You may have noticed that some of the eighth notes in <link target-id="fig23b"/> don't have flags; instead they have a <term>beam</term> connecting them to another eighth note. If flagged notes are next to each other, their flags can be replaced by beams that connect the notes into easy-to-read groups. The beams may connect notes that are all in the same beat, or, in some vocal music, they may connect notes that are sung on the same text syllable. Each note will have the same number of beams as it would have flags.
+	</para>
+
+	<figure id="fig23i"><title>Notes with Beams</title>
+<media id="id20914867" alt=""><image src="../../media/notes4.png" mime-type="image/png"/><image for="pdf" src="../../media/notes4-0.eps" mime-type="application/postscript"/></media>
+                <caption>
+The notes connected with beams are easier to read quickly than the flagged notes. Notice that each note has the same number of beams as it would have flags, even if it is connected to a different type of note. The notes are often (but not always) connected so that each beamed group gets one beat. This makes the notes easier to read quickly.
+                </caption>
+	</figure>
+
+        <para id="prob1aa">
+You may have also noticed that the note lengths sound like fractions in arithmetic. In fact they work very much like fractions: two half notes will be equal to (last as long as) one whole note; four eighth notes will be the same length as one half note; and so on. (For classroom activities relating music to fractions, see <link document="m11807" strength="3">Fractions, Multiples, Beats, and Measures</link>.)
+        </para>
+
+    <example id="ex1a">
+
+	<figure id="figex1a"><media id="id20044213" alt=""><image src="../../media/notes5.png" mime-type="image/png"/><image for="pdf" src="../../media/notes5-0.eps" mime-type="application/postscript"/></media></figure>
+
+    </example>
+
+	<exercise id="exer1a">
+		<problem id="id21497376">
+			<para id="prob1b">
+Draw the missing notes and fill in the blanks to make each side the same duration (length of time).
+      		</para>
+
+	<figure id="fig23j"><media id="id17213705" alt=""><image src="../../media/noteprob1.png" mime-type="image/png"/><image for="pdf" src="../../media/noteprob1-0.eps" mime-type="application/postscript"/></media></figure>
+
+     </problem>
+     <solution id="id13537995">
+		<figure id="fig23k"><media id="id29393222" alt=""><image src="../../media/notesolv1.png" mime-type="image/png"/><image for="pdf" src="../../media/notesolv1-0.eps" mime-type="application/postscript"/></media></figure>
+     </solution>
+    </exercise>
+
+    <para id="p1e">
+So how long does each of these notes actually last? That depends on a couple of things. A written note lasts for a certain amount of time measured in <link document="m10956" target-id="s1" strength="3">beats</link>. To find out exactly how many beats it takes, you must know the <link document="m10956" strength="3">time signature</link>. And to find out how long a beat is, you need to know the <link document="m11648" strength="3">tempo</link>.
+    </para>
+
+    <example id="examp2">
+
+      <figure id="figexamp2"><media id="id13822345" alt=""><image src="../../media/note-examp.png" mime-type="image/png"/><image for="pdf" src="../../media/note-examp-0.eps" mime-type="application/postscript"/></media>
+            <caption>
+In any particular section of a piece of music, a half note is always twice as long as a quarter note. But how long each note actually lasts depends on the time signature and the tempo.
+            </caption>
+      </figure>
+
+    </example>
+
+  </section>  
+
+   <section id="s4">
+    <title>More about Stems</title>
+
+    <para id="p4a">
+Whether a stem points up or down does not affect the note length at all. There are two basic ideas that lead to the rules for stem direction. One is that the music should be as easy as possible to read and understand. The other is that the notes should tend to be "in the staff" as much as reasonably possible.
+    </para>
+    <list id="l4a" list-type="enumerated">
+      <title>Basic Stem Direction Rules</title>
+      <item>
+<emphasis>Single Notes</emphasis> - Notes below the middle line of the staff should be stem up. Notes on or above the middle line should be stem down.
+      </item>
+      <item>
+<emphasis>Notes sharing a stem (block chords)</emphasis> - Generally, the stem direction will be the direction for the note that is furthest away from the middle line of the staff
+      </item>
+      <item>
+<emphasis>Notes sharing a beam</emphasis> - Again, generally you will want to use the stem direction of the note farthest from the center of the staff, to keep the beam near the staff. 
+      </item>
+      <item>
+<emphasis>Different rhythms being played at the same time by the same player</emphasis> - Clarity requires that you write one rhythm with stems up and the other stems down.
+      </item>
+      <item>
+<emphasis>Two parts for different performers written on the same staff</emphasis> - If the parts have the same rhythm, they may be written as block chords. If they do not, the stems for one part (the "high" part or "first" part) will point up and the stems for the other part will point down. This rule is especially important when the two parts cross; otherwise there is no way for the performers to know that the "low" part should be reading the high note at that spot.
+      </item>
+    </list>
+
+	<figure id="fig23h"><title>Stem Direction</title>
+<media id="id16939093" alt=""><image src="../../media/stemdirection.png" mime-type="image/png"/><image for="pdf" src="../../media/stemdirection-0.eps" mime-type="application/postscript"/></media>
+<caption>Keep stems and beams in or near the staff, but also use stem direction to clarify rhythms and parts when necessary.</caption>
+	</figure>
+
+  </section></content>
+  
+</document>

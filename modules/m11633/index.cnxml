@@ -1,0 +1,192 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Modes and Ragas</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11633</md:content-id>
+  <md:title>Modes and Ragas</md:title>
+  <md:abstract>Many musical traditions, in history as well as in the modern world, are based on modes or ragas rather than on major and minor scales.</md:abstract>
+  <md:uuid>1719a1ef-029e-417b-bc0a-00d18226348d</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10866/latest/" strength="2">Half Steps and Whole Steps</link>
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="2">Interval</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m12459/latest/" strength="3">Indian Classical Music: Tuning and Ragas </link>
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="2">Major Scales</link>
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="2">Minor Scales</link>
+      <link url="http://cnx.rice.edu/content/m12502/latest/" strength="2">Listening to Indian Classical Music</link>
+      <link url="http://cnx.rice.edu/content/m11636/latest/" strength="2">Scales that aren't Major or Minor</link>
+      <link url="http://cnx.rice.edu/content/m11639/latest/" strength="1">Tuning Systems</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+  <section id="s0">
+    <title>Introduction</title>
+    
+    <para id="p0a">In many music traditions, including <link document="m11421">Western music</link>, the list of all the notes that are expected or allowed in a particular piece of music is a <link document="m10851">scale</link>. A long tradition of using scales in particular ways has trained listeners to expect certain things from a piece of music. If you hear a song in C major, for example, not only will your ear/brain expect to hear the notes from the C <link document="m10851">major scale</link>, it will expect to hear them grouped into certain <link document="m11654" target-id="l0b">chords</link>, and it will expect the chords to follow each other in certain patterns (<link document="m11654" target-id="l0b">chord progressions</link>) and to end in a certain way (a <link document="m12402">cadence</link>). You don't have to have any musical training at all to have these expectations; you only need to have grown up in a culture that listens to this kind of music. 
+    </para>
+    <para id="p0ab">
+The expectations for music in a minor key are a little different than for music in a major key. But it is important to notice that you can move that song in C major to E major, G flat major, or any other major key. It will sound basically the same, except that it will sound higher or lower. In the same way, all minor keys are so alike that music can easily be <term>transposed</term> from one minor key to another. (For more on this subject, see <link document="m10851">Major Scales</link>, <link document="m10856" strength="3">Minor Scales</link>, <link document="m11636">Scales that aren't Major or Minor</link>, and <link document="m10668" strength="3">Transposition</link>.)
+    </para>
+    <para id="p0b">This sameness is not true for musical traditions that use modes instead of scales. In these traditions, <emphasis>the <term>mode</term>, like a scale, lists the notes that are used in a piece of music. But each mode comes with a different set of expectations in how those notes will be used and arranged.</emphasis> This module introduces several traditions that are very different from each other, but that are all based on modes or ragas rather than on scales:
+    </para>
+    <list id="eip-669"><item><link target-id="s1">the classical Greek modes</link></item>
+<item><link target-id="s2">the medieval church modes</link></item>
+<item><link target-id="s6">modal jazz and folk music</link></item>
+<item><link target-id="s3">Indian classical music</link></item>
+<item><link target-id="s4">Other Nonwestern modal musics</link></item></list><para id="eip-687">Although very different from each other, one thing that these disparate traditions share is that the modes or ragas that they are based on are much more variable than the major and minor scales of the <link document="m10862">tonal system</link>. <link target-id="fig0a"/> shows one example for comparison. The two <link document="m10851">major scales</link> use different notes, but the relationship of the notes to each other is very similar. For example, the pattern of <link document="m10866">half steps and whole steps</link> in each one is the same, and the <link document="m10867">interval</link> (distance) between the <link document="m10851" target-id="p1a">tonic</link> and the <link document="m11643" target-id="s3">dominant</link> is the same. Compare this to the two church modes. The pattern of whole steps and half steps within the <link document="m10862">octave</link> is different; this would have a major effect on a chant, which would generally stay within the one octave range.  Also, the interval between the <link target-id="p2a">finalis</link> and the <link target-id="p2a">dominant</link> is different, and they are in different places within the <link document="m12381">range</link> of the mode. The result is that music in one mode would sound quite different than music in the other mode. You can't simply <link document="m10668">transpose</link> music from one mode to another as you do with scales and keys; modes are too different.</para><figure id="fig0a"><title>Comparison of Scale and Mode</title>
+<media id="id14690819" alt=""><image src="../../media/ScalevsMode.png" mime-type="image/png"/><image for="pdf" src="../../media/ScalevsMode-0.eps" mime-type="application/postscript"/></media>
+      <caption>
+Compare the differences and similarities between the two major scales, and the differences and similarities between the two medieval church modes.
+      </caption>
+    </figure>
+
+    <para id="p0c"><link target-id="fig0a"/> shows two scales and two modes. The two <link document="m10851">major scales</link> use different notes, but the relationship of the notes to each other is very similar. For example, the pattern of <link document="m10866">half steps and whole steps</link> in each one is the same, and the <link document="m10867">interval</link> (distance) between the <link document="m10851" target-id="p1a">tonic</link> and the <link document="m11643" target-id="s3">dominant</link> is the same. Compare this to the two church modes. The pattern of whole steps and half steps within the <link document="m10862">octave</link> is different; this would have a major effect on a chant, which would generally stay within the one octave range.  Also, the interval between the <link target-id="p2a">finalis</link> and the <link target-id="p2a">dominant</link> is different, and they are in different places within the <link document="m12381">range</link> of the mode. The result is that music in one mode would sound quite different than music in the other mode. You can't simply <link document="m10668">transpose</link> music from one mode to another as you do with scales and keys; modes are too different.
+    </para>
+
+  </section>
+
+  <section id="s1">
+    <title>The Classical Greek Modes</title>
+
+    <para id="p1a">We don't have any recordings of ancient music, so we do not know exactly what it sounded like. But we can make some educated guesses as to what music from ancient Greek and Roman times really sounded like, based on their writings. We know, for example, that they used modes based on <term>tetrachords</term>, mini-scales of four notes, in descending <link document="m10943">pitch</link> order, all contained within a stretch of a <link document="m10867" target-id="s21">perfect fourth</link>. We have very detailed descriptions of tetrachords and of Greek music theory (for example, <cite><cite-title>Harmonics</cite-title></cite>, written by Aristoxenus in the fourth century B.C.).</para>
+    <para id="eip-721">The perfect fourth is an interval that occurs naturally, for example in string and wind instrument harmonics (see <link document="m12413">Standing Waves and Musical Instruments</link> for more on this), so we can be pretty certain that we understand that part of ancient Greek music theory. It is more difficult to be certain of the exact tuning of each note within a tetrachord. Enharmonic tetrachords are particularly confusing; it is clear that two of the notes were very close in pitch. As shown in <link target-id="fig1a"/>, they are often notated so that, using modern tuning, the two notes would sound the same. This sameness is a result of equal-tempered tuning, however; other tuning systems have been used which cause enharmonic notes to be tuned slightly differently. (See <link document="m11639">Tuning Systems</link> for more about this.) It is not clear whether these ancient tetrachords actually had only three distinct pitches (it would not be the only time that something existed only to make a theory seem more consistent), or whether the two "enharmonic" notes were actually slightly different. References to "shading" in some of the ancient texts may have referred to differences in tuning.</para><figure id="fig1a"><title>Tetrachords</title><media id="id7691224" alt=""><image src="../../media/tetrachords.png" mime-type="image/png"/><image for="pdf" src="../../media/tetrachords-0.eps" mime-type="application/postscript"/></media>
+      
+    <caption>Here are three possible Greek tetrachords, as nearly as they can be written in <link document="m10880">common notation</link>. It is clear that the outer notes were a perfect fourth apart, but the exact tuning of the inner notes is not certain.</caption></figure>
+    <para id="element-553">
+Since a tetrachord fills the interval of a <link document="m10867" target-id="p21b">perfect fourth</link>, two tetrachords with a <link document="m10866">whole step</link> between the end of one and the beginning of the other will fill an octave. Different Greek modes were built from different combinations of tetrachords.
+  </para>
+<figure id="fig1b"><media id="id9145189" alt=""><image src="../../media/GreekMode.png" mime-type="image/png"/><image for="pdf" src="../../media/GreekMode-0.eps" mime-type="application/postscript"/></media>
+<caption>Each Greek mode was built of two tetrachords in a row, filling an octave.</caption>
+    </figure>
+ 
+    <para id="p1c"><link document="m11421">Western</link> composers often consistently choose <link document="m10856">minor</link> keys over <link document="m10851">major</link> keys (or vice versa) to convey certain moods (minor for melancholy, for example, and major for serene). One interesting aspect of Greek modes is that different modes were considered to have very different effects, not only on a person's mood, but even on character and morality.  This may also be another clue that ancient modes may have had more variety of tuning and pitch than modern keys do.
+    </para>
+
+  </section>
+  <section id="s2">
+    <title>The Medieval Church Modes</title>
+
+    <para id="p2a">Sacred music in the middle ages in Western Europe - Gregorian chant, for example - was also modal, and the medieval <term>church modes</term> were also considered to have different effects on the listener. (As of this writing the site <link url="http://www.recorderhomepage.net/galilei.html">Ricercares by Vincenzo Galilei</link> had a list of the "ethos" or mood associated with each medieval mode.) The names of the church modes were even borrowed from the names of the Greek modes, although the two systems don't really correspond to each other, or usemay have sounded more like some of the traditional raga-based Mediterranean and Middle Eastern musics (see <link target-id="s4">below</link>) than like medieval Western-European church music, and to avoid confusion some people prefer to name the church modes using Roman numerals. </para>
+    <figure id="fig2a"><media id="id14681565" alt=""><image src="../../media/ChurchModes.png" mime-type="image/png"/><image for="pdf" src="../../media/ChurchModes-0.eps" mime-type="application/postscript"/></media>
+      <caption>
+The modes came in pairs which shared the same <foreign>finalis</foreign>.
+      </caption>
+    </figure>
+    <para id="p2b">A mode can be found by playing all the "white key" notes on a piano for one octave. From D to D, for example is Dorian; from F to F is Lydian. Notice that no church modes began on A, B, or C. This is because a B flat was allowed, and the modes beginning on D, E, and F, when they use a B flat, have the same note patterns and relationships as would modes beginning on A, B, and C. After the middle ages, modes beginning on A, B, and C were named, but they are still not considered church modes. Notice that the Aeolian (or the Dorian using a B flat) is the same as an A (or D) <link document="m10856" target-id="p2a">natural minor</link> scale and the Ionian (or the Lydian using a B flat) is the same as a C (or F) major scale. 
+    </para>
+    <figure id="fig2b"><media id="id3983606" alt=""><image src="../../media/othermodes.png" mime-type="image/png"/><image for="pdf" src="../../media/othermodes-0.eps" mime-type="application/postscript"/></media>
+      
+    <caption>These modes are part of the same theoretical system as the church modes, but they were not used in the middle ages.
+      </caption></figure>
+
+     <para id="eip-522">Each of these modes can easily be found by playing its one octave range, or <term>ambitus</term>, on the "white key" notes on a piano. But the Dorian mode, for example, didn't have to start on the pitch we call a D. The important thing was the pattern of half steps and whole steps within that octave, and their relationship to the notes that acted as the modal equivalent of <link document="m10851">tonal centers</link>, the <foreign>finalis</foreign> and the <foreign>dominant</foreign>. Generally, the last note of the piece was the <term>finalis</term>, giving it the same "resting place" function as a modern <link document="m10851" target-id="p1a">tonic note</link>. The <term>dominant</term>, also called the <term>reciting tone</term> or <term>tenor</term>, was the note most often used for long recitations on the same pitch. <note id="eip-id1168673833280">The dominant in modal music did not have the harmonic function that the dominant has in tonal music. See <link document="m11643">harmonic analysis</link> for a discussion of the dominant in modern music.</note></para><para id="element-983">In our modern tonal system, any note may be <link document="m10943">sharp, flat, or natural</link>, but in this modal system, only the B was allowed to vary. The symbols used to indicate whether the B was "hard" (our B natural) or "soft" (our B flat) eventually evolved into our symbols for sharps, flats, and naturals. All of this may seem very arbitrary, but it's important to remember that medieval mode theory, just like our modern music theory, was not trying to invent a logical system of music. It was trying to explain, describe, and systematize musical practices that were already flourishing because people liked the way they sounded.
+  </para>
+      <figure id="fig2c"><media id="id11978971" alt=""><image src="../../media/HardSoftB.png" mime-type="image/png"/><image for="pdf" src="../../media/HardSoftB-0.eps" mime-type="application/postscript"/></media>
+      <caption>
+The modern symbols for sharp, natural, and flat evolved from medieval notation indicating what type of B should be used.
+      </caption>
+    </figure>
+  <para id="p2c">The <link document="m11639">tuning system</link> used in medieval Europe was also not our familiar <link document="m11639" target-id="s22">equal temperament</link> system. It was a <link document="m11639" target-id="p12a">just intonation</link> system, based on a <link document="m11639" target-id="s11">pure</link> <link document="m10867" target-id="p21a">perfect fifth</link>. In this system, <link document="m10866">half steps</link> are not all equal to each other. Slight adjustments are made in tuning and intervals to make them more pleasant to the ear; and the medieval ear had different preferences than our modern ears. This is another reason that modes sounded very different from each other, although that particular difference may be missing today when chant is sung using equal temperament.
+    </para>
+
+  </section>
+
+  <section id="s6">
+   <title>Modal Jazz and Folk Music</title>
+   
+    <para id="p6a">Some jazz and folk music is also considered modal and also uses the Greek/medieval mode names. In this case, the scales used are the same as the medieval church modes, but they do not have a reciting tone and are used much more like modern major and minor scales. Modal European (and American) folk music tends to be older tunes that have been around for hundreds of years. Modal jazz, on the other hand, is fairly new, having developed around 1960.
+    </para>
+    <para id="p6b">
+It is important to remember when discussing these types of music that it does not matter what specific note the modal scale starts on. What matters is the pattern of notes within the scale, and the relationship of the pattern to the <link document="m10851" target-id="p1a">tonic</link>/<link document="m11633" target-id="p2a">finalis</link>. For example, note that the Dorian "scale" as written above starts on a D but basically has a C major key signature, resulting in the third and seventh notes of the scale being a <link document="m10866">half step</link> lower than in a D major scale. (A jazz musician would call this <term>flatted</term> or <term>flat</term> thirds and sevenths.) So <emphasis>any scale with a flatted third and seventh can be called a Dorian scale</emphasis>.
+    </para>
+ <exercise id="ex6a">
+  <problem id="id7750639">
+    <para id="pex6a">You need to know your <link document="m10851">major keys</link> and <link document="m10867">intervals</link> to do this problem. Use the list of "white key" modes in <link target-id="fig2a"/> to figure out the following information for each of the four modes below. Before looking at the solutions, check your own answers to make sure that the answers you get for step 2 and step 4 are in agreement with each other.
+    </para>
+    <list id="problem" list-type="enumerated"><item>
+List the flats and sharps you would use if this were a major scale rather than a mode.
+      </item>
+      <item>
+In this mode, which scale tones are raised or lowered from the major key?
+      </item>
+      <item>
+What is the interval between the mode and the major key with the same key signature?
+      </item>
+      <item>
+List the flats or sharps in this key signature.
+      </item>
+      <item>
+Write one octave of notes in this mode. You may print out this <link resource="staffpaper1.pdf">PDF file</link> if you need staff paper. Check to make sure that your "modal scale" agrees with all the things that you have written about it already.
+      </item>
+    </list>
+    <list id="element-783" list-type="enumerated"><title>Example</title>
+<item>
+D major has 2 sharps: F sharp and C sharp. 
+</item>
+<item>
+Looking at <link target-id="fig2a"/>, you can see that the Lydian mode starts on an F. The key of F major would have a B flat, but in the mode this is raised one half step, to B natural. Therefore <emphasis>the fourth degree of the Lydian mode is raised one half step</emphasis>.
+</item>
+	<item>F lydian has the same key signature as C major, which is a perfect fourth lower. So all Lydian modes have the same key signature as the major key a perfect fourth below them.</item>
+	<item>We want D Lydian. The major scale beginning a perfect fourth below D major is A major. A major has three sharps: F sharp, C sharp and G sharp. Adding a G sharp does raise the fourth degree of the scale by one half step, just as predicted in step 2.</item></list><figure id="figexample"><title>Example: D Lydian</title>
+<media id="id5790847" alt=""><image src="../../media/D-Lydian.png" mime-type="image/png"/><image for="pdf" src="../../media/D-Lydian-0.eps" mime-type="application/postscript"/></media></figure>
+    <list id="modes" list-type="enumerated"><item>
+A Dorian
+      </item>
+      <item>
+C Lydian
+      </item>
+      <item>
+B flat Mixolydian
+      </item>
+      <item>
+D Phrygian
+      </item>
+    </list>
+  </problem>
+  <solution id="id8644302">
+    <figure id="fig6a"><media id="id9205198" alt=""><image src="../../media/modeproblem.png" mime-type="image/png"/><image for="pdf" src="../../media/modeproblem-0.eps" mime-type="application/postscript"/></media></figure>
+  </solution>
+ </exercise>
+
+  </section>
+
+  <section id="s3">
+    <title>The Ragas of Classical Indian Music</title>
+
+    <para id="p3a">
+The <link document="m12459">ragas</link> of classical India and other, similar traditions, are more like modes than they are like scales. Like modes, different <foreign>raga</foreign>s sound very different from each other, for several reasons. They may have different interval patterns between the "scale" notes, have different expectations for how each note of the <foreign>raga</foreign> is to be used, and may even use slightly different tunings. Like the modal musics discussed above, individual Indian <foreign>raga</foreign>s are associated with specific moods.
+    </para>
+    <para id="p3aa">In fact, in practice, <foreign>raga</foreign>s are even more different from each other than the medieval European modes were. The <foreign>raga</foreign> dictates how each note should be used, more specifically than a modal or major-minor system does. Some pitches will get more emphasis than others; some will be used one way in an ascending melody and another way in a descending melody; some will be used in certain types of ornaments. And these rules differ from one <foreign>raga</foreign> to the next. The result is that each <foreign>raga</foreign> is a collection of melodic scales, phrases, motifs, and ornaments, that may be used together to construct music in that <foreign>raga</foreign>. The number of possible ragas is practically limitless, and there are hundreds in common use. A good performer will be familiar with dozens of <foreign>raga</foreign>s and can improvise music - traditional classical music in India is improvised - using the accepted format for each <foreign>raga</foreign>. 
+    </para>
+    <para id="p3b">The <foreign>raga</foreign> even affects the tuning of the notes. Indian classical music is usually accompanied by a <foreign>tanpura</foreign>, which plays a drone background. The <foreign>tanpura</foreign> is usually tuned to a <link document="m11639" target-id="s11">pure</link> <link document="m10867" target-id="p21a">perfect fifth</link>, so, just as in medieval European music, the tuning system is a <link document="m11639" target-id="p12a">just intonation</link> system. As in <link document="m11421">Western</link> just intonation, the octave is divided into twelve possible notes, only some of which are used in a particular <foreign>raga</foreign> (just as Westerners use only some of the twelve notes in each key). But as was true for the <link target-id="s2">church modes</link>, using the pure perfect fifth means that some "half steps" will be larger than others. (If you would like to understand why this is so, please see <link document="m13686">Harmonic Series II</link> and <link document="m11639">Tuning Systems</link>.) Even though the variations between these different "half steps" are small, they strongly affect the sound of the music. So, the tuning of some of the notes (not the ones dictated by the <foreign>tanpura</foreign>) may be adjusted to better suit a particular <foreign>raga</foreign>. (Please see <link document="m12502">Listening to Indian Classical Music</link> and <link document="m12459">Indian Classical Music: Tuning and Ragas</link> for more information on this subject.)
+    </para>
+
+  </section>
+
+  <section id="s4">
+    <title>Other Non-Western Modal Musics</title>
+
+    <para id="p4a">To the average Western listener, medieval European chant and classical Indian music are the two most familiar traditions that are not based on major and minor scales. But many other musical traditions around the world are not based on Western scales. Some of these have modes similar to the medieval Church modes; they also tend to be a list of notes (or a pattern of <link document="m10867">intervals</link>) used with a specific <foreign>finalis</foreign>, which may encourage certain types of melodies. While the church mode/jazz mode tradition features <link document="m11421" target-id="p7f">diatonic</link> modes (which can be played using only the white keys of a piano), non-Western modes may use <link document="m11636">other types of scales</link>. 
+    </para>
+    <para id="p4b">In other music traditions, modes are much more like Indian <foreign>ragas</foreign>, featuring important variations in tuning and melodic expectations from one mode to the next, so that each mode may be seen as a collection of related melodic ideas, phrases, and ornamentations that are traditionally played with a certain set of notes tuned in a certain way. (Some non-Indian traditions even use the term <foreign>raga</foreign>.) All of these musics have long traditions that are very different from the familiar major-minor tonal system, and usually also have a different approach to harmony, rhythm, and performance practice.
+    </para>
+
+  </section>
+  <section id="s5">
+    <title>Bibliography</title>
+
+    <para id="p5a">Donald Jay Grout's <cite><cite-title>A History of Western Music</cite-title></cite> introduces both Greek and medieval modes. Lee Evans's <cite><cite-title>Modes and Their Use in Jazz</cite-title></cite> is both comprehensive and accessible for any musician who wants to begin to study that subject. For Western musicians, an introduction to <foreign>ragas</foreign>, that is neither too vague nor too technical, does not seem to be available as of this writing.
+    </para>
+
+  </section>
+
+  </content>
+  
+</document>

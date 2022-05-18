@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" width="417" height="301"
+	 viewBox="-0.042 0.172 417 301" overflow="visible" enable-background="new -0.042 0.172 417 301" xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+@font-face{font-family:'BookAntiqua-Bold';src:url("data:;base64,\
+T1RUTwACACAAAQAAQ0ZGIGPGkbIAAAAsAAABwGNtYXAACwBXAAAB7AAAADQBAAQCAAEBARFCb29r\
+QW50aXF1YS1Cb2xkAAEBATX4GwH4FAT7pv1HHAmLHAgsBR6gAEiCgSX/i4seoABIgoEl/4uLDAf3\
+Wg/3YRD3YxGL+FQSAAEBAW5Cb29rIEFudGlxdWEoVE0pIGlzIGEgdHJhZGVtYXJrIG9mIFRoZSBN\
+b25vdHlwZSBDb3Jwb3JhdGlvbiB3aGljaCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1\
+cmlzZGljdGlvbnMuAAABAAEAAAkBAAAABAEBHSCH6hwGAPeUFhwFAPqUHPsAB/50qxX6VBwEwP5U\
+Bg74lA75PvkX/C8VWE0m3jnmS+wZS+xa9wBq9wkIavcJevcW9yMa9yOc9xas9wkerPcJvPcAy+zL\
+7N3m8N6+TRhPOF8/bkRuRHU2fioIfiqE+yb7Vxr7W5L7JpgsHpgsoTeoRKhEtz7HOAgO+T6y/C8V\
+x9642KjSqNKg35jsCJjskvcm91ca91uE9yd+6h5+6XbebtNu0l7YT96+yRjwON0xyyrLKrz7AKz7\
+CQis+wmc+xf7Ixr7I3r7F2r7CR5q+wla+wBLKksqOTEmOAgOAAAAAQAAAAMAAAAMAAQAKAAAAAYA\
+BAABAAIAIAAp//8AAAAgACj////h/9oAAQAAAAAAAPMVYWhrSnAfcU9+RTwacY1yjnMewLS3ubC8\
+")}
+@font-face{font-family:'Maestro';src:url("data:;base64,\
+T1RUTwACACAAAQAAQ0ZGIGvruYkAAAAsAAADWWNtYXD/nrFJAAADiAAAAEwBAAQCAAEBAQhNYWVz\
+dHJvAAEBAR34GwwA+BgE+yr+aBwF4hwFsQXrD4wQ9hGL+e0SAAEBASlDb3B5cmlnaHQgKGMpIDE5\
+OTkgQ29kYSBNdXNpYyBUZWNobm9sb2d5AAAAAAQABwAyAE8AUgAGAgABABgAbwIpAm8CmALe+IjK\
+FviB+Av8gQf7zcoV9474BPuOBg73gPc+6RUpawX7KQftqwX7PvdZFbaZBfc3qPstB+2rBfcmqPsd\
+B7KYBSMHZH4F+ygHspcFJAdkfgX7N273LgcpawX7KG73HgdgfQXzB7aZBfcpB2B9BQ75Wfhm+5AV\
+h3JwiW4bTV2SmW4fLrhJwmTMb7p6yobZhsybzq7SqciywLu4urjBuMe4iJyGrIW8CIi5iaucGruP\
+uZO2HpOyn7mswK/FqqimjAihpGpJph+mSZlSjFyMTIVVfV6CbXlmcl6AeXVtamKCf35/fH5+gX6B\
+foCs+1YYjJSUjJYbyLp/cqwfyl2tSZE2kFB9VGxYaVRZYUlwlE6TUZRUCJBqjW50GmuGcoF4HmZG\
+VGdAhl6IYJVgoFalb7GIvIivkqqcpJ6pppuwjaSNo4OieaJ4l3SNcJBPZmI8dQhxna9+wRuop5Sc\
+ph+mnKChmqUIlJyQpq4aoImjiKYegsSCw4LECKAcBPMVYWhrSnAfcU9+RTwacY1yjnMewLS3ubC8\
+ucigwIi4h8V3qGeKCFH+ARXD+/HgqLHMhPIZg/VSviCGCHGJFVqKZ3pyanhyg26NbIx0k3Occ5ty\
+nXqegYiJh4eIhmSeb6B5pHCvfLOIt4mokqqaqwicrqOoq6SjnqaYqpJt90kYdH5rcWBkVlxlYHNm\
+VzpzRpBQkEKsTchXCFbI0nHdG6aljpGmH3f3C3j3Cnj3CggO9+qT9xYVmK+lqbKksqSzl7WKCK2m\
+gnqgH6B6lXVwGn6If4Z+Hn5ncW1kcghyZGJ/YRtijGyYdqQI/a94+eYHl46XkJgeDvda9x7nFfsG\
+bQX7MQf3BqkF+wb3cxX3ILEF/M9x92oH+x9nBfjWpAcO99+P9xYVmK+mqbKksqSzl7WKCLSqfnKg\
+H/m1nv3mB3uJfIZ+Hn5ocW1kcghyZGJ/YRtpjHCUd5wIdpyBoaYal42YkJgeDgAAAAAAAAEAAAAD\
+AAAADAAEAEAAAAAMAAgAAgAE8CPwJvBR8G7wcf//AADwI/Am8FHwbvBx//8P3g/cD7IPlg+UAAEA\
+AAAAAAAAAAAAAAA=")}
+@font-face{font-family:'Myriad-Roman';src:url("data:;base64,\
+T1RUTwADACAAAQAQQ0ZGIJib5u4AAAA8AAAGlUdQT1OyYMC2AAAHUAAAAXJjbWFwAv0CvgAABtQA\
+AAB8AQAEAgABAQENTXlyaWFkLVJvbWFuAAEBASD4GwH4GARd+476+vnTBR0AAKQDDfd9D/efEcUc\
+BlsSAAEBAapDb3B5cmlnaHQgKGMpIDE5OTIsIDE5OTQgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0\
+ZWQuICBBbGwgUmlnaHRzIFJlc2VydmVkLk15cmlhZCBpcyBhIHRyYWRlbWFyayBvZiBBZG9iZSBT\
+eXN0ZW1zIEluY29ycG9yYXRlZCBtYXkgYmUgcmVnaXN0ZXJlZCBpbiBjZXJ0YWluIGp1cmlzZGlj\
+dGlvbnMuAAABAAEAACIAACUAACkAAC4BAEIAAEQCAEoAAE0DAFMAAFUBABMCAAEAAgADAEgAoQDK\
+ATIBhAH2AjcCpgMBAzUDSAPCBAoESwSVBNsFJg4OxKB292jP99HYAaT4yAP4PPdoFdP7aAXoBvt6\
++TYFIgb7ef02BeUG0fdoBZ3PFc33V5i0lrWUshmOBpVklWOZX877VhgO9wOF0fi20AHW4/gL5wPW\
+jRWFuL6Jyhv3F/Otyssfycmu5fcCGvcBaNpOwh7CUDKn+xEbRkyFg1Uf40sVkKKtj7gb90zlKPs1\
+ih/7SiYi+06MHmlri491Hw7soHb30Nf3rncB1uP32uMD1vk2Ff024/fQ99r70OP5NjP7rvva964H\
+DveNoHb43+IBxflEA/koFuEGYfk2BfsDBvsM+9ptNnNBeUcZiQZ50XXVb977B/faGPsDBlz9NgXe\
+Bp33tZHxkPcEjd8ZjQaeO6U1qyv3AvvVGM0G9wv3263opuCj2RmNBjiR+waQLR4O8ov3Bi52+Mv2\
+i3cS19336t0TXPcyFve0BxNs9wSK3IbgHo6MrEK4PrpAGfdq++oF4/k2OfuvBhOcI405kzEeiIps\
+0WPRWtoZ+2v36QUr/TYGDkKAzGp294vI9w7MEq7j91/jE7z4Mve9Fexn8PspTlB6cmMen1AFoq26\
+mLkb7oyWQmMagQf7T4wjS/sJGkW9Ru3QwK2xpR6OBhN8k04F2gaGrIm0tRo1uhUTvIKKgYiCHmJ9\
+YmNLG19lpcXp9wGc64kfDiCA0vgB0QGx5AP4J94VgHJqf1kbK0PQ9wTwx973A7usf4CgH5/OBZhz\
+XZhXG/syJfsB+yn7Keoo9ybMvpyWoh8OlIDSZHb4PtD3a3cSseT3qOMTvPgn+VoV+7SJB7F2Wa5A\
+G/sJJin7Nowf+yfmKPcJ2sW0waYejQYTfI83BdoGiKyKvLYa+N0HM/yPFX2Kf4h/HhO8SntVY1Ab\
+LVrc7vXB2+bNu11UmB+Of4x9fxoOVYHQ/wCngAD/AD+AAPcjygGx4PeV4AP4Yvd2FY2VjJmdGuRi\
+9x/7MvshNPsH+yf7JeUo9yjYwZyZqh57yQV+a2SATBszQLz3C4kfjMoVyJKx3eUb7aMzVIofDvvV\
+oHb4eHf3AfcFEsf3BSfjE+j3NRb4eDP8eAcT8Lb40RWuoaWqqnWkaWl0cmxsoXGsHw771aB2+Vp3\
+AdTjA9QW4/laMwYO96ugdvg704B3EtTh923h923hFBwT3NQW4fe4BpqNmpCYHreZtLfBG86tVD0f\
++7bh98AHmo6bj5getZuxsL4b0a5ULR/7puH3sQf3PCy1Sl1sf3VuHnd8d3d8bwiJBsR2WbNKGzpe\
+YF1wH4gGE7yH2QU+Bo1jjWNYGg6LoHb4O9OAdxLU4/eA4xPY1Bbj97gGmY2bj5YevJu4tMQb3qhJ\
+PR/7q+P3tQf3OiOzSDtTXl5zHokGE7iG2gU9Bo5jjGNYGg6FgM34Cs0BseT3ueYD96OAFfcH9xHZ\
+90j3Jy3w+x/7GSAs+zb7LfEr9xYfjc0VNk/b9ee46/LztCQ5+wJMPDcfDvt4oHb4MN6Ad6d3EtXi\
+E8jUFuP3lgaajJmNmB7Ml7e6yRuXlIqKlR8TmN0HE8iNg4SMghtQVWJKdR+IBhOoh+oFPgaOXoxa\
+UhoO+3SA1GN2+DTOEujhE3Do+NEVMkBI1vucBxOwUpVgo3AedKCsfbQbraaRkZwfh84Fh359iXMb\
+Wnqtxx/3mfcSzvsS9wgHDoeA1GJ2+Hh3EtHj93zjE7j4cvh4FTP7vAZ6iHuGfx5je2JiUBs8bsrn\
+H/efM/uvB/s95mDX4b++sqEejQYTeJA8BdkGiLGKt70aDoCW+TaW+12X9y6WvJYG95mQ/GaRcJQH\
+HqBgRYKZ/wwJHnoJmZmfDArOCuMLzpEMDOOPDA33aBT4vxUAAAAAAAABAAAAAwAAAAwABABwAAAA\
+GAAQAAMACAAgAEEARABIAE4AYQBlAGkAbwByAHX//wAAACAAQQBEAEgATQBhAGMAaQBsAHIAdP//\
+/+H/wf+//7z/uP+m/6X/ov+g/57/nQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAKAB4A\
+LAABREZMVAAIAAQAAAAA//8AAQAAAAFrZXJuAAgAAAABAAAAAQAEAAIAAAABAAgAAQEqAAQAAAAM\
+ACIAVABuAHgAmgCsALIAyADOANQA5gEYAAwABwAEAAj/9AAJ//QACv/0AAv//QAM//0ADf/9AA7/\
+/QAP//UAEP/9ABH/9gAS//QABgAH//4ACgAGAAsAAgAPAAYAEAACABIAAgACAAoAAQAPAAEACAAH\
+AAYACAAGAAkABgAKAAYACwANAA4ACwAPAAUAEgADAAQAB//+AAr//wAP//8AEv//AAEAEf/8AAUA\
+BwABAAn/+gAK//oAD//6ABEADQABABH//AABABH//AAEAAgAAQAJAAEACgABAA8AAQAMAAf/+gAI\
+//oACf/6AAr/+gALAAQADAAEAA0ABAAOAAQAD//6ABAABAARABgAEv/+AAQACP/6AAn/+gAK//oA\
+D//6AAIAAgACAAgAAAANABEABwAA")}
+	]]>
+	</style>
+	<g id="Layer_1_2_">
+		<g>
+			<path fill="none" stroke="#000000" d="M0.111,29.166h415.222"/>
+			<path fill="none" stroke="#000000" d="M0.111,44.277h415.222"/>
+			<path fill="none" stroke="#000000" d="M0.318,51.4H415.54"/>
+			<path fill="none" stroke="#000000" d="M0,58.784h415.22"/>
+			<path fill="none" stroke="#000000" d="M0,36.419h415.22"/>
+		</g>
+		<text transform="matrix(1 0 0 1 180.1997 102)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 10.9238 52.6899)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 65.1997 47)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 39.5786 50.5522)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 230.1997 171.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 90.1997 43)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 115.1997 40)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 139.1997 36)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 165.1997 32)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 189.1997 29)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M211.303,21.035h12"/>
+			<text transform="matrix(1 0 0 1 213.1997 24)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<text transform="matrix(1 0 0 1 236.1997 28)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 258.1997 33)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 283.1997 36)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 306.2002 40)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 330.2002 43)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 355.2002 47)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 381.5791 50.5522)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M0.111,105.166h415.222"/>
+			<path fill="none" stroke="#000000" d="M0.111,120.277h415.222"/>
+			<path fill="none" stroke="#000000" d="M0.318,127.4H415.54"/>
+			<path fill="none" stroke="#000000" d="M0,134.784h415.22"/>
+			<path fill="none" stroke="#000000" d="M0,112.419h415.22"/>
+		</g>
+		<text transform="matrix(1 0 0 1 10.9238 128.6899)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 65.1997 122.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 39.5786 126.5522)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 90.1997 118.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 115.1997 115.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 139.1997 112)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 165.1997 108)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 189.1997 105)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M207.303,97.035h12"/>
+			<text transform="matrix(1 0 0 1 209.1997 100)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<text transform="matrix(1 0 0 1 236.1997 104)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 258.1997 109)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 283.1997 112)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 306.2002 115.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 330.2002 118.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 355.2002 122.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 381.5791 126.5522)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M1.111,178.166h415.222"/>
+			<path fill="none" stroke="#000000" d="M1.111,193.277h415.222"/>
+			<path fill="none" stroke="#000000" d="M1.318,200.4H416.54"/>
+			<path fill="none" stroke="#000000" d="M1,207.784h415.22"/>
+			<path fill="none" stroke="#000000" d="M1,185.419h415.22"/>
+		</g>
+		<text transform="matrix(1 0 0 1 11.9238 201.6899)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 66.1997 195.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 40.5786 199.5522)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 91.1997 191.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 116.1997 188.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 140.1997 184.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 166.1997 180.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 190.1997 177.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M211.303,170.035h12"/>
+			<text transform="matrix(1 0 0 1 213.1997 172.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<text transform="matrix(1 0 0 1 237.1997 176.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 259.1997 181.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 284.1997 184.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 307.2002 188.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 331.2002 191.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 356.2002 195.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 382.5791 199.5522)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 225.4526 101.2427)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 219.3032 103.0347)"><tspan x="0" y="0" font-family="'BookAntiqua-Bold'" font-size="14">(  )</tspan></text>
+		<text transform="matrix(1 0 0 1 156.1997 177.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 181.1997 173.9995)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 250.4526 178.2427)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 0.3032 21.0347)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">A Natural Minor</tspan></text>
+		<text transform="matrix(1 0 0 1 2.3032 96.0347)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">A Harmonic Minor</tspan></text>
+		<text transform="matrix(1 0 0 1 1.3032 171.0347)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">A Melodic Minor</tspan></text>
+		<text transform="matrix(1 0 0 1 156.5444 254.5171)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M0.456,253.683h415.222"/>
+			<path fill="none" stroke="#000000" d="M0.456,268.794h415.222"/>
+			<path fill="none" stroke="#000000" d="M0.663,275.917h415.222"/>
+			<path fill="none" stroke="#000000" d="M0.345,283.301h415.22"/>
+			<path fill="none" stroke="#000000" d="M0.345,260.937h415.22"/>
+		</g>
+		<text transform="matrix(1 0 0 1 11.2686 277.207)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 65.5444 271.5166)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 39.9233 275.0693)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 90.5444 267.5166)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 115.5444 264.5166)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 139.5444 260.5171)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 165.5444 257.5171)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 189.5444 253.5171)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<g>
+			<path fill="none" stroke="#000000" d="M208.648,245.552h12"/>
+			<text transform="matrix(1 0 0 1 210.5449 248.5171)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		</g>
+		<text transform="matrix(1 0 0 1 231.5449 252.5171)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 258.5449 257.5171)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 283.5449 260.5171)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 306.5449 264.5166)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 330.5449 267.5166)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 355.5449 271.5166)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 381.9238 275.0693)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 248.7969 253.7598)"><tspan x="0" y="0" font-family="'Maestro'" font-size="24"></tspan></text>
+		<text transform="matrix(1 0 0 1 242.6484 255.5518)"><tspan x="0" y="0" font-family="'BookAntiqua-Bold'" font-size="14">(  )</tspan></text>
+		<text transform="matrix(1 0 0 1 2.6479 244.5518)"><tspan x="0" y="0" font-family="'Myriad-Roman'" font-size="12">A Dorian Minor</tspan></text>
+	</g>
+</svg>

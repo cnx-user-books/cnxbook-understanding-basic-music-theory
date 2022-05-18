@@ -1,0 +1,166 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Circle of Fifths</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10865</md:content-id>
+  <md:title>The Circle of Fifths</md:title>
+  <md:abstract>Picturing a circle of fifths can help you identify key signatures, find related keys, and remember the order of sharps and flats in key signatures.</md:abstract>
+  <md:uuid>807afa02-b32a-4ccb-98cb-78e484d61ca2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="2">Physics and Music</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="3">Minor Keys</link>
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Major Keys</link>
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+      <link url="http://cnx.org/content/m10881/latest/" strength="3">Key Signature</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <section id="s1">
+   <title>Related Keys</title>
+    <para id="p0a">
+The circle of fifths is a way to arrange keys to show how closely they are related to each other. 
+    </para>
+
+    <figure id="Circleoffifths"><title>Circle of Fifths</title>
+     <media id="id8725521" alt=""><image src="../../media/CircleofFifths.png" mime-type="image/png"/><image for="pdf" src="../../media/CircleofFifths-0.eps" mime-type="application/postscript"/></media>
+     <caption>
+The major key for each key signature is shown as a capital letter; the minor key as a small letter. In theory, one could continue around the circle adding flats or sharps (so that B major is also C flat major, with seven flats, E major is also F flat major, with 6 flats and a double flat, and so on), but in practice such key signatures are very rare.
+     </caption>
+    </figure>
+
+    <para id="p0b">Keys are not considered closely related to each other if they are near each other in the <link document="m10866" target-id="p0bb">chromatic scale</link> (or on a keyboard). What makes two keys "closely related" is having similar <link document="m10881">key signatures</link>. So the most closely related key to C major, for example, is A minor, since they have the same key signature (no sharps and no flats). This puts them in the same "slice" of the circle. The next most closely related keys to C major would be G major (or E minor), with one sharp, and F major (or D minor), with only one flat. The keys that are most distant from C major, with six sharps or six flats, are on the opposite side of the circle.
+    </para>
+
+    <para id="p0la">The circle of fifths gets its name from the fact that as you go from one section of the circle to the next, you are going up or down by an <link document="m10867" strength="3">interval</link> of a <link document="m10867" target-id="s21" strength="3">perfect fifth</link>. If you go up a perfect fifth (clockwise in the circle), you get the key that has one more sharp or one less flat; if you go down a perfect fifth (counterclockwise), you get the key that has one more flat or one less sharp. Since going down by a perfect fifth is the same as going up by a <link document="m10867" target-id="p21b">perfect fourth</link>, the counterclockwise direction is sometimes referred to as a "circle of fourths". (Please review <link document="m10867" target-id="s3">inverted intervals</link> if this is confusing.)
+    </para>
+
+     <example id="exam1b">
+      <para id="pexam0r">
+The key of D major has two sharps. Using the circle of fifths, we find that the most closely related major keys (one in each direction) are G major, with only one sharp, and A major, with three sharps. The relative minors of all of these keys (B minor, E minor, and F sharp minor) are also closely related to D major.
+      </para>
+     </example>
+
+     <exercise id="exer0s">
+      <problem id="id8799881">
+       <para id="prob0t">
+What are the keys most closely related to E flat major? To A minor?
+        </para>
+      </problem>
+      <solution id="id7788051">
+	<list id="solu0ua">
+		<title>E flat major (3 flats):</title>
+		<item> B flat major (2 flats)</item>
+		<item> A flat major (4 flats)</item>
+		<item> C minor (3 flats)</item>
+		<item> G minor (2 flats)</item>
+		<item> F minor (4 flats)</item>
+		</list>
+	<list id="solu0ub">
+		<title>A minor (no sharps or flats):</title>
+		<item> E minor (1 sharp)</item>
+		<item> D minor (1 flat)</item>
+		<item> C major (no sharps or flats)</item>
+		<item> G major (1 sharp)</item>
+		<item> F major (1 flat)</item>
+		</list>
+      </solution>
+     </exercise> 
+
+   <exercise id="exer0o">
+
+     <problem id="id1165367187632">
+      <para id="prob0p">
+Name the major and minor keys for each key signature.
+      </para>
+	<figure id="fig4e"><media id="id6394225" alt=""><image src="../../media/CircleFig2.png" mime-type="image/png"/><image for="pdf" src="../../media/CircleFig2-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+     </problem>
+
+     <solution id="id4571256">
+      
+	<figure id="fig4g"><media id="id7119532" alt=""><image src="../../media/CircleFig3.png" mime-type="image/png"/><image for="pdf" src="../../media/CircleFig3-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+     </solution>
+
+    </exercise>
+  </section>
+  <section id="s2">
+   <title>Key Signatures</title>
+
+    <para id="p1a">
+If you do not know the order of the sharps and flats, you can also use the circle of fifths to find these. The first sharp in a key signature is always F sharp; the second sharp in a key signature is always (a perfect fifth away) C sharp; the third is always G sharp, and so on, all the way to B sharp.
+    </para>
+    <para id="p1b">
+The first flat in a key signature is always B flat (the same as the last sharp); the second is always E flat, and so on, all the way to F flat. Notice that, just as with the key signatures, you add sharps or subtract flats as you go clockwise around the circle, and add flats or subtract sharps as you go counterclockwise.
+    </para>
+
+    <figure id="sharpsandflats"><title>Adding Sharps and Flats to the Key Signature</title>
+       <media id="id5366619" alt=""><image src="../../media/KeySigCircle.png" mime-type="image/png"/><image for="pdf" src="../../media/KeySigCircle-0.eps" mime-type="application/postscript"/></media>
+       <caption>
+Each sharp and flat that is added to a key signature is also a perfect fifth away from the last sharp or flat that was added.
+       </caption>
+    </figure>
+
+    <exercise id="exer0c">
+    <problem id="id4385682">
+    <para id="prob0d"><link target-id="Circleoffifths"/> shows that D major has 2 sharps; <link target-id="sharpsandflats"/> shows that they are F sharp and C sharp. After D major, name the next four sharp keys, and name the sharp that is added with each key.
+    </para>
+    </problem>
+    <solution id="id4556904">
+    <list id="solu0e">
+	<item>A major adds G sharp</item>
+	<item> E major adds D sharp</item>
+	<item> B major adds A sharp</item>
+	<item> F sharp major adds E sharp</item>
+    </list>
+	<figure id="fig4a"><media id="id6894169" alt=""><image src="../../media/CircleFig5.png" mime-type="image/png"/><image for="pdf" src="../../media/CircleFig5-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+    </solution>
+    </exercise>
+
+    <exercise id="exer0f">
+    <problem id="id5010925">
+     <para id="prob0g">
+E minor is the first sharp minor key; the first sharp added in both major and minor keys is always F sharp. Name the next three sharp minor keys, and the sharp that is added in each key.
+     </para>
+    </problem>
+    <solution id="id1165361322002">
+     <list id="solu0h">
+	<item>B minor adds C sharp</item>
+	<item> F sharp minor adds G sharp</item>
+	<item> C sharp minor adds D sharp</item>
+     </list>
+	<figure id="fig4f"><media id="id3420313" alt=""><image src="../../media/CircleFig6.png" mime-type="image/png"/><image for="pdf" src="../../media/CircleFig6-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+    </solution>
+    </exercise>
+
+    <exercise id="exer0j">
+    <problem id="id2719720">
+     <para id="prob0k">
+After B flat major, name the next four flat keys, and name the flat that is added with each key.
+     </para>
+    </problem>
+    <solution id="id1165363483543">
+     <list id="solu0k">
+	<item>E flat major adds A flat</item>
+	<item> A flat major adds D flat</item>
+	<item> D flat major adds G flat</item>
+	<item> G flat major adds C flat</item>
+     </list>
+	<figure id="fig4b"><media id="id5978495" alt=""><image src="../../media/CircleFig7.png" mime-type="image/png"/><image for="pdf" src="../../media/CircleFig7-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+    </solution>
+    </exercise>
+  </section>
+
+  </content>
+  
+</document>

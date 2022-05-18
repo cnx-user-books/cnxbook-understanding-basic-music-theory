@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Clef</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10941</md:content-id>
+  <md:title>Clef</md:title>
+  <md:abstract>The clef symbol on a musical staff tells you which pitches belong on the lines and spaces of that staff.</md:abstract>
+  <md:uuid>3a3f55cb-1a46-4b0f-a9a9-f4cc8b9f5174</md:uuid>
+</metadata>
+
+
+
+  <content>
+
+   <section id="s1">
+    <title>Treble Clef and Bass Clef</title>
+
+    <para id="p1a">The first symbol that appears at the beginning of every music <link document="m10880" strength="3">staff</link> is a <term>clef symbol</term>. It is very important because it tells you which <link document="m10945">note</link> (A, B, C, D, E, F, or G) is found on each line or space. For example, a <term>treble clef</term> symbol tells you that the second line from the bottom (the line that the symbol curls around) is "G".  On any staff, the notes are always arranged so that the next letter is always on the next higher line or space. The last note letter, G, is always followed by another A.
+    </para>
+
+    <figure id="fig13a"><title>Treble Clef</title>
+<media id="id42287778" alt=""><image src="../../media/TrebleClef.png" mime-type="image/png"/><image for="pdf" src="../../media/TrebleClef-0.eps" mime-type="application/postscript"/></media></figure>   
+
+    <para id="p1b">A <term>bass clef</term> symbol tells you that the second line from the top (the one bracketed by the symbol's dots) is F. The notes are still arranged in ascending order, but they are all in different places than they were in treble clef.
+    </para>
+
+    <figure id="fig13b"><title>Bass Clef</title>
+<media id="id41951747" alt=""><image src="../../media/BassClef.png" mime-type="image/png"/><image for="pdf" src="../../media/BassClef-0.eps" mime-type="application/postscript"/></media></figure>
+ 
+   </section>
+
+
+	<section id="s4">
+		<title>Memorizing the Notes in Bass and Treble Clef</title>
+
+		<para id="p4a">
+One of the first steps in learning to read music in a particular clef is memorizing where the notes are. Many students prefer to memorize the notes and spaces separately. Here are some of the most popular mnemonics used.
+		</para>
+
+		<figure id="fig13i" orient="vertical"><subfigure id="fig13itreble">
+<media id="id41951804" alt=""><image src="../../media/FACE.png" mime-type="image/png"/><image for="pdf" src="../../media/FACE-0.eps" mime-type="application/postscript"/></media>
+			</subfigure>
+			<subfigure id="fig13ibass">
+<media id="id41951832" alt=""><image src="../../media/AllCows.png" mime-type="image/png"/><image for="pdf" src="../../media/AllCows-0.eps" mime-type="application/postscript"/></media>
+			</subfigure>
+			<caption>You can use a word or silly sentence to help you memorize which notes belong on the lines or spaces of a clef. If you don't like these ones, you can make up your own.</caption>
+		</figure>
+		
+
+	</section>
+
+
+   <section id="s2">
+    <title>Moveable Clefs</title>
+
+    <para id="p2a">Most music these days is written in either bass clef or treble clef, but some music is written in a <term>C clef</term>. The C clef is moveable: whatever line it centers on is a <link document="m10862" target-id="p2bb">middle C</link>.
+    </para>
+
+    <figure id="fig13c"><title>C Clefs</title>
+<media id="id42288493" alt=""><image src="../../media/Cclefs.png" mime-type="image/png"/><image for="pdf" src="../../media/Cclefs-0.eps" mime-type="application/postscript"/></media>
+      <caption>
+All of the notes on this staff are middle C.
+      </caption>
+    </figure>
+
+    <para id="p2b">
+The bass and treble clefs were also once moveable, but it is now very rare to see them anywhere but in their standard positions. If you do see a treble or bass clef symbol in an unusual place, remember: treble clef is a <term>G clef</term>; its spiral curls around a G. Bass clef is an <term>F clef</term>; its two dots center around an F.
+    </para>
+
+
+    <figure id="fig13d" orient="vertical"><title>Moveable G and F Clefs</title>
+ <media id="id42288557" alt=""><image src="../../media/MoveableClef.png" mime-type="image/png"/><image for="pdf" src="../../media/MoveableClef-0.eps" mime-type="application/postscript"/></media>
+      <caption>
+It is rare these days to see the G and F clefs in these nonstandard positions.
+      </caption>
+    </figure>
+
+    <para id="p2c">
+Much more common is the use of a treble clef that is meant to be read one octave below the written pitch. Since many people are uncomfortable reading bass clef, someone writing music that is meant to sound in the region of the bass clef may decide to write it in the treble clef so that it is easy to read. A very small "8" at the bottom of the treble clef symbol means that the notes should sound one octave lower than they are written.
+    </para>
+
+    <figure id="lowtreble"><media id="id42288613" alt=""><image src="../../media/OctaveTrebleClef.png" mime-type="image/png"/><image for="pdf" src="../../media/OctaveTrebleClef-0.eps" mime-type="application/postscript"/></media>
+       <caption>A small "8" at the bottom of a treble clef means that the notes should sound one octave lower than written.</caption>
+    </figure>
+
+
+   </section>
+
+   <section id="s3">
+    <title>Why use different clefs?</title>
+
+    <para id="p3a">
+Music is easier to read and write if most of the notes fall on the staff and few <link document="m10880" target-id="p1a" strength="3">ledger lines</link> have to be used.
+    </para>
+
+	<figure id="fig13e" orient="vertical"><media id="id42288704" alt=""><image src="../../media/ClefDemo.png" mime-type="image/png"/><image for="pdf" src="../../media/ClefDemo-0.eps" mime-type="application/postscript"/></media>
+		<caption>These scores show the same notes written in treble and in bass clef. The staff with fewer ledger lines is easier to read and write.</caption></figure>
+
+    <para id="p3b">The G indicated by the treble clef is the G above <link document="m10862" target-id="p2bb">middle C</link>, while the F indicated by the bass clef is the F below middle C. (C clef indicates middle C.) So treble clef and bass clef together cover many of the notes that are in the <link document="m12381" strength="3">range</link> of human voices and of most instruments. Voices and instruments with higher ranges usually learn to read treble clef, while voices and instruments with lower ranges usually learn to read bass clef. Instruments with ranges that do not fall comfortably into either bass or treble clef may use a C clef or may be <link document="m10672" strength="2">transposing instruments</link>.
+    </para>
+
+	<figure id="fig13f"><media id="id42288233" alt=""><image src="../../media/GrandClef.png" mime-type="image/png"/><image for="pdf" src="../../media/GrandClef-0.eps" mime-type="application/postscript"/></media>
+        <caption>Middle C is above the bass clef and below the treble clef; so together these two clefs cover much of the range of most voices and instruments.
+        </caption>
+	</figure>
+
+   </section>
+
+   <exercise id="exer3a">
+    <problem id="id42288278">
+     <para id="prob3a">Write the name of each note below the note on each staff in <link target-id="prob3afig"/>.
+     </para>
+
+    <figure id="prob3afig"><media id="id42288315" alt=""><image src="../../media/ClefPractice.png" mime-type="image/png"/><image for="pdf" src="../../media/ClefPractice-0.eps" mime-type="application/postscript"/></media></figure>
+
+    </problem>
+
+    <solution id="id42288339">
+     <figure id="solut3a"><media id="id42288354" alt=""><image src="../../media/ClefSolv.png" mime-type="image/png"/><image for="pdf" src="../../media/ClefSolv-0.eps" mime-type="application/postscript"/></media></figure>
+    </solution>
+   </exercise><exercise id="element-752"><problem id="id42288388">
+		<para id="element-767">Choose a clef in which you need to practice recognizing notes above and below the staff in <link target-id="element-254"/>. Write the clef sign at the beginning of the staff, and then write the correct note names below each note.
+		</para><figure id="element-254"><media id="id42288426" alt=""><image src="../../media/ledgerprob.png" mime-type="image/png"/><image for="pdf" src="../../media/ledgerprob.eps" mime-type="application/postscript"/></media></figure>
+  
+	</problem>
+
+	<solution id="id42288450">
+		<para id="element-528"><link target-id="element-386"/> shows the answers for treble and bass clef. If you have done another clef, have your teacher check your answers.</para><figure id="element-386"><media id="id41945840" alt=""><image src="../../media/ledgersolv.png" mime-type="image/png"/><image for="pdf" src="../../media/ledgersolv.eps" mime-type="application/postscript"/></media></figure>
+	</solution>
+</exercise><exercise id="element-226"><problem id="id41945873">
+		<para id="element-780"><link target-id="figprob2"/> gives more exercises to help you memorize whichever clef you are learning. You may print these exercises as a <link resource="ClefWorksheet.pdf">PDF worksheet</link> if you like.</para>
+<figure id="figprob2"><media id="id41945919" alt=""><image src="../../media/ClefWorksheet.png" mime-type="image/png"/><image for="pdf" src="../../media/ClefWorksheet-0.eps" mime-type="application/postscript"/></media></figure>
+	</problem>
+
+	<solution id="id41945944">
+		<para id="element-232"><link target-id="fig1solv2"/> shows the answers for treble clef, and <link target-id="fig2solv2"/> the answers for bass clef. If you are working in a more unusual clef, have your teacher check your answers.
+		</para>
+<figure id="fig1solv2"><media id="id41945989" alt=""><image src="../../media/ClefWorksheetTreble.png" mime-type="image/png"/><image for="pdf" src="../../media/ClefWorksheetTreble-0.eps" mime-type="application/postscript"/></media></figure>
+<figure id="fig2solv2"><media id="id41946022" alt=""><image src="../../media/ClefWorksheetBass.png" mime-type="image/png"/><image for="pdf" src="../../media/ClefWorksheetBass-0.eps" mime-type="application/postscript"/></media></figure>
+	</solution>
+</exercise>
+
+    
+
+  </content>
+  
+</document>

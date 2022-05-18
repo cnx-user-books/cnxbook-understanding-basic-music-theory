@@ -1,0 +1,174 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+ <title>Major Keys and Scales</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10851</md:content-id>
+  <md:title>Major Keys and Scales</md:title>
+  <md:abstract>A scale is a list of all the notes in a key. Major scales all follow the same interval pattern.</md:abstract>
+  <md:uuid>86cbf322-1fc8-4c9d-aa3d-7b732e2019af</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="3">Minor Keys</link>
+      <link url="http://cnx.rice.edu/content/m11643/latest/" strength="3">Harmonic Analysis</link>
+      <link url="http://cnx.rice.edu/content/m10877/latest/" strength="2">Triads</link>
+      <link url="http://cnx.rice.edu/content/m11421/latest/" strength="2">Western Music</link>
+      <link url="http://cnx.rice.edu/content/m11636/latest/" strength="2">Scales that Aren't Major or Minor</link>
+      <link url="http://cnx.rice.edu/content/m11633/latest/" strength="2">Modes and Ragas</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+      <link url="http://cnx.rice.edu/content/m10866/latest/" strength="3">Half Steps and Whole Steps</link>
+      <link url="http://cnx.rice.edu/content/m10881/latest/" strength="3">Key Signature</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <para id="p0a">The simple, sing-along, nursery rhymes and folk songs we learn as children; the "catchy" tunes used in advertising jingles; the cheerful, toe-tapping pop and rock we dance to; the uplifting sounds of a symphony: most music in a major key has a bright sound that people often describe as cheerful, inspiring, exciting, or just plain fun. 
+   </para>
+   <para id="p0b">How are these moods produced? Music in a particular <term>key</term> tends to use only some of the many possible notes available; these notes are listed in the <term>scale</term> associated with that key. In major keys, the notes of the scale are often used to build "bright"-sounding <link document="m10890">major chords</link>. They also give a strong feeling of having a <link document="m10851" target-id="p1a" strength="3">tonal center</link>, a note or chord that feels like "home", or "the resting place", in that key. The "bright"-sounding major chords and the strong feeling of tonality are what give major keys their happy, pleasant moods. This contrasts with the moods usually suggested by music that uses <link document="m10856">minor</link> keys, scales, and chords. Although it also has a strong tonal center (the <link document="m11421">Western</link> tradition of tonal <link document="m11654">harmony</link> is based on major and minor keys and scales), music in a minor key is more likely to sound sad, ominous, or mysterious. In fact, most musicians, and even many non-musicians, can distinguish major and minor keys just by listening to the music.</para>
+  <exercise id="exer0a">
+    <problem id="id1167962581572">
+      <para id="prob0a">Listen to these excerpts. Three are in a major key and two in a minor key. Can you tell which is which simply by listening? 
+      </para>
+      <list id="lp0a">
+<item><link resource="Guitar1.mp3">1.</link></item>
+<item><link resource="Guitar2.mp3">2.</link></item>
+<item><link resource="Guitar3.mp3">3.</link></item>
+<item><link resource="Tanz.mp3">4.</link></item>
+<item><link resource="Greensleeves.mp3">5.</link></item>
+      </list>
+     </problem>
+     <solution id="id3265437">
+       <list id="ls0a" list-type="enumerated">
+<item>Major</item>
+<item>Major</item>
+<item>Minor</item>
+<item>Major</item>
+<item>Minor</item>
+       </list>
+     </solution>
+   </exercise>
+
+<para id="element-833"><note id="id1167964253655">If you must determine whether a piece of music is major or minor, and cannot tell just by listening, you may have to do some simple <link document="m11643" target-id="s6">harmonic analysis</link> in order to decide.
+</note></para><section id="s1">
+<title>Tonal Center</title>
+
+<para id="p1a">
+A scale starts with the note that names the key. This
+note is the <term>tonal center</term> of that key, the note where music in that key feels "at rest".
+It is also called the <term>tonic</term>, and it's the "do" in "do-re-mi". For
+example, music in the key of A major almost always ends on an A major chord,
+the <link document="m11654" target-id="l0b">chord</link> built on the note A. It often also begins on
+that chord, returns to that chord often, and features a melody and a bass
+line that also return to the note A often enough that listeners will know
+where the tonal center of the music is, even if they don't realize that they
+know it. (For more information about the tonic chord and its relationship to other chords in a key, please see <link document="m11643" strength="3">Beginning Harmonic Analysis</link>.)
+</para>
+
+<example id="e1a">
+
+<para id="p1b">
+Listen to these examples. Can you hear that they do
+not feel "done" until the final tonic is played?
+</para>
+<list id="lexam1"><item>
+<link resource="Tonal1.MID">Example A</link>
+</item>
+<item>
+<link resource="tonic2.MID">Example B</link>
+</item>
+</list>
+
+</example>
+
+</section>
+<section id="s2">
+<title>Major Scales</title>
+
+<para id="p2a">
+To find the rest of the notes in a major key, start at the tonic and go up
+following this pattern: <emphasis>whole step, whole step, half step, whole step, whole
+step, whole step, half step</emphasis>. This will take you to the tonic one octave higher
+than where you began, and includes all the notes in the key in that octave.
+</para>
+
+<example id="e2a"> 
+
+<para id="p2b">
+These major scales all follow the same pattern of whole steps and half steps. They have different sets of notes because the pattern starts
+on different notes.
+</para>
+
+	<figure id="fig2aa"><title>Three Major Scales</title>
+<media id="id1167962668632" alt=""><image src="../../media/Major1.png" mime-type="image/png"/><image for="pdf" src="../../media/Major1-0.eps" mime-type="application/postscript"/></media>
+<caption>All major scales have the same pattern of half steps and whole steps, beginning on the note that names the scale - the <link document="m10851" target-id="p1a">tonic</link>.</caption>      </figure>
+
+        <para id="p2ba">Listen to the difference between the <link resource="tonmjC.mp3">C major</link>, <link resource="tonmjD.mp3">D major</link>, and <link resource="tonmjBflat.mp3">B flat major</link> scales.
+        </para>
+
+</example>
+
+
+<exercise id="ex2a">
+	<problem id="id1167961891667">
+
+		<para id="prob2a">For each note below, write a major scale, one octave, ascending (going up), beginning on that note. If you're not sure whether a note should be written as a flat, sharp, or natural, remember that you won't ever skip a line or space, or write two notes of the scale on the same line or space. If you need help keeping track of half steps, use a keyboard, a <link document="m10862" target-id="fig3a">picture of a keyboard</link>, a written <link document="m10866" target-id="p0bb">chromatic scale</link>, or the chromatic scale fingerings for your instrument. If you need more information about half steps and whole steps, see <link document="m10866" strength="3">Half Steps and Whole Steps</link>.
+		</para>
+                <para id="prob2b">
+If you need staff paper for this exercise, you can print out this <link resource="staffpaper1.pdf">staff paper</link> PDF file.
+                </para>
+
+		<figure id="fig2k"><media id="id1167970692005" alt=""><image src="../../media/majorprob.png" mime-type="image/png"/><image for="pdf" src="../../media/majorprob-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+
+	</problem>
+
+	<solution id="id6522328">
+		<figure id="fig2b"><media id="id1167966433922" alt=""><image src="../../media/majorsolv.png" mime-type="image/png"/><image for="pdf" src="../../media/majorsolv-0.eps" mime-type="application/postscript"/></media>
+		</figure>
+                
+		<para id="sol2c">Notice that although they look completely different, the scales of F sharp major
+and G flat major (numbers 5 and 6) sound exactly the same when played, on a piano as shown in <link target-id="fig2c"/>, or on any other instrument using <link document="m11639" target-id="s22">equal temperament</link> tuning. If this surprises you, please read more about <link document="m11641">enharmonic</link> scales.
+		</para>
+
+                <figure id="fig2c"><title>Enharmonic Scales</title>
+			<media id="id1167958966555" alt=""><image src="../../media/majorscalekeyboard.png" mime-type="image/png"/><image for="pdf" src="../../media/majorscalekeyboard-0.eps" mime-type="application/postscript"/></media>
+<caption>Using this figure of a keyboard, or the fingerings from your own instrument, notice that the notes for the F sharp major scale and the G flat major scale in <link target-id="fig2b"/>, although spelled differently, will sound the same.</caption>	</figure>
+	</solution>
+</exercise>
+
+    <para id="p2c">
+In the examples above, the sharps and flats are written next to the notes. In common notation, the sharps and flats <emphasis>that belong in the key</emphasis> will be written at the beginning of each staff, in the <term>key signature</term>. For more practice identifying keys and writing key signatures,   please see <link document="m10881" strength="3">Key Signature</link>. For more information about how keys are related to each other, please see <link document="m10865" strength="3">The Circle of Fifths</link>.
+    </para><para id="eip-144"><note id="eip-id1164403056828">Do key signatures make music more complicated than it needs to be? Is there an easier way? Join the discussion at <link url="http://openingmeasures.com/music/22/why-cant-we-use-something-simpler-than-key-signatures/">Opening Measures</link>.</note></para>
+	
+</section>
+<section id="s3">
+	<title>Music in Different Major Keys</title>
+
+	<para id="p4a">What difference does key make? Since the major scales all follow the same pattern, they all sound very much alike. Here is the tune "Row, Row, Row Your Boat", written in G major and also in D major.
+	</para>
+
+	<figure id="fig2ef" orient="vertical"><subfigure id="fig2e">
+			<media id="id8572280" alt=""><image src="../../media/RowBoatG.png" mime-type="image/png"/><image for="pdf" src="../../media/RowBoatG.eps" mime-type="application/postscript"/></media>
+<caption>In G Major</caption>
+		</subfigure>
+		<subfigure id="fig2f">
+			<media id="id1167963557781" alt=""><image src="../../media/RowBoatD.png" mime-type="image/png"/><image for="pdf" src="../../media/RowBoatD.eps" mime-type="application/postscript"/></media>
+<caption>In D Major</caption>
+		</subfigure>
+		
+	<caption>The same tune looks very different when written in two different major keys.</caption></figure>
+
+	<para id="p4b">Listen to this tune <link resource="RowBoatG.mid">in G major</link> and <link resource="RowBoatD.mid">in D major</link>. The music may look quite different, but the only difference when you listen is that one sounds higher than the other. So why bother with different keys at all? Before <link document="m11639" target-id="s22" strength="2">equal temperament</link> became the standard tuning system, major keys sounded more different from each other than they do now. Even now, there are subtle differences between the sound of a piece in one key or another, mostly because of differences in the <link document="m11059" strength="1">timbre</link> of various notes on the instruments or voices involved. But today the most common reason to choose a particular key is simply that the music is easiest to sing or play in that key. (Please see <link document="m10668">Transposition</link> for more about choosing keys.)
+	</para>
+
+</section>
+
+
+
+</content>
+
+</document>

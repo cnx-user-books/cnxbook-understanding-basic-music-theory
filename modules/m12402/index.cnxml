@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Cadence</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12402</md:content-id>
+  <md:title>Cadence</md:title>
+  <md:abstract>A cadence is a place in a piece of music that feels like a stopping or resting point. In tonal music, cadences are classified by their chord progressions.</md:abstract>
+  <md:uuid>d3f72c4a-bcf5-4706-b9d5-86342926b6e9</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11654/latest/" strength="2">Harmony</link>
+      <link url="http://cnx.rice.edu/content/m11633/latest/" strength="2">Modes and Ragas</link>
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="2">Minor Keys and Scales</link>
+      <link url="http://cnx.rice.edu/content/m11647/latest/" strength="1">Melody</link>
+      <link url="http://cnx.rice.edu/content/m11646/latest/" strength="1">Rhythm</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m11643/latest/" strength="3">Harmonic Analysis</link>
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="2">Major Keys and Scales</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">A <term>cadence</term> is any place in a piece of music that has the feel of an ending point. This can be either a strong, definite stopping point - the end of the piece, for example, or the end of a movement or a verse - but it also refers to the "temporary-resting-place" pauses that round off the ends of musical ideas within each larger section. 
+    </para>
+    <para id="element-538">A musical <link document="m11647" target-id="s2">phrase</link>, like a sentence, usually contains an understandable idea, and then pauses before the next idea starts. Some of these musical pauses are simply take-a-breath-type pauses, and don't really give an "ending" feeling. In fact, like questions that need answers, many phrases leave the listener with a strong expectation of hearing the next, "answering", phrase. Other phrases, though, end with a more definite "we've arrived where we were going" feeling. The composer's expert control over such feelings of expectation and arrival are one of the main sources of the listener's enjoyment of the music.</para><para id="p0c">Like a story, a piece of music can come to an end by simply stopping, but most listeners will react to such abruptness with dissatisfaction: the story or music simply "stopped" instead of "ending" properly. A more satisfying ending, in both stories and music, is usually provided by giving clues that an end is coming, and then ending in a commonly-accepted way. Stories are also divided into paragraphs, chapters, stanzas, scenes, or episodes, each with their own endings, to help us keep track of things and understand what is going on. Music also groups phrases and <link document="m11647" target-id="s3">motifs</link> into verses, choruses, sections, and movements, marked off by strong cadences to help us keep track of them. In good stories, there are clues in the plot and the pacing -  in the <link document="m11421">Western</link> tradition, the chase gets more exciting, characters good and bad get what they deserve, the inevitable tragedy occurs, or misunderstandings get resolved - that signal that the end of the story is nearing. Similarly, in music there are clues that signal to the listener that the end is coming up. These clues may be in the <link document="m10842">form</link>; in the development of the musical ideas; in the music's <link document="m11648">tempo</link>, <link document="m11645">texture</link>, or <link document="m11646">rhythmic</link> complexity; in the <link document="m11654" target-id="l0b">chord progression</link>; even in the number and length of the <link document="m11647" target-id="s2">phrases</link> (Western listeners are fond of <link document="m11809">powers of two</link>). Like the ending of a story, an ending in music is more satisfying if it follows certain customs that the listener expects to hear. If you have grown up listening to a particular musical tradition, you will automatically have these expectations for a piece of music, even if you are not aware of having them. And like the customs for storytelling, these expectations can be different in different musical traditions.
+    </para>
+    <list id="l0a"><title>Some things that produce a feeling of cadence</title><item>
+<emphasis>Harmony</emphasis> - In most <link document="m11421">Western</link> and Western-influenced music (including jazz and "world" musics), <link document="m11654">harmony</link> is by far the most important signal of cadence. One of the most fundamental "rules" of the major-minor harmony system is that music ends on the <link document="m10851" target-id="p1a">tonic</link>. A <link document="m11421" target-id="p7d">tonal</link> piece of music will almost certainly end on the tonic chord, although individual phrases or sections may end on a different chord (the <link document="m11643" target-id="p3a">dominant</link> is a popular choice). But a composer cannot just throw in a tonic chord and expect it to sound like an ending; the harmony must "lead up to" the ending and make it feel inevitable (just as a good story makes the ending feel inevitable, even if it's a surprise). So the term <term>cadence</term>, in tonal music, usually refers to the "ending" chord plus the short <link document="m11654" target-id="l0b">chord progression</link> that led up to it. There are many different terms in use for the most common tonal cadences; you will find the most common terms <link target-id="l0b">below</link>. Some (but not all) <link document="m11633">modal</link> musics also use harmony to indicate cadence, but the cadences used can be quite different from those in tonal harmony.
+      </item>
+      <item>
+<emphasis>Melody</emphasis> - In the major/minor tradition, the melody will normally end on some note of the tonic chord <link document="m10877">triad</link>, and a melody ending on the tonic will give a stronger (more final-sounding) cadence than one ending on the third or fifth of the chord. In some <link document="m11633">modal</link> musics, the melody plays the most important role in the cadence. Like a scale, each mode also has a home note, where the melody is expected to end. A mode often also has a formula that the melody usually uses to arrive at the ending note. For example, it may be typical of one mode to go to the final note from the note one <link document="m10866" target-id="p0c">whole tone</link> below it; whereas in another mode the penultimate note may be a <link document="m10867" target-id="pexam1a">minor third</link> above the final note. (Or a mode may have more than one possible melodic cadence, or its typical cadence may be more complex.)
+      </item>
+      <item>
+<emphasis>Rhythm</emphasis> - Changes in the <link document="m11646">rhythm</link>, a break or pause in the rhythm, a change in the <link document="m11648">tempo</link>, or a slowing of or pause in the <link document="m11654" target-id="l0b">harmonic rhythm</link> are also commonly found at a cadence.
+      </item>
+      <item>
+<emphasis>Texture</emphasis> - Changes in the <link document="m11645">texture</link> of the music also often accompany a cadence. For example, the music may momentarily switch from <link document="m11654">harmony</link> to unison or from <link document="m11634">counterpoint</link> to a simpler block-chord <link document="m11645" target-id="s12">homophony</link>.
+      </item>
+      <item>
+<emphasis>Form</emphasis> - Since cadences mark off phrases and sections, <link document="m10842">form</link> and cadence are very closely connected, and the overall architecture of a piece of music will often indicate where the next cadence is going to be - every eight measures for a certain type of dance, for example. (When you listen to a piece of music, you actually expect and listen for these regularly-spaced cadences, at least subconsciously. An accomplished composer may "tease" you by seeming to lead to a cadence in the expected place, but then doing something unexpected instead.) 
+      </item>
+    </list>
+   <para id="p0d"><link document="m11643">Harmonic analysis</link>, <link document="m10842">form</link>, and cadence in <link document="m11421">Western</link> music are closely interwoven into a complex subject that can take up an entire course at the college-music-major level. Complicating matters is the fact that there are several competing systems for naming cadences. This introductory course cannot go very deeply into this subject, and so will only touch on the common terms used when referring to cadences. Unfortunately, the various naming systems may use the same terms to mean different things, so even a list of basic terms is a bit confusing. 
+    </para>
+    <list id="l0b"><title>Some Tonal Cadence Terms</title><item>
+<term>Authentic</term> - A <link document="m11643" target-id="s3">dominant</link> chord followed by a <link document="m10851" target-id="p1a">tonic</link> chord (V-I, or often V7-I).
+      </item>
+      <item>
+<term>Complete Cadence</term> - same as authentic cadence.
+      </item>
+      <item>
+<term>Deceptive Cadence</term> - This refers to times that the music seems to lead up to a cadence, but then doesn't actually land on the expected tonic, and also often does not bring the expected pause in the music. A deceptive cadence is typically in a major key, and is the dominant followed by the <link document="m11643" target-id="s3">submediant</link> (V-vi). This means the substituted chord is the relative minor of the tonic chord.
+      </item>
+      <item>
+<term>False Cadence</term> - Same as deceptive cadence.
+      </item>
+      <item>
+<term>Full Close</term> - Same as authentic cadence.
+      </item>
+      <item>
+<term>Half-cadence</term> - May refer to a cadence that ends on the dominant chord (V). This type of cadence is more common at pause-type cadences than at full-stop ones. OR may have same meaning as plagal cadence.
+      </item>
+     <item>
+<term>Half close</term> - Same as plagal cadence.
+      </item>
+      <item>
+<term>Imperfect Cadence</term> - May refer to an authentic (V-I) cadence in which the chord is not in root position, or the melody does not end on the tonic. <emphasis>OR</emphasis> may mean a cadence that ends on the dominant chord (same as one meaning of half-cadence). 
+      </item>
+      <item>
+<term>Interrupted Cadence</term> - Same as deceptive cadence.
+      </item>
+      <item>
+<term>Perfect Cadence</term> -  Same as authentic cadence. As its name suggests, this is considered the strongest, most final-sounding cadence. Some do not consider a cadence to be completely perfect unless the melody ends on the tonic and both chords (V and I) are in <link document="m10877">root position</link>.
+      </item>
+      <item>
+<term>Plagal Cadence</term> - A <link document="m11643" target-id="s3">subdominant</link> chord followed by a tonic chord (IV-I). For many people, this cadence will be familiar as the "Amen" chords at the end of many traditional hymns.
+      </item>
+      <item>
+<term>Semi-cadence</term> - Same possible meanings as half cadence.
+      </item>
+    </list>
+    <para id="p0e">You can listen to a few simple cadences here: <link resource="PerfectCadence.swf">Perfect Cadence</link>, <link resource="PlagalCadence.swf">Plagal Cadence</link>, <link resource="HalfCadence.swf">Half-cadence</link>, <link resource="FalseCadence.swf">Deceptive Cadence</link>. The figure below also shows some very simple forms of some common cadences. The first step in becoming comfortable with cadences is to start identifying them in music that is very familiar to you. Find the pauses and stops in the music. Do a <link document="m11643">harmonic analysis</link> of the last few chords before each stop, and identify what type of cadence it is. Then see if you can begin to recognize the type of cadence just by listening to the music.
+    </para>
+    <figure id="fig1" orient="vertical"><title>Examples of Common Cadences</title>
+     <subfigure id="fig1a">
+      <media id="id1168724601093" alt=""><image src="../../media/CadencePerfect.png" mime-type="image/png"/><image for="pdf" src="../../media/CadencePerfect-0.eps" mime-type="application/postscript"/></media>
+<caption>Perfect Cadence in C major</caption>
+     </subfigure>
+     <subfigure id="fig1b">
+      <media id="id1168715238914" alt=""><image src="../../media/CadencePlagal.png" mime-type="image/png"/><image for="pdf" src="../../media/CadencePlagal-0.eps" mime-type="application/postscript"/></media>
+<caption>Plagal Cadence in C major</caption>
+     </subfigure>
+     <subfigure id="fig1c">
+      <media id="id1168722840911" alt=""><image src="../../media/CadenceDeceptive.png" mime-type="image/png"/><image for="pdf" src="../../media/CadenceDeceptive-0.eps" mime-type="application/postscript"/></media>
+<caption>Deceptive Cadence in C major</caption>
+     </subfigure>
+    </figure>
+
+<exercise id="exer1"><problem id="id1168718046314">
+		<para id="exerp">
+Identify the type of cadence in each excerpt. (Hint: First identify the key and then do a <link document="m11643">harmonic analysis</link> of the progression.
+		</para>
+      <figure id="figprob1"><media id="id1604714" alt=""><image src="../../media/CadenceProb.png" mime-type="image/png"/><image for="pdf" src="../../media/CadenceProb-0.eps" mime-type="application/postscript"/></media></figure>
+	</problem>
+
+	<solution id="id1168717725638">
+      <figure id="figsolv1"><media id="id3161213" alt=""><image src="../../media/CadenceSolv.png" mime-type="image/png"/><image for="pdf" src="../../media/CadenceSolv-0.eps" mime-type="application/postscript"/></media></figure>
+		<para id="solvp">Notice that the half cadence looks like (and in fact is) a <link document="m11643" target-id="s4">modulation</link> to the dominant. In this very common progression, the dominant seventh of the dominant (which requires an accidental) makes the dominant feel like a very strong resting point, and the piece will continue on in the dominant key for a while, before returning to the tonic key. Also notice the accidental required in the minor key to make the (major) dominant chord.
+		</para>
+	</solution>
+</exercise></content>
+  
+</document>

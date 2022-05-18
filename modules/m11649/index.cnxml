@@ -1,0 +1,70 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Dynamics and Accents</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11649</md:content-id>
+  <md:title>Dynamics and Accents</md:title>
+  <md:abstract>An overview of the musical terms related to the dynamics, or loudness, of music, including accents.</md:abstract>
+  <md:uuid>b9f0594e-2995-4ce7-970e-7a17ba38905e</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11884/latest/" strength="3">Articulation</link>
+      <link url="http://cnx.rice.edu/content/m11646/latest/" strength="2">Rhythm</link>
+      <link url="http://cnx.rice.edu/content/m10945/latest/" strength="2">Duration</link>
+      <link url="http://cnx.rice.edu/content/m10956/latest/" strength="2">Time Signature</link>
+      <link url="http://cnx.rice.edu/content/m11031/latest/" strength="1">Conducting</link>
+      <link url="http://cnx.rice.edu/content/m11063/latest/" strength="1">Sound, Physics and Music</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="s0">
+      <title>Dynamics</title>
+      <para id="p0a">Sounds, including music, can be barely audible, or loud enough to hurt your ears, or anywhere in between. When they want to talk about the loudness of a sound, scientists and engineers talk about <link document="m13246" target-id="s12">amplitude</link>. Musicians talk about <term>dynamics</term>. The amplitude of a sound is a particular number, usually measured in decibels, but dynamics are relative; an orchestra playing <foreign>fortissimo</foreign> sounds much louder than a single violin playing <foreign>fortissimo</foreign>. The exact interpretation of each dynamic marking in a piece of music depends on: 
+      </para>
+      <list id="l0a"><item>
+comparison with other dynamics in that piece 
+         </item>
+         <item>
+the typical dynamic range for that instrument or ensemble
+         </item>
+         <item>
+the abilities of the performer(s)
+         </item> 
+         <item>
+the traditions of the musical genre being performed
+         </item>
+         <item>
+the acoustics of the performance space
+         </item></list>
+      <para id="p0b">Traditionally, dynamic markings are based on Italian words, although there is nothing wrong with simply writing things like "quietly" or "louder" in the music. <foreign>Forte</foreign> means loud and <foreign>piano</foreign> means quiet. The instrument commonly called the "piano" by the way, was originally called a "pianoforte" because it could play dynamics, unlike earlier popular keyboard instruments like the harpsichord and spinet.
+      </para> 
+      <figure id="fig0a"><title>Typical Dynamic Markings</title><media id="id1165291323833" alt=""><image src="../../media/dynamics.png" mime-type="image/png"/><image for="pdf" src="../../media/dynamics.eps" mime-type="application/postscript"/></media></figure> 
+      <para id="p0c">When a composer writes a <foreign>forte</foreign> into a part, followed by a <foreign>piano</foreign>, the intent is for the music to be loud, and then suddenly quiet. If the composer wants the change from one dynamic level to another to be gradual, different markings are added. A <foreign>crescendo</foreign> (pronounced "cresh-EN-doe") means "gradually get louder"; a <foreign>decrescendo</foreign> or <foreign>diminuendo</foreign> means "gradually get quieter".
+      </para>
+
+      <figure id="fig0b"><title>Gradual Dynamic Markings</title><media id="id1165291239510" alt=""><image src="../../media/cresc.png" mime-type="image/png"/><image for="pdf" src="../../media/cresc-0.eps" mime-type="application/postscript"/></media>
+         
+      <caption>Here are three different ways to write the same thing: start softly (piano), gradually get louder (crescendo) until the music is loud (forte), then gradually get quieter (decrescendo or diminuendo) until it is quiet (piano) again.
+          </caption></figure>
+
+  </section>
+  <section id="s2">
+   <title>Accents</title>
+
+      <para id="p0d">A composer may want a particular note to be louder than all the rest, or may want the very beginning of a note to be loudest. <term>Accents</term> are markings that are used to indicate these especially-strong-sounding notes. There are a few different types of written accents (see <link target-id="fig0c"/>), but, like dynamics, the proper way to perform a given accent also depends on the instrument playing it, as well as the style and period of the music. Some accents may even be played by making the note longer or shorter than the other notes, in addition to, or even instead of being, louder. (See <link document="m11884">articulation</link> for more about accents.)
+      </para>
+
+      <figure id="fig0c"><title>Common Accents</title>
+<media id="id1165290879461" alt=""><image src="../../media/accents.png" mime-type="image/png"/><image for="pdf" src="../../media/accents-0.eps" mime-type="application/postscript"/></media>
+           <caption>
+The exact performance of each type of accent depends on the instrument and the style and period of the music, but the <foreign>sforzando</foreign> and <foreign>fortepiano</foreign>-type accents are usually louder and longer, and more likely to be used in a long note that starts loudly and then suddenly gets much softer. <foreign>Caret</foreign>-type accents are more likely to be used to mark shorter notes that should be stronger than unmarked notes. 
+           </caption>
+      </figure>
+      
+    </section></content>
+  
+</document>

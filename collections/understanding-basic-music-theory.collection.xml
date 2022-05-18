@@ -1,0 +1,104 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10363</md:content-id>
+    <md:title>Understanding Basic Music Theory</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>2ad74b7b-a72f-42a9-a31b-7e75542e54bd</md:uuid>
+<md:slug>understanding-basic-music-theory</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m13685"/>
+    <col:subcollection>
+      <md:title>Notation</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Pitch</md:title>
+          <col:content>
+            <col:module document="m10880"/>
+            <col:module document="m10941"/>
+            <col:module document="m10943"/>
+            <col:module document="m10881"/>
+            <col:module document="m11641"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Time</md:title>
+          <col:content>
+            <col:module document="m10945"/>
+            <col:module document="m11887"/>
+            <col:module document="m10956"/>
+            <col:module document="m12405"/>
+            <col:module document="m12717"/>
+            <col:module document="m11888"/>
+            <col:module document="m11644"/>
+            <col:module document="m11648"/>
+            <col:module document="m12805"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Style</md:title>
+          <col:content>
+            <col:module document="m11649"/>
+            <col:module document="m11884"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Definitions</md:title>
+      <col:content>
+        <col:module document="m11646"/>
+        <col:module document="m11059"/>
+        <col:module document="m11647"/>
+        <col:module document="m11645"/>
+        <col:module document="m11654"/>
+        <col:module document="m11634"/>
+        <col:module document="m12381"/>
+        <col:module document="m11421"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Physical Basis</md:title>
+      <col:content>
+        <col:module document="m13246"/>
+        <col:module document="m12413"/>
+        <col:module document="m13682"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Notes and Scales</md:title>
+      <col:content>
+        <col:module document="m10862"/>
+        <col:module document="m10866"/>
+        <col:module document="m10851"/>
+        <col:module document="m10856"/>
+        <col:module document="m10867"/>
+        <col:module document="m13686"/>
+        <col:module document="m10865"/>
+        <col:module document="m11636"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Harmony and Form</md:title>
+      <col:content>
+        <col:module document="m10877"/>
+        <col:module document="m10890"/>
+        <col:module document="m11953"/>
+        <col:module document="m11995"/>
+        <col:module document="m11643"/>
+        <col:module document="m12402"/>
+        <col:module document="m10842"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Challenges</md:title>
+      <col:content>
+        <col:module document="m12401"/>
+        <col:module document="m11639"/>
+        <col:module document="m11633"/>
+        <col:module document="m10668"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

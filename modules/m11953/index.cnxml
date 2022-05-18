@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Consonance and Dissonance</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11953</md:content-id>
+  <md:title>Consonance and Dissonance</md:title>
+  <md:abstract>Consonance and dissonance are musical terms describing whether combinations of notes sound good together or not.</md:abstract>
+  <md:uuid>99954a89-9cad-4023-b285-93ffaac503a7</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="3">Sound, Physics, and Music</link>
+      <link url="http://cnx.rice.edu/content/m11118/latest/" strength="3">Harmonic Series</link>
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+      <link url="http://cnx.rice.edu/content/m11999/latest/" strength="3">Related Activities for Young Students</link>
+      <link url="http://cnx.rice.edu/content/m10877/latest/" strength="2">Triads</link>
+      <link url="http://cnx.rice.edu/content/m10890/latest/" strength="2">Naming Triads</link>
+      <link url="http://cnx.rice.edu/content/m11639/latest/" strength="2">Tuning Systems</link>
+      <link url="http://cnx.rice.edu/content/m10862/latest/" strength="2">Octaves and Diatonic Music</link>
+      <link url="http://cnx.rice.edu/content/m11654/latest/" strength="2">Harmony</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <para id="p0a">
+Notes that sound good together when played at the same time are called <term>consonant</term>. Chords built only of consonances sound pleasant and "stable"; you can listen to one for a long time without feeling that the music needs to change to a different chord. Notes that are <term>dissonant</term> can sound harsh or unpleasant when played at the same time. Or they may simply feel "unstable"; if you hear a chord with a dissonance in it, you may feel that the music is pulling you towards the chord that <term>resolves</term> the dissonance. Obviously, what seems pleasant or unpleasant is partly a matter of opinion. This discussion only covers consonance and dissonance in <link document="m11421">Western</link> music.
+   <note id="id1167618911430">
+For activities that introduce these concepts to young students, please see <link document="m11999">Consonance and Dissonance Activities</link>.
+    </note>
+    </para>   
+
+    <para id="p0b">
+Of course, if there are problems with tuning, the notes will not sound good together, but this is not what consonance and dissonance are about. (Please note, though, that the choice of tuning system can greatly affect which intervals sound consonant and which sound dissonant! Please see <link document="m11639" target-id="p11e">Tuning Systems</link> for more about this.)
+    </para>
+
+    <para id="p0c">Consonance and dissonance refer to <link document="m10867">intervals</link> and <link document="m11654" target-id="l0b">chords</link>. The <term>interval</term> between two notes is the number of <link document="m10866">half steps</link> between them, and all intervals have a name that musicians commonly use, like <link document="m10867" target-id="list22a">major third</link> (which is 4 half steps), <link document="m10867" target-id="p21b">perfect fifth</link> (7 half steps), or <link document="m10862">octave</link>. (See <link document="m10867">Interval</link> to learn how to determine and name the interval between any two notes.)
+    </para>
+
+    <para id="p0d">An interval is measured between two notes. When there are more than two notes sounding at the same time, that's a <term>chord</term>. (See <link document="m10877">Triads</link>, <link document="m10890">Naming Triads</link>, and <link document="m11995">Beyond Triads</link> for some basics on chords.) Of course, you can still talk about the interval between any two of the notes in a chord.
+    </para>
+
+    <para id="p0e">
+The <link document="m10867" target-id="p1b">simple intervals</link> that are considered to be consonant are the <link resource="minorthird.mid">minor third</link>, <link resource="majorthird.mid">major third</link>, <link resource="fourth.mid">perfect fourth</link>, <link resource="fifth.mid">perfect fifth</link>, <link resource="minorsixth.mid">minor sixth</link>, <link resource="majorsixth.mid">major sixth</link>, and the <link resource="octave.mid">octave</link>.
+    </para>
+
+    <figure id="fig0a"><title>Consonant Intervals</title>
+        <media id="id1167618907640" alt=""><image src="../../media/consonant.png" mime-type="image/png"/><image for="pdf" src="../../media/consonant-0.eps" mime-type="application/postscript"/></media>
+    
+    </figure>
+
+    <para id="p0f">In modern <link document="m11421">Western Music</link>, all of these intervals are considered to be pleasing to the ear. Chords that contain only these intervals are considered to be "stable", restful chords that don't need to be <link target-id="p0h">resolved</link>. When we hear them, we don't feel a need for them to go to other chords.
+    </para>
+
+    <para id="p0g">
+The intervals that are considered to be dissonant are the <link resource="minorsecond.mid">minor second</link>, the <link resource="majorsecond.mid">major second</link>, the <link resource="minorseventh.mid">minor seventh</link>, the <link resource="majorseventh.mid">major seventh</link>, and particularly the <link resource="tritone.mid">tritone</link>, which is the interval in between the perfect fourth and perfect fifth.
+    </para>
+
+    <figure id="fig0b"><title>Dissonant Intervals</title>
+        <media id="id1167618907733" alt=""><image src="../../media/Dissonant.png" mime-type="image/png"/><image for="pdf" src="../../media/dissonant-0.eps" mime-type="application/postscript"/></media>
+
+    </figure>
+
+    <para id="p0h">
+These intervals are all considered to be somewhat unpleasant or tension-producing. In <link document="m11421" target-id="p7d">tonal music</link>, chords containing dissonances are considered "unstable"; when we hear them, we expect them to move on to a more stable chord. Moving from a dissonance to the consonance that is expected to follow it is called <term>resolution</term>, or <term>resolving</term> the dissonance. The pattern of tension and release created by resolved dissonances is part of what makes a piece of music exciting and interesting. Music that contains no dissonances can tend to seem simplistic or boring. On the other hand, music that contains a lot of dissonances that are never resolved (for example, much of twentieth-century "classical" or "art" music) can be difficult for some people to listen to, because of the unreleased tension.
+    </para>
+
+    <figure id="fig0c"><title>Resolving Dissonances</title>
+       <media id="id1167618912575" alt=""><image src="../../media/resolve.png" mime-type="image/png"/><image for="pdf" src="../../media/resolve-0.eps" mime-type="application/postscript"/></media>
+       <caption>
+In most music a dissonance will resolve; it will be followed by a consonant chord that it naturally leads to, for example a <link resource="GseventhC.mid">G seventh chord resolves to a C major chord</link>, and a <link resource="DsusD.mid">D suspended fourth resolves to a D major chord</link>. A series of <link resource="dissonant.mid">unresolved dissonances</link>, on the other hand, can produce a sense of unresolved tension.
+       </caption>
+    </figure>
+
+    <para id="p0i">
+Why are some note combinations consonant and some dissonant? Preferences for certain sounds is partly cultural; that's one of the reasons why the traditional musics of various cultures can sound so different from each other. Even within the tradition of <link document="m11421">Western music</link>, opinions about what is unpleasantly dissonant have changed a great deal over the centuries. But consonance and dissonance do also have a strong physical basis in nature. 
+    </para>
+
+    <para id="p0j">In simplest terms, the sound waves of consonant notes "fit" together much better than the sound waves of dissonant notes. For example, if two notes are an octave apart, there will be exactly two waves of one note for every one wave of the other note. If there are two and a tenth waves or eleven twelfths of a wave of one note for every wave of another note, they don't fit together as well. For much more about the physical basis of consonance and dissonance, see <link document="m13246">Acoustics for Music Theory</link>, <link document="m11118">Harmonic Series</link>, and <link document="m11639">Tuning Systems</link>.
+    </para></content>
+  
+</document>

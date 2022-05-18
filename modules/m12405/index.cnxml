@@ -1,0 +1,67 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Meter</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12405</md:content-id>
+  <md:title>Meter</md:title>
+  <md:abstract>The meter of a piece of music is the repetitive arrangement of strong and weak pulses in the rhythm. Young children can be encouraged to recognize and classify meters even before they learn about time signatures and reading music.</md:abstract>
+  <md:uuid>bf5a39f8-1c52-41f4-910e-b82a8079e5e6</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11646/latest/" strength="3">Rhythm</link>
+      <link url="http://cnx.rice.edu/content/m10956/latest/" strength="3">Time Signature</link>
+      <link url="http://cnx.rice.edu/content/m11648/latest/" strength="2">Tempo</link>
+      <link url="http://cnx.rice.edu/content/m10945/latest/" strength="2">Duration: Note Lengths</link>
+      <link url="http://cnx.rice.edu/content/m11887/latest/" strength="2">Duration: Rest Lengths</link>
+      <link url="http://cnx.rice.edu/content/m11888/latest/" strength="2">Dots, Ties, and Borrowed Divisions</link>
+      <link url="http://cnx.rice.edu/content/m11807/latest/" strength="2">Fractions, Multiples, Beats, and Measures</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+  <section id="s0">
+    <title>What is Meter?</title>
+    <para id="p0a">The <term>meter</term> of a piece of music is the arrangment of its rhythms in a repetitive pattern of strong and weak beats. This does not necessarily mean that the rhythms themselves are repetitive, but they do strongly suggest a repeated pattern of pulses. It is on these pulses, the <link document="m10956" target-id="s1" strength="3">beat</link> of the music, that you tap your foot, clap your hands, dance, etc. 
+    </para>
+    <para id="p0b">Some music does not have a meter. Ancient music, such as Gregorian chants; new music, such as some experimental twentieth-century art music; and Non-Western music, such as some native American flute music, may not have a strong, repetitive pattern of beats. Other types of music, such as traditional Western African drumming, may have very complex meters that can be difficult for the beginner to identify.
+    </para>
+    <para id="p0c">But most <link document="m11421" strength="2">Western</link> music has simple, repetitive patterns of beats. This makes <term>meter</term> a very useful way to organize the music. <link document="m10880" strength="2">Common notation</link>, for example, divides the written music into small groups of beats called <link document="m10956" target-id="s1" strength="3">measures, or bars</link>. The lines dividing each measure from the next help the musician reading the music to keep track of the <link document="m11646" strength="3">rhythms</link>. A piece (or section of the piece) is assigned a <link document="m10956" strength="3">time signature</link> that tells the performer how many beats to expect in each measure, and what <link document="m10945" strength="2">type of note</link> should get one beat. (For more on reading time signatures, please see <link document="m10956" strength="3">Time Signature</link>.)
+    </para>
+    <para id="p0d"><link document="m12404" strength="3">Conducting</link> also depends on the meter of the piece; conductors use different conducting patterns for the different meters. These patterns emphasize the differences between the stronger and weaker beats to help the performers keep track of where they are in the music.
+    </para>
+    <para id="p0e">But the conducting patterns depend only on the pattern of strong and weak beats. In other words, they only depend on "how many beats there are in a measure", not "what type of note gets a beat". So even though the time signature is often called the "meter" of a piece, one can talk about meter without worrying about the time signature or even being able to read music. (Teachers, note that this means that children can be introduced to the concept of meter long before they are reading music. See <link document="m13616">Meter Activities</link> for some suggestions.)
+    </para>
+
+  </section>
+  <section id="s1">
+    <title>Classifying Meters</title>
+
+    <para id="p1a">
+Meters can be classified by counting the number of beats from one strong beat to the next. For example, if the meter of the music feels like "strong-weak-strong-weak", it is in <term>duple</term> meter. "strong-weak-weak-strong-weak-weak" is <term>triple</term> meter, and "strong-weak-weak-weak" is <term>quadruple</term>. (Most people don't bother classifying the more unusual meters, such as those with five beats in a measure.)
+    </para>
+    <para id="p1b">
+Meters can also be classified as either simple or compound. In a <term>simple</term> meter, each beat is basically divided into halves. In <term>compound</term> meters, each beat is divided into thirds.
+    </para>
+    <para id="p1c">A <term>borrowed division</term> occurs whenever the basic meter of a piece is interrupted by some beats that sound like they are "borrowed" from a different meter. One of the most common examples of this is the use of <link document="m11888" target-id="p3d" strength="3">triplets</link> to add some compound meter to a piece that is mostly in a simple meter. (See <link document="m11888">Dots, Ties, and Borrowed Divisions</link> to see what borrowed divisions look like in common notation.)
+    </para>
+  
+  </section>
+  <section id="s2">
+    <title>Recognizing Meters</title>
+
+    <para id="p2a">
+To learn to recognize meter, remember that (in most <link document="m11421" strength="2">Western</link> music) the beats and the subdivisions of beats are all equal and even. So you are basically listening for a running, even pulse underlying the rhythms of the music. For example, if it makes sense to count along with the music "ONE-and-Two-and-ONE-and-Two-and" (with all the syllables very evenly spaced) then you probably have a simple duple meter. But if it's more comfortable to count "ONE-and-a-Two-and-a-ONE-and-a-Two-and-a", it's probably compound duple meter. (Make sure numbers always come on a pulse, and "one" always on the strongest pulse.)
+    </para>
+    <para id="p2b">This may take some practice if you're not used to it, but it can be useful practice for anyone who is learning about music. To help you get started, the figure below sums up the most-used meters. To help give you an idea of what each meter should feel like, here are some animations (with sound) of <link resource="duplesimple.swf">duple simple</link>, <link resource="duplecompound.swf">duple compound</link>, <link resource="triplesimple.swf">triple simple</link>, <link resource="triplecompound.swf">triple compound</link>, <link resource="quadsimple.swf">quadruple simple</link>, and <link resource="quadcompound.swf">quadruple compound</link> meters. You may also want to listen to some examples of music that is in <link resource="metdup.mp3">simple duple</link>, <link resource="mettrip.mp3">simple triple</link>, <link resource="metquad.mp3">simple quadruple</link>, <link resource="metcompdup.mp3">compound duple</link>, and <link resource="metcomptrip.mp3">compound triple</link> meters.</para>
+    
+    <figure id="fig2a"><title>Meters</title>
+<media id="id6878188" alt=""><image src="../../media/meters.png" mime-type="image/png"/><image for="pdf" src="../../media/meters-0.eps" mime-type="application/postscript"/></media>
+    <caption>Remember that meter is not the same as time signature; the time signatures given here are just examples. For example, 2/2 and 2/8 are also simple duple meters.</caption></figure>
+
+  </section></content>
+  
+</document>

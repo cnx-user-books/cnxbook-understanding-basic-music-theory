@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Pitch: Sharp, Flat, and Natural Notes</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10943</md:content-id>
+  <md:title>Pitch: Sharp, Flat, and Natural Notes</md:title>
+  <md:abstract>In standard notation, a sharp symbol raises the pitch of the natural note by a half-step; a flat symbol lowers it by a half-step.</md:abstract>
+  <md:uuid>6d74c148-7090-4235-91a5-0d9dc016e4e5</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="3">Physics and Music</link>
+      <link url="http://cnx.rice.edu/content/m10881/latest/" strength="2">Key Signature</link>
+      <link url="http://cnx.rice.edu/content/m10862/latest/" strength="2">Octaves</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10941/latest/" strength="3">Clef</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <para id="p01">The <term>pitch</term> of a note is how high or low it sounds. Pitch depends on the <link document="m13246" target-id="s2">frequency</link> of the <link document="m11118" target-id="p1c" strength="2">fundamental</link> sound wave of the note. The higher the frequency of a sound wave, and the shorter its <link document="m13246" target-id="s2">wavelength</link>, the higher its pitch sounds. But musicians usually don't want to talk about wavelengths and frequencies. Instead, they just give the different pitches different letter names: A, B, C, D, E, F, and G. These seven letters name all the <term>natural</term> notes (on a keyboard, that's all the white keys) within one octave. (When you get to the eighth natural note, you start the next <link document="m10862" strength="2">octave</link> on another A.)
+    </para> 
+
+	<figure id="fig22a"><media id="id1171921402581" alt=""><image src="../../media/Pitch1.png" mime-type="image/png"/><image for="pdf" src="../../media/Pitch1-0.eps" mime-type="application/postscript"/></media>
+                <caption>
+The natural notes name the white keys on a keyboard.
+                </caption>
+	</figure>  
+
+    <para id="p0b">
+But in <link document="m11421" strength="2">Western</link> music there are twelve notes in each octave that are in common use. How do you name the other five notes (on a keyboard, the black keys)?
+    </para>
+
+	<figure id="fig22c"><media id="id1171940727674" alt=""><image src="../../media/pitch2.png" mime-type="image/png"/><image for="pdf" src="../../media/pitch2-0.eps" mime-type="application/postscript"/></media>
+		<caption>Sharp, flat, and natural signs can appear either in the <link document="m10881">key signature</link>, or right in front of the note that they change.</caption>
+	</figure>
+
+    <para id="p0c">A <term>sharp sign</term> means "the note that is one <link document="m10866" strength="3">half step</link> higher than the natural note". A <term>flat sign</term> means "the note that is one half step lower than the natural note". Some of the natural notes are only one half step apart, but most of them are a <link document="m10866" strength="3">whole step</link> apart. When they are a whole step apart, the note in between them can only be named using a flat or a sharp.
+    </para>
+
+	<figure id="fig22b"><media id="id1171918538831" alt=""><image src="../../media/Pitch3.png" mime-type="image/png"/><image for="pdf" src="../../media/Pitch3-0.eps" mime-type="application/postscript"/></media></figure>
+
+    <para id="p0d">
+Notice that, using flats and sharps, any pitch can be given more than one note name. For example, the G sharp and the A flat are played on the same key on the keyboard; they sound the same. You can also name and write the F natural as "E sharp"; F natural is the note that is a half step higher than E natural, which is the definition of E sharp. Notes that have different names but sound the same are called <link document="m11641" strength="3">enharmonic</link> notes.
+    </para>
+
+	<figure id="fig22d"><media id="id1171921374680" alt=""><image src="../../media/pitch4.png" mime-type="image/png"/><image for="pdf" src="../../media/pitch4-0.eps" mime-type="application/postscript"/></media>
+		<caption>G sharp and A flat sound the same. E sharp and F natural sound the same.</caption>
+	</figure>
+
+    <para id="p0e">
+Sharp and flat signs can be used in two ways: they can be part of a <link document="m10881" strength="3">key signature</link>, or they can mark accidentals. For example, if most of the C's in a piece of music are going to be sharp, then a sharp sign is put in the "C" space at the beginning of the <link document="m10880" strength="2">staff</link>, in the key signature. If only a few of the C's are going to be sharp, then those C's are marked individually with a sharp sign right in front of them. Pitches that are not in the key signature are called <term>accidentals</term>.
+    </para>
+
+	<figure id="fig22e"><media id="id1171930442743" alt=""><image src="../../media/pitch5.png" mime-type="image/png"/><image for="pdf" src="../../media/pitch5-0.eps" mime-type="application/postscript"/></media>
+		<caption>When a sharp sign appears in the C space in the key signature, all C's are sharp unless marked as accidentals.</caption>
+	</figure>
+
+    <para id="p0f">A note can also be double sharp or double flat. A <term>double sharp</term> is two half steps (one whole step) higher than the natural note; a <term>double flat</term> is two half steps (a whole step) lower. Triple, quadruple, etc. sharps and flats are rare, but follow the same pattern: every sharp or flat raises or lowers the pitch one more half step.
+    </para>
+    <para id="p0g">Using double or triple sharps or flats may seem to be making things more difficult than they need to be. Why not call the note "A natural" instead of "G double sharp"? The answer is that, although A natural and G double sharp are the same pitch, they don't have the same function within a particular chord or a particular key. For musicians who understand some music theory (and that includes most performers, not just composers and music teachers), calling a note "G double sharp" gives important and useful information about how that note functions in the <link document="m11654" target-id="l0b">chord</link> and in the <link document="m11643">progression of the harmony</link>.
+    </para>
+
+	<figure id="fig22f"><media id="id1171936605981" alt=""><image src="../../media/pitch6.png" mime-type="image/png"/><image for="pdf" src="../../media/pitch6-0.eps" mime-type="application/postscript"/></media>
+		<caption>Double sharps raise the pitch by two half steps (one whole step). Double flats lower the pitch by two half steps (one whole step).</caption>
+	</figure></content>
+  
+</document>

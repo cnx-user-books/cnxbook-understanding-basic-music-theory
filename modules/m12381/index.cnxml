@@ -1,0 +1,80 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Range</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12381</md:content-id>
+  <md:title>Range</md:title>
+  <md:abstract>Each type of voice and musical instrument has a characteristic pitch range.</md:abstract>
+  <md:uuid>c4153071-1ec2-43eb-86b5-5b44ab61fc29</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11896/latest/" strength="1">Classifying Instruments</link>
+      <link url="http://cnx.rice.edu/content/m11897/latest/" strength="1">Orchestral Instruments</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="2">Pitch</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+<section id="id2553114">
+<title>Introduction</title>
+
+<para id="id2553126">The <term>range</term> of a voice or instrument is the set of <link document="m10943">pitches</link>, from lowest to highest, that it can sing or play. A range can be described using the appropriate <link document="m10862" target-id="s2">octave identification</link>, for example, "from one-line c to two-line g". But it is often easiest to write the range on a staff, as the two notes at the high and low ends of the range. 
+</para><para id="element-281">A piece of music, or one performer's part in that piece, may also be described as having a range, from the lowest to highest note written for the performer in that piece. There is usually a difference (sometimes a large one) between the total range of the part and a smaller range that the part stays in most of the time (heading to the extreme highs and lows only occasionally). This smaller range is called the <term>tessitura</term> of the part. One can also speak of the tessitura of a performer's voice, which is the range in which it sounds the best (so that matching the tessitura of the part and of the performer is a very good idea). Notice the similarity between this second definition and the term <link target-id="id2553459">power range</link>, sometimes used to describe the most powerful or useful part of an instrument's range.</para>
+
+    <para id="p4a">
+A <term>register</term> is a distinctive part of a vocal or instrumental range. For example, singers may speak of the <term>head register</term>, in the upper part of their range, and the <term>chest register</term> in the lower part of their range. These two registers sound and feel very different, and the singer may have even have two distinct tessituras, one in each register. The large range of the <link document="m12604">clarinet</link> is also divided into distinctive registers with different capabilities and very different <link document="m11059">timbres</link>. Even when an instrument does not have a very large variation in timbre over its range, its players may speak of the difficulty of "playing in the high register" or a "dull timbre in the low register".
+    </para>
+
+<figure id="id2553163"><title>Describing a Range</title>
+<media id="id1163687128406" alt=""><image src="../../media/range.png" mime-type="image/png"/><image for="pdf" src="../../media/range-0.eps" mime-type="application/postscript"/></media>
+</figure>
+
+</section>
+
+<section id="id2553200">
+<title> Vocal Ranges</title>
+<para id="id2553219">A typical choral arrangement divides women into higher and lower voices and men into higher or lower voices. Most voices can be assigned one of these four ranges, and this gives the composer four vocal lines to work with, which is usually enough. The four main vocal ranges are:</para><list id="id2553233" list-type="bulleted">
+<item><term>Soprano</term> – A high female (or boy’s) voice</item>
+<item><term>Alto</term> – A low female (or boy’s) voice</item>
+<item><term>Tenor</term> – A high (adult) male voice</item>
+<item><term>Bass</term> – A low (adult) male voice</item></list>
+
+<para id="id2553271">Arrangements for these four voices are labelled SATB (for Soprano Alto Tenor Bass). The ranges of the four voices overlap, but singers may find themselves straining or getting an unpleasant sound at the top or a weak sound at the bottom of their ranges. So although the full ranges of an alto and a soprano may look quite similar, the soprano gets a strong, clear sound on the higher notes, and the alto a strong, clear sound in the lower part of the range. But there are vocalists whose strong, best-sounding range falls in a distinctly different place from any of these four voices. The names for some of these ranges are:</para>
+
+<list id="id2553291" list-type="bulleted">
+<item><term>Coloratura Soprano</term> – This is not really a different range from the soprano, but a coloratura soprano has a voice that is unusually high, light, and agile, even for a soprano.</item>
+<item><term>Mezzo-soprano</term> – In between soprano and alto</item>
+<item><term>Contralto</term> – Contralto and alto originally referred to the same voice. But some people today use “contralto” to refer to a female voice that is even lower than a typical alto</item>
+<item><term>Countertenor</term> – A male voice that is unusually high, light, and agile, even for a tenor</item>
+<item><term>Baritone</term> – A male voice that falls in between tenor and bass</item>
+</list>
+
+<figure id="fig1a"><title>Vocal Ranges</title>
+<media id="id1163691022591" alt=""><image src="../../media/vocalranges.png" mime-type="image/png"/><image for="pdf" src="../../media/vocalranges-0.eps" mime-type="application/postscript"/></media>
+  <caption>Voices are as individual as faces; some altos will have a narrower or wider range, or the sweetest and most powerful part of their range in a different place than other altos. These are approximate, average ranges for each voice category.
+   </caption>
+</figure>
+
+</section>
+
+<section id="id2553355"><title>Instrumental Ranges</title><para id="id2553367">The same terms used to identify vocal ranges are also often used to identify particular instruments. For example a bass <link document="m12602">trombone</link> has a lower range than a tenor trombone, and an alto <link document="m12611">saxophone</link> sounds higher than a tenor saxophone. Some other terms that are used to describe instrument ranges are:</para>
+
+<list id="id2553381" list-type="bulleted"><item><term>Contra</term> – Means lower: for example a contrabassoon sounds lower than a regular <link document="m12612">bassoon</link>, and a contrabass clarinet is even lower than a bass clarinet.</item>
+<item><term>Piccolo</term>-  Means higher (literally "smaller"): for example, a piccolo trumpet is higher than a regular trumpet.</item>
+<item><term>A Note Name</term> – If an instrument comes in several different sizes (and ranges), the name of a particular size of the instrument may be a note name: for example, an <link document="m11617">F horn</link>, a B flat <link document="m12604">clarinet</link>, and a C <link document="m12606">trumpet</link>. The note name is the name of the <link document="m11118" target-id="p1c">fundamental harmonic</link> of the instrument. An instrument with a slightly higher fundamental will have a slightly higher range; an instrument with a much lower fundamental will have a much lower range. Some instruments that are identified this way are  <link document="m10672">transposing instruments</link>, but others are not.</item>
+</list>
+
+<para id="id2553426">The ranges of some instruments are definite and absolute. For example, even a beginning piano player can play the highest and lowest keys; and even the best player cannot play beyond these. But the ranges of many instruments are, like vocal ranges, not so definite. For example, an experienced horn or clarinet player can play much higher and lower notes than a beginner. An exceptional trumpet player may be able to play - with good sound and technique – high notes that the average high school trumpet player cannot play at all.</para>
+<para id="id2553449">Other instruments may be a mix of absolute and indefinite ranges. For example, on any string instrument, nobody can play lower than the note that the lowest string is tuned to. But experienced players can easily play very high notes that inexperienced players have trouble playing well.</para>
+
+<para id="id2553459">So it is sometimes useful to distinguish between a <term>possible range</term>, which includes the notes that a very experienced player can get, and a <term>practical range</term>, that includes all the notes that any competent player (including a good younger player) can get. <note id="id1163686163237">Outside of the instrument’s practical range, it may be a strain for even a very good player to play long or tricky passages. So if you are composing or arranging, it’s a very good idea to be able to distinguish between these two ranges for the voices or instruments you include.</note> Some sources even list the <term>power range</term> of an instrument or voice. This is the part of the range where the instrument or voice is particularly strong. It may be in the middle of the range, or at the top or bottom, but writing in the power  range should guarantee that the part is easy to play (or sing), sounds clear and strong, and can be easily heard, even when many other instruments are playing.</para>
+
+</section></content>
+
+</document>

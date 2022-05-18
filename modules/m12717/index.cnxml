@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Pickup Notes and Measures</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12717</md:content-id>
+  <md:title>Pickup Notes and Measures</md:title>
+  <md:abstract>A shortened first measure of a piece of music is called a pickup measure. Notes that begin a phrase shortly before a strong downbeat are also called pickup notes.</md:abstract>
+  <md:uuid>fbee7fec-32f8-4423-a8a1-a52f7d001618</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m12405/latest/" strength="2">Meter</link>
+      <link url="http://cnx.rice.edu/content/m10842/latest/" strength="2">Form in Music</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m11647/latest/" strength="3">Melodic Phrase</link>
+      <link url="http://cnx.rice.edu/content/m10956/latest/" strength="3">Time Signature</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+  <section id="s1">
+   <title>Pickup Measures</title>
+
+    <para id="p1a">
+Normally, all the <link document="m10880" target-id="s1">measures</link> of a piece of music must have exactly the number of <link document="m10956" target-id="s1">beats</link> indicated in the <link document="m10956">time signature</link>. The beats may be filled with any combination of notes or rests (with <link document="m10945">duration</link> values also dictated by the time signature), but they must combine to make exactly the right number of beats. If a measure or group of measures has more or fewer beats, the time signature must change.
+    </para>
+ 
+    <figure id="fig1a"><media id="id1170965632575" alt=""><image src="../../media/timechange.png" mime-type="image/png"/><image for="pdf" src="../../media/timechange-0.eps" mime-type="application/postscript"/></media>
+    <caption>Normally, a composer who wants to put more or fewer beats in a measure must change the time signature, as in this example from Mussorgsky's <cite><cite-title>Boris Godunov</cite-title></cite>.</caption></figure>
+
+    <para id="p1b">
+There is one common exception to this rule. (There are also some less common exceptions not discussed here.) Often, a piece of music does not begin on the <link document="m10956" target-id="p1b">strongest downbeat</link>. Instead, the strong beat that people like to count as "one" (the beginning of a measure), happens on the second or third note, or even later. In this case, the first measure may be a full measure that begins with some rests. But often the first measure is simply not a full measure. This shortened first measure is called a <term>pickup measure</term>.
+    </para>
+
+    <para id="p1c">
+If there is a pickup measure, the final measure of the piece should be shortened by the length of the pickup measure (although this rule is sometimes ignored in less formal written music). For example, if the <link document="m12405">meter</link> of the piece has four beats, and the pickup measure has one beat, then the final measure should have only three beats. (Of course, any combination of notes and rests can be used, as long as the total in the first and final measures equals one full measure. 
+    </para>
+
+    <figure id="fig1b"><media id="id1170955698468" alt=""><image src="../../media/pickupmeasure.png" mime-type="image/png"/><image for="pdf" src="../../media/pickupmeasure-0.eps" mime-type="application/postscript"/></media>
+    <caption>If a piece begins with a pickup measure, the final measure of the piece is shortened by the length of the pickup measure.</caption>
+    </figure>
+
+  </section>
+  <section id="s2">
+   <title>Pickup Notes</title>
+
+    <para id="p2a">
+Any <link document="m11647" target-id="s2">phrase</link> of music (not just the first one) may begin someplace other than on a strong downbeat. All the notes before the first strong downbeat of any phrase are the <term>pickup notes</term> to that phrase.
+    </para>
+
+    <figure id="fig2a"><media id="id1170955705888" alt=""><image src="../../media/pickupnote.png" mime-type="image/png"/><image for="pdf" src="../../media/pickupnote-0.eps" mime-type="application/postscript"/></media>
+<caption>Any phrase may begin with pickup notes. Each of these four phrases begins with one or two pickup notes. (You may listen to the tune <link resource="GirlILeftBehind.MID">here</link>; can you hear that the pickup notes lead to the stronger downbeat?)</caption>
+    </figure>
+
+    <para id="p1d">A piece that is using pickup measures or pickup notes may also sometimes place a <link document="m10880" target-id="p1a">double bar</link> (with or without repeat signs) inside a measure, in order to make it clear which phrase and which section of the music the pickup notes belong to. If this happens (which is a bit rare, because it can be confusing to read), there is still a single bar line where it should be, at the end of the measure.
+    </para>
+
+
+  </section><figure id="element-336"><media id="id1170955709376" alt=""><image src="../../media/pickuprepeat.png" mime-type="image/png"/><image for="pdf" src="../../media/pickuprepeat-0.eps" mime-type="application/postscript"/></media>
+<caption>At the ends of sections of the music, a measure may be interrupted by a double bar that places the pickup notes in the correct section and assures that repeats have the correct number of beats. When this happens, the bar line will still appear at the end of the completed measure. This notation can be confusing, though, and in some music the pickups and repeats are written in a way that avoids these broken-up measures.</caption></figure></content>
+  
+</document>

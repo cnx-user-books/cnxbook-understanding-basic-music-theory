@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Half Steps and Whole Steps</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10866</md:content-id>
+  <md:title>Half Steps and Whole Steps</md:title>
+  <md:abstract>The pitch of a note is how high or low it sounds. The distance between two pitches can be measured in half steps and whole steps.</md:abstract>
+  <md:uuid>6028dc7a-df69-4a6b-a6d3-a1ec27c417dc</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="2">Major Scales</link>
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="2">Minor Scales</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10862/latest/" strength="3">Octaves</link>
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="3">Pitch</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <para id="p0a">
+ The <term>pitch</term> of a note is how high or low it sounds. Musicians often find it useful to talk about how much higher or lower one note is than another. This distance between two pitches is called the <term>interval</term> between them. In <link document="m11421">Western music</link>, the small interval from one note to the next closest note higher or lower is called a <term>half step</term> or <term>semi-tone</term>.
+    </para>
+
+    <figure id="fig6df" orient="vertical"><title>Half Steps</title>
+	<subfigure id="fig6d">
+             <media id="id16928659" alt=""><image src="../../media/HalfStepKeyboard.png" mime-type="image/png"/><image for="pdf" src="../../media/HalfStepKeyboard-0.eps" mime-type="application/postscript"/></media>
+	</subfigure>
+	<subfigure id="fig6f">
+           <media id="id16921518" alt=""><image src="../../media/halfsteps.png" mime-type="image/png"/><image for="pdf" src="../../media/halfsteps-0.eps" mime-type="application/postscript"/></media>
+	</subfigure>
+     <caption>Three half-step intervals: between C and C sharp (or D flat); between E and F; and between G sharp (or A flat) and A.</caption>
+      </figure>
+
+    <para id="p0ba"><link resource="6f.mid">Listen</link> to the half steps in <link target-id="fig6df"/>.
+    </para>
+
+    <para id="p0b">The intervals in <link target-id="fig6df"/> look different on a <link document="m10880" strength="2">staff</link>; sometimes they are on the same line, sometimes not. But it is clear at the keyboard that in each case there is no note in between them. 
+    </para>
+
+    <para id="p0bb">So a <link document="m10851">scale</link> that goes up or down by half steps, a <term>chromatic scale</term>, plays all the notes on both the white and black keys of a piano. It also plays all the notes easily available on most <link document="m11421" strength="2">Western</link> instruments. (A few instruments, like <link document="m12602">trombone</link> and <link document="m13437">violin</link>, can easily play pitches that aren't in the chromatic scale, but even they usually don't.)
+    </para>
+
+    <figure id="fig6a"><title>One Octave Chromatic Scale</title>
+<media id="id11695127" alt=""><image src="../../media/chromatic.png" mime-type="image/png"/><image for="pdf" src="../../media/chromatic-0.eps" mime-type="application/postscript"/></media>
+     <caption>All intervals in a <emphasis>chromatic scale</emphasis> are half steps. The result is a scale that plays all the notes easily available on most instruments.</caption>
+    </figure>
+
+    <para id="p0ca">
+<link resource="6a.mid">Listen</link> to a chromatic scale.
+    </para>
+
+    <para id="p0c">
+If you go up or down two half steps from one note to another, then those notes are a <term>whole step</term>, or <term>whole tone</term> apart.
+    </para>
+
+    <figure id="fig6ei" orient="vertical"><title>Whole Steps</title>
+	<subfigure id="fig6e">
+      <media id="id16541851" alt=""><image src="../../media/WholeStepKeyboard.png" mime-type="image/png"/><image for="pdf" src="../../media/WholeStepKeyboard-0.eps" mime-type="application/postscript"/></media>
+	</subfigure>
+	<subfigure id="fig6i">
+            <media id="id16705737" alt=""><image src="../../media/wholesteps.png" mime-type="image/png"/><image for="pdf" src="../../media/wholesteps-0.eps" mime-type="application/postscript"/></media>
+	</subfigure>
+      <caption>Three whole step intervals: between C and D; between E and F sharp; and between G sharp and A sharp (or A flat and B flat).</caption>
+     </figure>
+
+    <para id="p0d">
+A <term>whole tone scale</term>, a scale made only of whole steps, sounds very different from a chromatic scale.
+    </para>
+
+    <figure id="score6b"><title>Whole Tone Scale</title>
+   <media id="id15037209" alt=""><image src="../../media/wholetone.png" mime-type="image/png"/><image for="pdf" src="../../media/wholetone-0.eps" mime-type="application/postscript"/></media>
+     <caption>All intervals in a <emphasis>whole tone scale</emphasis> are whole steps.</caption>
+    </figure>
+
+    <para id="p0ea">
+<link resource="6b.mid">Listen</link> to a whole tone scale.
+    </para>
+
+    <para id="p0e">
+You can count any number of whole steps or half steps between notes; just remember to count all sharp or flat notes (the black keys on a keyboard) as well as all the natural notes (the white keys) that are in between.
+    </para>
+
+    <example id="exam0a">
+
+     <para id="pexam0a">The interval between C and the F above it is 5 half steps, or two and a half steps.
+     </para>
+
+     <figure id="fig6h"><media id="id11506106" alt=""><image src="../../media/CountHalfSteps.png" mime-type="image/png"/><image for="pdf" src="../../media/CountHalfSteps-0.eps" mime-type="application/postscript"/></media>   
+<caption>Going from C up to F takes five half steps.</caption></figure>
+
+    </example>
+
+    <exercise id="exer0a">
+
+     <problem id="id4883301">
+      <para id="prob0a">Identify the intervals below in terms of half steps and whole steps. If you have trouble keeping track of the notes, use a piano keyboard, a written chromatic scale, or the chromatic fingerings for your instrument to count half steps.
+      </para>
+
+      <figure id="fig6c"><media id="id7402349" alt=""><image src="../../media/HalfStepsProblem1.png" mime-type="image/png"/><image for="pdf" src="../../media/HalfStepsProblem1-0.eps" mime-type="application/postscript"/></media></figure>
+     </problem>
+
+     <solution id="id7432785">
+      <figure id="fig6g"><media id="id7432798" alt=""><image src="../../media/HalfStepsSolv1.png" mime-type="image/png"/><image for="pdf" src="../../media/HalfStepsSolv1-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+     </solution>
+
+    </exercise>
+
+    <exercise id="exer0b">
+
+     <problem id="id11899534">
+      <para id="prob0b">
+Fill in the second note of the interval indicated in each measure. If you need staff paper for this exercise, you can print out this <link resource="staffpaper1.pdf">staff paper</link> PDF file.
+      </para>
+      <figure id="fig6j"><media id="id7451469" alt=""><image src="../../media/HalfStepsProb2.png" mime-type="image/png"/><image for="pdf" src="../../media/HalfStepsProb2-0.eps" mime-type="application/postscript"/></media>
+      </figure>
+     </problem>
+
+     <solution id="id7385063">
+      <figure id="fig6k"><media id="id6863166" alt=""><image src="../../media/HalfStepsSolv2.png" mime-type="image/png"/><image for="pdf" src="../../media/HalfStepsSolv2-0.eps" mime-type="application/postscript"/></media>
+      <caption>If your answer is different, check to see if you have written a different <link document="m11641">enharmonic spelling</link> of the note in the answer. For example, the B flat could be written as an A sharp.</caption></figure>
+
+     </solution>
+
+    </exercise></content>
+  
+</document>

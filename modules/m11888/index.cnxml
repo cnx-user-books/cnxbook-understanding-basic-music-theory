@@ -1,0 +1,106 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Dots, Ties, and Borrowed Divisions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11888</md:content-id>
+  <md:title>Dots, Ties, and Borrowed Divisions</md:title>
+  <md:abstract>In written music, standard note lengths are always halves (or halves of halves, and so on) of other note lengths. To get any other note length, dots, ties, or borrowed divisions must be used.</md:abstract>
+  <md:uuid>fe1e481a-f2c2-481c-9796-1bae5c426988</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10956/latest/" strength="2">Time Signature</link>
+      <link url="http://cnx.rice.edu/content/m11646/latest/" strength="2">Rhythm</link>
+      <link url="http://cnx.rice.edu/content/m12405/latest/" strength="2">Meter</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10945/latest/" strength="3">Duration: Note Length</link>
+      <link url="http://cnx.rice.edu/content/m11887/latest/" strength="3">Duration: Rest Length</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+   <para id="p0a">
+A half note is half the length of a whole note; a quarter note is half the length of a half note; an eighth note is half the length of a quarter note, and so on. (See <link document="m10945">Duration:Note Length</link>.) The same goes for rests. (See <link document="m11887">Duration: Rest Length</link>.) But what if you want a note (or rest) length that isn't half of another note (or rest) length? 
+   </para>
+ 
+  <section id="s1">
+    <title>Dotted Notes</title>
+
+   <para id="p3a">
+One way to get a different length is by dotting the note or rest. A <term>dotted note</term> is one-and-a-half times the length of the same note without the dot. In other words, the note keeps its original length and adds another half of that original length because of the dot. So a dotted half note, for example, would last as long as a half note plus a quarter note, or three quarters of a whole note.
+   </para>
+
+	<figure id="fig23e"><media id="id1164228187779" alt=""><image src="../../media/notes6.png" mime-type="image/png"/><image for="pdf" src="../../media/notes6-0.eps" mime-type="application/postscript"/></media>
+		<caption>The dot acts as if it is adding another note half the length of the original note. A dotted quarter note, for example, would be the length of a quarter plus an eighth, because an eighth note is half the length of a quarter note.</caption>
+	</figure>
+
+   <exercise id="exer3a">
+
+    <problem id="id1164224144187">
+       <para id="prob3a">
+Make groups of equal length on each side, by putting a dotted note or rest in the box.
+        </para>
+ 
+	<figure id="fig23n"><media id="id7116524" alt=""><image src="../../media/noteprob2.png" mime-type="image/png"/><image for="pdf" src="../../media/noteprob2-0.eps" mime-type="application/postscript"/></media></figure>
+
+    </problem>
+
+    <solution id="id1550183">
+	<figure id="fig23o"><media id="id1164228345315" alt=""><image src="../../media/notesolv2.png" mime-type="image/png"/><image for="pdf" src="../../media/notesolv2-0.eps" mime-type="application/postscript"/></media></figure>
+    </solution>
+   </exercise>
+
+   <para id="p3b">
+A note may have more than one dot. Each dot adds half the length that the dot before it added. For example, the first dot after a half note adds a quarter note length; the second dot would add an eighth note length.
+   </para>
+
+	<figure id="fig23f"><media id="id1164228612764" alt=""><image src="../../media/notes7.png" mime-type="image/png"/><image for="pdf" src="../../media/notes7-0.eps" mime-type="application/postscript"/></media>
+		<caption>When a note has more than one dot, each dot is worth half of the dot before it.</caption>
+	</figure>
+
+  </section>
+  <section id="s2">
+    <title>Tied Notes</title>
+
+   <para id="p3c">A dotted half lasts as long as a half note plus a quarter note. The same length may be written as a half note and a quarter note tied together. <term>Tied notes</term> are written with a curved line connecting two notes that are on the same line or the same space in the staff. Notes of any length may be tied together, and more than two notes may be tied together. <emphasis>The sound they stand for will be a single note that is the length of all the tied notes added together.</emphasis> This is another way to make a great variety of note lengths. Tied notes are also the only way to write a sound that starts in one <link document="m10956" target-id="s1" strength="3">measure</link> and ends in a different measure.<note id="id1164228467632">Ties may look like <link document="m11884" target-id="p1d">slurs</link>, but they are not the same; a slur connects to notes with different   <link document="m10943">pitches</link> and is a type of <link document="m11884">articulation</link>.</note>
+   </para>
+
+	<figure id="fig23p"><media id="id1164228485254" alt=""><image src="../../media/notes8.png" mime-type="image/png"/><image for="pdf" src="../../media/notes8-0.eps" mime-type="application/postscript"/></media>
+		<caption>When these eight notes are played as written, only five distinct notes are heard: one note the length of two whole notes; then a dotted half note; then another note the same length as the dotted half note; then a quarter note; then a note the same length as a whole note plus a quarter note.</caption>
+	</figure>
+
+  </section>
+  <section id="s3">
+    <title>Borrowed Divisions</title>
+
+   <para id="p3d">Dots and ties give you much freedom to write notes of varying lengths, but so far you must build your notes from halves of other notes. If you want to divide a note length into anything other than halves or halves of halves - if you want to divide a beat into thirds or fifths, for example - you must write the number of the division over the notes. These unusual subdivisions are called <term>borrowed divisions</term> because they sound as if they have been borrowed from a completely different <link document="m12405" strength="3">meter</link>. They can be difficult to perform correctly and are avoided in music for beginners. The only one that is commonly used is <term>triplets</term>, which divide a note length into equal thirds. 
+   </para>
+
+	<figure id="fig23g"><title>Some Borrowed Divisions</title>
+<media id="id8627571" alt=""><image src="../../media/notes9a.png" mime-type="image/png"/><image for="pdf" src="../../media/notes9a-0.eps" mime-type="application/postscript"/></media>
+		<caption>Any common note length can be divided into an unusual number of equal-length notes and rests, for example by dividing a whole note into three instead of two "half" notes. The notes are labeled with the appropriate number. If there might be any question as to which notes are involved in the borrowed division, a bracket is placed above them. Triplets are by far the most common borrowed division. </caption>
+	</figure>
+
+<figure id="element-351"><title>Borrowed Duplets</title>
+<media id="id1164226382420" alt=""><image src="../../media/notes9c.png" mime-type="image/png"/><image for="pdf" src="../../media/notes9c-0.eps" mime-type="application/postscript"/></media>
+     <caption>
+In a compound <link document="m12405">meter</link>, which normally divides a beat into three, the borrowed division may divide the beat into two, as in a simple meter. You may also see duplets in swing music.
+     </caption>
+     </figure><para id="p3e">Notes in jazzy-sounding music that has a "swing" beat are often assumed to be triplet rhythms, even when they look like regular divisions; for example, two written eighth notes (or a dotted quarter-sixteenth) might sound like a triplet quarter-eighth rhythm. In jazz and other popular music styles, a <link document="m11648">tempo</link> notation that says <term>swing</term> usually means that all rhythms should be played as triplets. <term>Straight</term> means to play the rhythms as written. <note id="id1164226213887">Some jazz musicians prefer to think of a swing rhythm as more of a heavy accent on the second eighth, rather than as a triplet rhythm, particularly when the <link document="m11648">tempo</link> is fast. This distinction is not important for students of music theory, but jazz students will want to work hard on using both <link document="m11646">rhythm</link> and <link document="m11884">articulation</link> to produce a convincing "swing".</note></para>
+
+<figure id="fig23h"><title>Swing Rhythms</title>
+<media id="id1164226213929" alt=""><image src="../../media/notes9b.png" mime-type="image/png"/><image for="pdf" src="../../media/notes9b-0.eps" mime-type="application/postscript"/></media>
+     <caption>
+Jazz or blues with a <term>"swing" rhythm</term> often assumes that all divisions are triplets. The swung triplets may be written as triplets, or they may simply be written as "straight" eighth notes or dotted eighth-sixteenths. If rhythms are not written as triplets, the tempo marking usually includes an indication to "swing", or it may simply be implied by the style and genre of the music.
+     </caption>
+     </figure>
+
+
+
+  </section></content>
+  
+</document>

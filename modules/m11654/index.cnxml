@@ -1,0 +1,105 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Harmony</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11654</md:content-id>
+  <md:title>Harmony</md:title>
+  <md:abstract>An introduction to one of the basic elements of music.</md:abstract>
+  <md:uuid>9b86eea1-acee-487a-93e5-46b71222ab1e</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11643/latest/" strength="3">Harmonic Analysis</link>
+      <link url="http://cnx.rice.edu/content/m10877/latest/" strength="3">Triads</link>
+      <link url="http://cnx.rice.edu/content/m10890/latest/" strength="3">Naming Triads</link>
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="2">Major Keys and Scales</link>
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="2">Minor Keys and Scales</link>
+      <link url="http://cnx.rice.edu/content/m10842/latest/" strength="2">More Chords</link>
+      <link url="http://cnx.rice.edu/content/m11645/latest/" strength="2">Texture</link>
+      <link url="http://cnx.rice.edu/content/m11118/latest/" strength="2">Harmonic Series</link>
+      <link url="http://cnx.rice.edu/content/m11634/latest/" strength="2">Counterpoint</link>
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="2">Interval</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    		<para id="p0a">When you have more than one <link document="m10943" strength="3">pitch</link> sounding at the same time in music, the result is <term>harmony</term>. Harmony is one of the basic elements of music, but it is not as basic as some other elements, such as <link document="m11646">rhythm</link> and <link document="m11647">melody</link>. You can have music that is just rhythms, with no pitches at all. You can also have music that is just a single melody, or just a melody with rhythm <link document="m11654" target-id="l0c">accompaniment</link>.
+		</para>
+		
+            <para id="p0c">But as soon as there is more than one pitch sounding at a time, you have harmony. Even if nobody is actually playing <link document="m11654" target-id="l0b">chords</link>, or even if the notes are part of independent <link document="m11634" strength="2">contrapuntal</link> lines, you can hear the relationship of any notes that happen at the same time, and it is this relationship that makes the harmony. <note id="id1171504323050">Harmony does not have to be particularly "harmonious"; it may be quite <link document="m11953">dissonant</link>, in fact. For the purpose of definitions, the important fact is the notes sounding at the same time.</note>
+            </para>
+
+              <para id="p0e">Harmony is the most emphasized and most highly developed element in <link document="m11421">Western music</link>, and can be the subject of an entire course on music theory. Many of the concepts underlying Western harmony are explained in greater detail elsewhere (see <link document="m10877">Triads</link> and <link document="m11643">Beginning Harmonic Analysis</link>, for example), but here are some basic terms and short definitions that you may find useful in discussions of harmony:
+                </para>
+
+          <list id="l0a"><title>Harmony Textures</title>
+                <item>
+<term>implied harmony</term> - A melody all by itself (<link document="m11645" target-id="s1">Monophony</link>) can have an implied harmony, even if no other notes are sounding at the same time. In other words, the melody can be constructed so that it strongly suggests a harmony that could accompany it. For example, when you sing a melody by itself, you may be able to "hear" in your mind the chords that usually go with it. A Bach unaccompanied cello suite also has strongly implied harmonies; if someone really wanted to play an <link target-id="l0c">accompaniment</link>, the appropriate <link target-id="l0b">chords</link> could be found pretty easily. But some melodies don't imply any harmony; they are not meant to be played with harmony, and don't need it to be legitimate music. (Good examples of this include plainchant, some modern art music, and some <link document="m11421" strength="2">Non-Western</link> music, for example, Native American flute music.)
+                </item>
+                <item>
+<term>drones</term> - The simplest way to add harmony to a melody is to play it with drones. A drone is a note that changes rarely or not at all. Drones can be most easily found in bagpipes music, <link document="m12502"> Indian Classical</link> music and other musics that use instruments that traditionally play drone notes. (See <link document="m11844" strength="3">Harmony with Drones</link>.)
+                </item>
+                <item>
+<term>parallel harmony</term> - Parallel harmony occurs when different lines in the music go up or down together (usually following the melody). (See <link document="m11878" strength="3">Parallel Harmonies</link> for examples.)
+			</item>
+			<item>
+<term>homophony</term> - Homophony is a <link document="m11645" strength="3">texture</link> of music in which there is one line that is obviously the melody. The rest of the notes are harmony and <link target-id="l0c">accompaniment</link>. (See <link document="m11645" target-id="s12">Homophonic</link>.) 
+                </item>
+                <item>
+<term>polyphony</term> or <term>counterpoint</term> - Both of these terms refer to a texture of music in which there is more than one independent melodic line at the same time, and they are all fairly equal in importance. (See <link document="m11645" target-id="s13">Polyphonic</link> and <link document="m11634" strength="2">Counterpoint</link>.)
+                </item>
+              </list>
+
+              <list id="l0b"><title>Chords</title><item>
+<term>chords</term> - In <link document="m11421" strength="2">Western</link> music, most harmony is based on chords. <term>Chords</term> are groups of notes built on <link document="m10851" strength="3">major</link> or <link document="m10856" strength="3">minor</link> <link document="m10877" strength="3">triads</link>. In traditional triadic harmony, there are always at least three notes in a chord (there can be more than three), but some of the notes may be left out and only "implied" by the harmony. The notes of the chord may be played at the same time (<term>block chords</term>), or may be played separately with some overlap, or may be played separately but in a quick enough succession that they will be "heard" as a chord or understood to imply a chord (<term>arpeggiated chords</term> or <term>arpeggios</term>).
+                </item>
+                <item>
+<term>chord progression</term> - A series of chords played one after another is a chord progression. Musicians may describe a specific chord progression (for example, "two measures of G major, then a half measure of A minor and a half measure of D seventh", or just "G, A minor, D seventh") or speak more generally of classes of chord progressions (for example a "blues chord progression"). Please see <link document="m11643" strength="3">Beginning Harmonic Analysis</link> for more information.
+                </item></list>
+
+           <list id="l0e"><title>Harmonic Analysis</title><item>
+<term>functional harmony</term> - Harmony can simply be more than one note sounding at a time, providing texture and interest to a piece; drones are one example of this non-functional type of harmony. One of the most important features of <link document="m11421" target-id="p2b">common practice</link> music, however, is functional harmony. This is harmony in which each chord functions in a specific way in the <link document="m10851">key</link>, and underpins the <link document="m10842">form</link> of the piece of music. For an introduction to functional harmony, see <link document="m11643">Beginning Harmonic Analysis</link>
+
+</item>
+                <item>
+<term>harmonic rhythm</term> - The harmonic rhythm of a piece refers to how often the chords change. Music in which the chords change rarely has a slow harmonic rhythm; music in which the chords change often has a fast harmonic rhythm. Harmonic rhythm can be completely separate from other rhythms and tempos. For example, a section of music with many short, quick notes but only one chord has fast rhythms but a slow harmonic rhythm.
+                </item>
+                <item>
+<term>cadence</term> - A cadence is a point where the music feels as if it has come to a temporary or permanent stopping point. In most <link document="m11421" strength="2">Western</link> music, cadence is tied very strongly to the harmony. For example, most listeners will feel that the strongest, most satisfying ending to a piece of music involves a <link document="m11643" target-id="s3">dominant chord</link> followed by a <link document="m11643" target-id="s3">tonic chord</link>. In fact, a song that does not end on the tonic chord will sound quite unsettled and even unfinished to most listeners. (See <link document="m12402">Cadence</link>.)
+                </item>
+                <item>
+<term>diatonic</term> - <link document="m11421" target-id="p7f">Diatonic</link> harmony stays in a particular <link document="m10851" strength="3">major</link> or <link document="m10856" strength="3">minor</link> key.
+                </item>
+                <item>
+<term>chromatic</term> - <link document="m11421" target-id="p7f">Chromatic</link> harmony includes many notes and chords that are not in the key and so contains many <link document="m10943" target-id="p0e" strength="2">accidentals</link>.
+                </item>
+                <item>
+<term>dissonance</term> - A dissonance is a note, chord, or <link document="m10867" strength="3">interval</link> that does not fit into the <link document="m10877" strength="3">triadic</link> harmonies that we have learned to expect from music. A dissonance may sound surprising, jarring, even unpleasant.
+                </item>
+           </list>
+
+           <list id="l0c"><title>Accompaniment</title>
+                <item>
+<term>accompaniment</term> - All the parts of the music that are not melody are part of the accompaniment. This includes rhythmic parts, harmonies, the bass line, and chords.
+                </item>
+                <item>
+<term>melodic line</term> - This is just another term for the string of notes that make up the <link document="m11647">melody</link>.
+                </item>
+                <item>
+<term>bass line</term> - The bass line is the string of notes that are the lowest notes being sung or played. Because of basic laws of physics, the bass line sets up the <link document="m13682">harmonics</link> that all the other parts - including the melody - must fit into. This makes it a very important line both for <link document="m11639">tuning</link> and for the harmony. The bass line also often outlines the <link target-id="l0b">chord progression</link>, and it is often the most noticeable line of the accompaniment.
+                </item>
+                <item>
+<term>inner parts</term> or <term>inner voices</term> - Accompaniment parts that fill in the music in between the melody (which is often the highest part) and the bass line.
+                </item>
+                <item>
+<term>descant</term> - The melody is not always the highest line in the music. Attention is naturally drawn to high notes, so a part that is higher than the melody is sometimes given a special name such as "descant". This term is an old one going all the way back to when harmonies first began to be added to medieval chant. (See <link document="m11634" target-id="l2a">Counterpoint</link> for more about descants.)
+                </item>
+             </list>
+
+		<para id="p0d">Suggestions for activities that introduce young students to harmony may be found in <link document="m11844" strength="3">Harmony with Drones</link>, <link document="m11875" strength="3">Simple Chordal Harmony</link>, <link document="m11878" strength="3">Parallel Harmonies</link>, and <link document="m11874" strength="3">Independent Harmonies</link>.
+ 		</para></content>
+  
+</document>

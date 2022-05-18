@@ -1,0 +1,200 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Texture</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11645</md:content-id>
+  <md:title>Texture</md:title>
+  <md:abstract>A short introduction to the basic element of music called texture.</md:abstract>
+  <md:uuid>04ac529b-2695-4994-b5a6-22a3776d69e3</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11421/latest/" strength="3">Western and Non-Western Music</link>
+      <link url="http://cnx.rice.edu/content/m11634/latest/" strength="3">Counterpoint</link>
+      <link url="http://cnx.rice.edu/content/m11647/latest/" strength="3">Melody</link>
+      <link url="http://cnx.rice.edu/content/m11654/latest/" strength="3">Harmony</link>
+      <link url="http://cnx.org/content/m14260/latest/" strength="3">Textures Activity</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="s0">
+       <title>Introduction</title>
+       <para id="p0a">Texture is one of the basic elements of music. When you describe the <term>texture</term> of a piece of music, you are describing how much is going on in the music at any given moment. For example, the texture of the music might be thick or thin, or it may have many or few layers. It might be made up of rhythm only, or of a melody line with chordal accompaniment, or many interweaving melodies. Below you will find some of the formal terms musicians use to describe texture. Suggestions for activities to introduce the concept of texture to young students can be found in <link document="m14260">Musical Textures Activities</link>.
+       </para>
+    </section>  
+
+    <section id="s1">
+      <title>Terms that Describe Texture</title>
+      <para id="p1a">There are many informal terms that can describe the texture of a piece of music (thick, thin, bass-heavy, rhythmically complex, and so on), but the formal terms that are used to describe texture all describe the relationships of <link document="m11647">melodies</link> and <link document="m11654">harmonies</link>. Here are definitions and examples of the four main types of texture. For specific pieces of music that are good examples of each type of texture, please see <link target-id="s4">below</link>.
+      </para>
+
+      <section id="s11">
+         <title>Monophonic</title>
+         <para id="p11a">
+<term>Monophonic</term> music has only one <link document="m11647">melodic</link> line, with no <link document="m11654">harmony</link> or <link document="m11634">counterpoint</link>. There may be <link document="m11646">rhythmic</link> accompaniment, but only one line that has specific <link document="m10943">pitches</link>. Monophonic music can also be called <term>monophony</term>. It is sometimes called <term>monody</term>, although the term "monody" can also refer to a particular type of solo song (with instrumental accompaniment) that was very popular in the 1600's.
+         </para>
+         <list id="l11b">
+         <title>Examples of Monophony</title>
+         <item>
+One person whistling a tune
+         </item>
+         <item>
+A single bugle sounding "Taps"
+         </item>
+         <item>
+A group of people all singing a song together, without harmonies or instruments
+         </item>
+         <item>
+A fife and drum corp, with all the fifes playing the same melody
+         </item>
+         </list>
+      </section>
+      <section id="s12">
+
+         <title>Homophonic</title>
+         <para id="p12a">
+<term>Homophonic</term> music can also be called <term>homophony</term>. More informally, people who are describing homophonic music may mention <link document="m11654" target-id="l0b">chords</link>, <link document="m11654" target-id="l0c">accompaniment</link>, <link document="m11654">harmony or harmonies</link>. Homophony has one clearly <link document="m11647">melodic</link> line; it's the line that naturally draws your attention. All other parts provide accompaniment or fill in the chords. In most well-written homophony, the parts that are not melody may still have a lot of melodic interest. They may follow many of the rules of well-written <link document="m11634">counterpoint</link>, and they can sound quite different from the melody and be interesting to listen to by themselves. But when they are sung or played with the melody, it is clear that they are not independent melodic parts, either because they have the same rhythm as the melody (i.e. are not independent) or because their main purpose is to fill in the chords or harmony (i.e. they are not really melodies).
+         </para>
+
+         <list id="l12b">
+         <title>Examples of Homophony</title>
+         <item>
+Choral music in which the parts have mostly the same rhythms at the same time is homophonic. Most traditional Protestant hymns and most "barbershop quartet" music is in this category.
+         </item>
+         <item>
+A singer accompanied by a guitar picking or strumming chords.
+         </item>
+         <item>
+A small jazz combo with a bass, a piano, and a drum set providing the "rhythm" background for a trumpet improvising a solo.
+         </item>
+         <item>
+A single bagpipes or accordion player playing a melody with drones or chords.
+         </item>
+         </list>
+
+      </section>
+      <section id="s13">
+         <title>Polyphonic</title>
+
+         <para id="p13a">
+<term>Polyphonic</term> music can also be called <term>polyphony</term>, <term>counterpoint</term>, or <term>contrapuntal</term> music. If more than one independent <link document="m11647">melody</link> is occurring at the same time, the music is polyphonic. (See <link document="m11634">counterpoint</link>.)
+         </para>
+
+         <list id="l13b">
+         <title>Examples of Polyphony</title>
+         <item>
+<link document="m11634" target-id="s2">Rounds, canons, and fugues</link> are all polyphonic. (Even if there is only one melody, if different people are singing or playing it at different times, the parts sound independent.)
+         </item>
+         <item>
+Much Baroque music is contrapuntal, particularly the works of J.S. Bach. 
+         </item>
+         <item>
+Most  music for large instrumental groups such as bands or orchestras is contrapuntal at least some of the time.
+         </item>
+         <item>
+Music that is mostly homophonic can become temporarily polyphonic if an independent countermelody is added. Think of a favorite pop or gospel tune that, near the end, has the soloist "ad libbing" while the back-up singers repeat the refrain. 
+         </item>
+         </list>
+
+      </section>
+
+      <section id="s14">
+          <title>Heterophonic</title>
+
+          <para id="p14a">
+A <term>heterophonic</term> texture is rare in <link document="m11421">Western</link> music. In <term>heterophony</term>, there is only one melody, but different variations of it are being sung or played at the same time. 
+          </para>
+
+          <list id="l14a"><item>
+Heterophony can be heard in the Bluegrass, "mountain music", Cajun, and Zydeco traditions. Listen for the tune to be played by two instruments (say fiddle and banjo) at the same time, with each adding the <link document="m11647">embellishments, ornaments</link>, and flourishes that are characteristic of the instrument.
+</item>
+<item>
+Some Middle Eastern, South Asian, central Eurasian, and Native American music traditions include heterophony. Listen for traditional music (most modern-composed music, even from these cultures, has little or no heterophony) in which singers and/or instrumentalists perform the same melody at the same time, but give it different embellishments or ornaments.
+</item>
+          </list>
+      </section>
+    </section>
+
+    <section id="s4">
+         <title>Suggested Listening</title>
+
+           <list id="l4a"><title>Monophony</title><item>
+Any singer performing alone
+</item>
+              <item>
+Any orchestral woodwind or brass instrument (flute, clarinet, trumpet, trombone, etc.) performing alone. Here is an <link resource="sonnet2exc.mp3">example</link> from <link url="http://www.jamesromig.com">James Romig's</link> Sonnet 2, played by John McMurtery.
+              </item>
+              <item>
+A Bach unaccompanied cello suite
+              </item>
+              <item>
+Gregorian chant
+              </item>
+<item>
+Most fife and drum music
+</item>
+              <item>
+Long sections of "The People that Walked in Darkness" aria in Handel's "Messiah" are monophonic (the instruments are playing the same line as the voice). Apparently Handel associates monophony with "walking in darkness"!
+              </item>
+<item>
+Monophony is very unusual in contemporary popular genres, but can be heard in Queen's "We Will Rock You."
+</item>
+           </list>
+
+           <list id="l4b"><title>Homophony</title><item>
+A classic Scott Joplin rag such as "Maple Leaf Rag" or "The Entertainer"
+              </item>
+              <item>
+The "graduation march" section of Edward Elgar's "Pomp and Circumstance No. 1"
+              </item>
+              <item>
+The "March of the Toreadors" from Bizet's <cite><cite-title>Carmen</cite-title></cite>
+              </item>
+              <item>
+No. 1 ("Granada") of Albeniz' Suite Espanola for guitar
+              </item>
+              <item>
+Most popular music genres strongly favor homophonic textures, whether featuring a solo singer, rapper, guitar solo, or several vocalists singing in harmony.
+              </item>
+              <item>
+The opening section of the "Overture" Of Handel's "Messiah" (The second section of the overture is polyphonic)
+              </item>
+           </list>
+           <list id="l4c"><title>Polyphony</title><item>
+Pachelbel's Canon
+              </item>
+              <item>
+Anything titled "fugue" or "invention"
+              </item>
+              <item>
+The final "Amen" chorus of Handel's "Messiah"
+              </item>
+              <item>
+The trio strain of Sousa's "Stars and Stripes Forever", with the famous piccolo countermelody
+              </item>
+              <item>
+The "One Day More" chorus from the musical "Les Miserables"
+              </item>
+              <item>
+The first movement of Holst's 1st Suite for Military Band
+              </item>
+<item>
+Polyphony is rare in contemporary popular styles, but examples of counterpoint can be found, including the refrain of the Beach Boys' "Good Vibrations," the second through fourth verses of Simon and Garfunkel's "Scarborough Fair/Canticle," the final refrain of Jason Mraz's "I'm Yours," and the horn counterpoint in Ghost of a Saber Tooth Tiger's "Lavender Road."
+</item>
+           </list>
+
+           <list id="l4d"><title>Heterophony</title><item>
+There is some heterophony (with some instruments playing more ornaments than others) in "Donulmez Aksamin" and in "Urfaliyim Ezelden" on the <link url="http://www.focusmm.com/turkey/tr_musmn.htm">Turkish Music</link> page. You can also try simply searching for "heterophony" at YouTube or other sites with large collections of recordings.
+              </item>
+<item>
+Here is an example featuring children <link url="http://www.youtube.com/watch?v=LLqEvEgKOcc&amp;feature=share&amp;list=PL4IEbDc0POyPTT6NeRiuG2Ktw_5TGelj5">simultaneously singing three different children's songs</link> that are set to the same tune: "Baa, Baa black sheep," "Twinkle, twinkle, little star," and "The Alphabet Song." The result is heterophonic.
+</item>
+              <item>
+The performance of "Lonesome Valley" by the Fairfield Four on the "O Brother, Where Art Thou" soundtrack is quite heterophonic.
+              </item>
+           </list></section></content>
+  
+</document>

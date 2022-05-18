@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml">  <title>The Staff</title>  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10880</md:content-id>
+  <md:title>The Staff</md:title>
+  <md:abstract>Western music is usually written on a staff.</md:abstract>
+  <md:uuid>9ab2b7ec-18b0-4f64-a68c-5a5a280c025d</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10941/latest/" strength="3">Clef</link>
+      <link url="http://cnx.rice.edu/content/m10881/latest/" strength="3">Key Signature</link>
+      <link url="http://cnx.rice.edu/content/m10945/latest/" strength="3">Notes and Rests</link>
+      <link url="http://cnx.rice.edu/content/m10956/latest/" strength="3">Time Signature</link>
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="2">Pitch</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>    
+    <para id="p0a">People were talking long before they invented writing. People were also making music long before anyone wrote any music down. Some musicians still play "by ear" (without written music), and some music traditions rely more on improvisation and/or "by ear" learning. But written music is very useful, for many of the same reasons that written words are useful. Music is easier to study and share if it is written down. <link document="m11421">Western music</link> specializes in long, complex pieces for large groups of musicians singing or playing parts exactly as a composer intended. Without written music, this would be too difficult. Many different types of music notation have been invented, and some, such as <link document="m11905">tablature</link>, are still in use. By far the most widespread way to write music, however, is on a <term>staff</term>. In fact, this type of written music is so ubiquitous that it is called <term>common notation</term>.
+    </para>     
+   <section id="s1">   <title>The Staff</title>
+    <para id="p1a">The <term>staff</term> (plural <term>staves</term>) is written as five horizontal parallel lines. Most of the <link document="m10945" strength="3">notes</link> of the music are placed on one of these lines or in a space in between lines. Extra <term>ledger lines</term> may be added to show a note that is too high or too low to be on the staff. Vertical <term>bar lines</term> divide the staff into short sections called <term>measures</term> or <term>bars</term>. A <term>double bar line</term>, either heavy or light, is used to mark the ends of larger sections of music, including the very end of a piece, which is marked by a heavy double bar.
+    </para>
+   
+    <figure id="illus12a"><title>The Staff</title>
+<media id="id6945253" alt=""><image src="../../media/staffig1.png" mime-type="image/png"/><image for="pdf" src="../../media/staffig1-0.eps" mime-type="application/postscript"/></media>
+	<caption>The five horizontal lines are the lines of the staff. In between the lines are the spaces. If a note is above or below the staff, ledger lines are added to show how far above or below. Shorter vertical lines are bar lines. The most important symbols on the staff, the clef symbol, key signature and time signature, appear at the beginning of the staff.</caption>
+    </figure>
+
+    <para id="p1b">Many different kinds of symbols can appear on, above, and below the staff. The <link document="m10945">notes</link> and <link document="m11887">rests</link> are the actual written music. A note  stands for a sound; a rest stands for a silence. Other symbols on the staff, like the <link document="m10941" strength="3">clef</link> symbol, the <link document="m10881" strength="3">key signature</link>, and the <link document="m10956" strength="3">time signature</link>, tell you important information about the notes and measures. Symbols that appear above and below the music may tell you how fast it goes (<link document="m11648">tempo</link> markings), how loud it should be (<link document="m11649">dynamic</link> markings), where to go next (<link document="m12805">repeats</link>, for example) and even give directions for how to perform particular notes (<link document="m11649" target-id="p0d">accents</link>, for example).
+    </para>
+
+    <figure id="illus12b"><title>Other Symbols on the Staff</title>
+<media id="id8282912" alt=""><image src="../../media/staffig2.png" mime-type="image/png"/><image for="pdf" src="../../media/staffig2-0.eps" mime-type="application/postscript"/></media>
+	<caption>The bar lines divide the staff into short sections called bars or measures. The notes (sounds) and rests (silences) are the written music. Many other symbols may appear on, above, or below the staff, giving directions for how to play the music.</caption>
+    </figure>
+
+      
+   </section>   
+   <section id="s3">   <title>Systems of staves</title><para id="p3a">The staff is read from left to right. Staffs (some musicians prefer the plural <term>staves</term>) are read, beginning at the top of the page, one staff at a time unless they are connected. If staves should be played at the same time (by the same person or by different people), they will be connected by a long vertical line at the left hand side, to create a <term>system</term>. They may also be connected by their bar lines. Staves played by similar instruments or voices, or staves that should be played by the same person (for example, the right hand and left hand of a piano part) may be grouped together by braces or brackets at the beginning of each line.
+    </para><figure id="illus12c" orient="vertical"><title>Systems of Staves</title><subfigure id="fig12ca">
+<media id="id8284020" alt=""><image src="../../media/staffig3.png" mime-type="image/png"/><image for="pdf" src="../../media/staffig3-0.eps" mime-type="application/postscript"/></media>
+	</subfigure>
+        <subfigure id="fig12cb">
+<media id="id8275103" alt=""><image src="../../media/staffig4.png" mime-type="image/png"/><image for="pdf" src="../../media/staffig4-0.eps" mime-type="application/postscript"/></media>
+            <caption>When many staves are to be played at the same time, as in this orchestral score, the lines for similar instruments - all the violins, for example, or all the strings - may be marked with braces or brackets.</caption>
+	</subfigure>
+    </figure></section></content>
+      </document>

@@ -1,0 +1,77 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Key Signature</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10881</md:content-id>
+  <md:title>Key Signature</md:title>
+  <md:abstract>The key signature at the beginning of a musical staff lists the sharps or flats in the key.</md:abstract>
+  <md:uuid>e8b8e08a-4bfb-4b4e-af88-c5220ab3375a</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Major Keys</link>
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="3">Minor Keys</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="3">Pitch</link>
+      <link url="http://cnx.rice.edu/content/m10880/latest/" strength="3">The Staff</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <para id="p0a">The key signature appears right after the <link document="m10941" strength="3">clef</link> symbol on the <link document="m10880" strength="3">staff</link>. In common notation, <emphasis>clef and key signature are the only symbols that normally appear on every staff. They appear so often because they are such important symbols; they tell you what note is found on each line and space of the staff.</emphasis> This can change from one piece of music to another, so the musician must know the clef and key signature in order to read the music correctly; in a way, the written music is a coded message, with each note standing for a sound with a particular <link document="m10943">pitch</link>, and the clef and key signature are the key that tell you how to decode this particular message. (For an explanation of why things are done this way, please see <link document="m43040" target-id="eip-216">how to read music</link>.) </para> 
+
+      
+
+	<figure id="fig15a"><media id="id1166916210044" alt=""><image src="../../media/keysig1.png" mime-type="image/png"/><image for="pdf" src="../../media/keysig1-0.eps" mime-type="application/postscript"/></media></figure>
+
+    <para id="eip-569">The clef tells you the letter name of the note - for example, the top line on a bass clef staff is always some kind of A; but you need the key signature to tell you what kind of A. It may have either some <link document="m10943" strength="3">sharp</link> symbols on particular lines or spaces, or some <link document="m10943" strength="3">flat</link> symbols, again on particular lines or spaces. If there are no flats or sharps listed after the clef symbol, then the key signature is "all notes are natural".
+    </para><para id="p0c">The <term>key signature</term> is a list of all the sharps and flats in the <link document="m10851">key</link> that the music is in. <emphasis>When a sharp (or flat) appears on a line or space in the key signature, all the notes on that line or space are sharp (or flat), and all other notes with the same letter names in other octaves are also sharp (or flat).</emphasis>
+    </para>
+
+	<figure id="fig15b"><media id="id1166916210090" alt=""><image src="../../media/keysig2.png" mime-type="image/png"/><image for="pdf" src="../../media/keysig2-0.eps" mime-type="application/postscript"/></media>
+		<caption>This key signature has a flat on the "B" line, so all of these B's are flat.</caption>
+	</figure>
+
+    <para id="p0d">
+The sharps or flats always appear in the same order in all key signatures. This is the same order in which they are added as keys get sharper or flatter. For example, if a key (G major or E minor) has only one sharp, it will be F sharp, so F sharp is always the first sharp listed in a sharp key signature. The keys that have two sharps (D major and B minor) have F sharp and C sharp, so C sharp is always the second sharp in a key signature, and so on. <emphasis>The order of sharps is: F sharp, C sharp, G sharp, D sharp, A sharp, E sharp, B sharp. The order of flats is the reverse of the order of sharps: B flat, E flat, A flat, D flat, G flat, C flat, F flat.</emphasis> So the keys with only one flat (F major and D minor) have a B flat; the keys with two flats (B flat major and G minor) have B flat and E flat; and so on. The order of flats and sharps, like the order of the keys themselves, follows a <link document="m10865" strength="2">circle of fifths</link>.
+    </para>
+
+	<figure id="fig15e"><media id="id1166921759755" alt=""><image src="../../media/keysig3.png" mime-type="image/png"/><image for="pdf" src="../../media/keysig3-0.eps" mime-type="application/postscript"/></media></figure>
+
+    <para id="p0e">If you do not know the name of the key of a piece of music, the key signature can help you find out. Assume for a moment that you are in a <link document="m10851" strength="3">major key</link>. If the key contains sharps, the name of the key is one <link document="m10866" strength="2">half step</link> higher than the last sharp in the key signature. If the key contains flats, the name of the key signature is the name of the second-to-last flat in the key signature.
+    </para>
+
+    <example id="examp0a">
+	<para id="element-169"><link target-id="fig15f"/> demonstrates quick ways to name the (major) key simply by looking at the key signature. In flat keys, the second-to-last flat names the key. In sharp keys, the note that names the key is one half step above the final sharp.</para><figure id="fig15f"><media id="id1166921759822" alt=""><image src="../../media/keysig4.png" mime-type="image/png"/><image for="pdf" src="../../media/keysig4-0.eps" mime-type="application/postscript"/></media></figure>
+	</example>
+
+    <para id="p0f">The only major keys that these rules do not work for are C major (no flats or sharps) and F major (one flat). It is easiest just to memorize the key signatures for these two very common keys. If you want a rule that also works for the key of F major, remember that the second-to-last flat is always a <link document="m10867" target-id="p21b">perfect fourth</link> higher than (or a perfect fifth lower than) the final flat. So you can also say that the name of the key signature is a perfect fourth lower than the name of the final flat. 
+    </para>
+
+	<figure id="fig15g"><media id="id1166921759865" alt=""><image src="../../media/keysig5.png" mime-type="image/png"/><image for="pdf" src="../../media/keysig5-0.eps" mime-type="application/postscript"/></media>
+	<caption>The key of C major has no sharps or flats. F major has one flat. </caption></figure>
+
+    <para id="p0g">If the music is in a minor key, it will be in the <link document="m10856" target-id="s3">relative minor</link> of the major key for that key signature. You may be able to tell just from listening (see <link document="m10851">Major Keys and Scales</link>) whether the music is in a major or minor key. If not, the best clue is to look at the final <link document="m11654" target-id="l0b">chord</link>. That chord (and often the final note of the melody, also) will usually name the key.
+    </para>
+
+
+    <exercise id="exer0a">
+     <problem id="id1166921759937">
+      <para id="prob0a">Write the key signatures asked for in <link target-id="fig15c"/> and name the major keys that they represent.
+      </para>
+
+	<figure id="fig15c"><media id="id1166916155023" alt=""><image src="../../media/keysigprob.png" mime-type="image/png"/><image for="pdf" src="../../media/keysigprob-0.eps" mime-type="application/postscript"/></media></figure>
+
+     </problem>
+
+     <solution id="id1166916155046">
+	<figure id="fig15d"><media id="id1166916155058" alt=""><image src="../../media/keysigsolv.png" mime-type="image/png"/><image for="pdf" src="../../media/keysigsolv-0.eps" mime-type="application/postscript"/></media></figure>
+     </solution>
+
+    </exercise></content>
+  
+</document>

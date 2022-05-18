@@ -1,0 +1,182 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Scales that are not Major or Minor</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11636</md:content-id>
+  <md:title>Scales that are not Major or Minor</md:title>
+  <md:abstract>There are many musical scales that cannot be classified as major or minor, including chromatic, whole-tone, pentatonic, blues, and various scales common to Non-Western music.</md:abstract>
+  <md:uuid>919d2314-9fcb-4742-a6a2-2c4de8140399</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Major Scales</link>
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="3">Minor Scales</link>
+      <link url="http://cnx.rice.edu/content/m11421/latest/" strength="3">Western and Non-Western Music</link>
+      <link url="http://cnx.rice.edu/content/m11633/latest/" strength="3">Modes and Ragas</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+      <link url="http://cnx.rice.edu/content/m10866/latest/" strength="3">Half Steps and Whole Steps</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+<section id="s0">
+	<title>Introduction</title>
+
+	<para id="p0a">
+Sounds - ordinary, everyday "noises" - come in every conceivable <link document="m10943" strength="3">pitch</link> and groups of pitches. In fact, the essence of noise, "white noise", is basically every pitch at once, so that no particular pitch is heard.
+	</para>
+	<para id="p0b">One of the things that makes music pleasant to hear and easy to "understand" is that only a few of all the possible pitches are used. But not all pieces of music use the same set of pitches. In order to be familiar with the particular notes that a piece of music is likely to use, musicians study scales.
+	</para>
+	<para id="p0bb">The set of expected pitches for a piece of music can be arranged into a <term>scale</term>. In a scale, the pitches are usually arranged from lowest to highest (or highest to lowest), in a pattern that usually repeats within every <link document="m10862" strength="2">octave</link>. <note id="id4606593">In some kinds of music, the notes of a particular scale are the only notes allowed in a given piece of music. In other music traditions, notes from outside the scale (<link document="m10943" target-id="p0e">accidentals</link>) are allowed, but are usually much less common than the scale notes.</note>
+	</para>
+	<para id="p0c">The set of pitches, or notes, that are used, and their relationships to each other, makes a big impact on how the music sounds. For example, for centuries, most <link document="m11421" strength="3">Western music</link> has been based on <link document="m10851" strength="3">major</link> and <link document="m10856" strength="3">minor scales</link>. That is one of the things that makes it instantly recognizable as Western music. Much (though not all) of the music of eastern Asia, on the other hand, was for many centuries based on pentatonic scales, giving it a much different flavor that is also easy to recognize.
+	</para>
+	<para id="p0d">
+Some of the more commonly used scales that are not major or minor are introduced here. Pentatonic scales are often associated with eastern Asia, but many other music traditions also use them. Blues scales, used in blues, jazz, and other African-American traditions, grew out of a compromise between European and African scales. Some of the scales that sound "exotic" to the Western ear are taken from the musical traditions of eastern Europe, the Middle East, and western Asia. Microtones can be found in some traditional musics (for example, <link document="m12459" strength="3">Indian classical music</link>) and in some modern  <link document="m11421" target-id="p3aa" strength="3">art</link> music.
+<note id="id3589916">Some music traditions, such as Indian and medieval European, use modes or ragas, which are not quite the same as scales. Please see <link document="m11633" strength="3">Modes and Ragas.</link></note>
+	</para>
+</section>
+
+<section id="s5">
+	<title>Scales and Western Music</title>
+
+	<para id="p5a">The <link document="m11421">Western</link> musical tradition that developed in Europe after the middle ages is based on major and minor scales, but there are other scales that are a part of this tradition. 
+	</para>
+	<para id="p5b">In the <term>chromatic scale</term>, every <link document="m10867">interval</link> is a <link document="m10866" strength="3">half step</link>. This scale gives all the <link document="m10943">sharp, flat, and natural</link> notes commonly used in all Western music. It is also the <term>twelve-tone scale</term> used by twentieth-century composers to create their <link document="m11421" target-id="p7e" strength="2">atonal music</link>. Young instrumentalists are encouraged to practice playing the chromatic scale in order to ensure that they know the fingerings for all the notes. Listen to a <link resource="Chromatic.MID">chromatic scale</link>.
+	</para>
+	<figure id="fig5a"><title>Chromatic Scale</title>
+<media id="id7642802" alt=""><image src="../../media/chromatic.png" mime-type="image/png"/><image for="pdf" src="../../media/chromatic-0.eps" mime-type="application/postscript"/></media>
+<caption>The chromatic scale includes all the pitches normally found in Western music. Note that, because of <link document="m11641">enharmonic</link> spelling, many of these pitches could be written in a different way (for example, using flats instead of sharps).</caption></figure>
+	<para id="p5c">In a <term>whole tone scale</term>, every interval is a <link document="m10866">whole step</link>. In both the chromatic and the whole tone scales, all the intervals are the same. This results in scales that have no <link document="m10851" strength="3">tonal center</link>; no note feels more or less important than the others. Because of this, most traditional and popular Western music uses major or minor scales rather than the chromatic or whole tone scales. But composers who don't want their music to have a tonal center (for example, many composers of "modern classical" music) often use these scales. Listen to a <link resource="WholeTone.mid">whole tone scale</link>.
+	</para>
+	<figure id="fig5b"><title>A Whole Tone Scale</title>
+<media id="id7273914" alt=""><image src="../../media/wholetone.png" mime-type="image/png"/><image for="pdf" src="../../media/wholetone-0.eps" mime-type="application/postscript"/></media>
+<caption>Because all the intervals are the same, it doesn't matter much where you begin a chromatic or whole tone scale. For example, this scale would contain the same notes whether you start it on C or E.</caption></figure><exercise id="element-339"><problem id="id3387074">
+		<para id="element-147">There is basically only one chromatic scale; you can start it on any note, but the pitches will end up being the same as the pitches in any other chromatic scale. There are basically two possible whole tone scales. Beginning on a b, write a whole tone scale that uses a different pitches than the one in <link target-id="fig5b"/>. If you need staff paper, you can download this <link resource="staffpaper1.pdf">PDF file</link>.</para>
+	</problem>
+
+	<solution id="id7643267">
+		<figure id="element-772"><media id="id7410170" alt=""><image src="../../media/wholetone2.png" mime-type="image/png"/><image for="pdf" src="../../media/wholetone2-0.eps" mime-type="application/postscript"/></media>
+<caption>This whole tone scale contains the notes that are not in the whole tone scale in <link target-id="fig5b"/>.</caption></figure>
+	</solution>
+</exercise><exercise id="element-868"><problem id="id4241553">
+		<para id="element-28">Now write a whole tone scale beginning on an a flat. Is this scale essentially the same as the one in <link target-id="element-772"/> or the one in <link target-id="fig5b"/>?
+		</para>
+	</problem>
+
+	<solution id="id3955711">
+		<figure id="element-798"><media id="id3951801" alt=""><image src="../../media/wholetone3.png" mime-type="image/png"/><image for="pdf" src="../../media/wholetone3-0.eps" mime-type="application/postscript"/></media>
+<caption>The flats in one scale are the <link document="m11641">enharmonic</link> equivalents of the sharps in the other scale.</caption></figure><para id="element-769">Assuming that octaves don't matter - as they usually don't in <link document="m11421">Western</link> music theory, this scale shares all of its possible pitches with the scale in <link target-id="fig5b"/>.
+		</para>
+	</solution>
+</exercise>
+
+</section>
+
+<section id="s1">
+	<title>Pentatonic Scales</title>
+
+	<para id="p1a">In Western music, there are twelve pitches within each <link document="m10862" strength="3">octave</link>. (The thirteenth note starts the next octave.) But in a <link document="m11421" target-id="s7">tonal</link> piece of music only seven of these notes, the seven notes of a major or minor scale, are used often.
+	</para>
+	<para id="p1b">In a <term>pentatonic scale</term>, only five of the possible pitches within an octave are used. (So the scale will repeat starting at the sixth tone.) The most familiar pentatonic scales are used in much of the music of eastern Asia. You may be familiar with the scale in <link target-id="fig1a"/> as the scale that is produced when you play all the "black keys" on a piano keyboard.
+	</para>
+
+	<figure id="fig1a"><title>A Familiar Pentatonic Scale</title>
+<media id="id4902511" alt=""><image src="../../media/Pentatonic.png" mime-type="image/png"/><image for="pdf" src="../../media/Pentatonic-0.eps" mime-type="application/postscript"/></media>
+<caption>This is the pentatonic scale you get when you play the "black keys" on a piano.</caption></figure>
+
+	<para id="p1c">
+Listen to the <link resource="pentatonic1.mid">black key pentatonic scale</link>. Like other scales, this pentatonic scale is <link document="m10668" strength="3">transposable</link>; you can move the entire scale up or down by a half step or a major third or any <link document="m10867" strength="3">interval</link> you like. The scale will sound higher or lower, but other than that it will sound the same, because the pattern of intervals between the notes (half steps, whole steps, and minor thirds) is the same. (For more on intervals, see <link document="m10866" strength="3">Half Steps and Whole Steps</link> and <link document="m10867" strength="3">Interval</link>. For more on patterns of intervals within scales, see <link document="m10851" strength="3">Major Scales</link> and <link document="m10856" strength="3">Minor Scales</link>.) Now listen to a <link resource="pentatonic2.mid">transposed pentatonic scale</link>.
+	</para>
+
+	<figure id="fig1b"><title>Transposed Pentatonic Scale</title>
+<media id="id4902019" alt=""><image src="../../media/Pentatonic2.png" mime-type="image/png"/><image for="pdf" src="../../media/Pentatonic2-0.eps" mime-type="application/postscript"/></media>
+<caption>This is simply a transposition of the scale in <link target-id="fig1a"/></caption>
+	</figure>
+
+	<para id="p1d">
+But this is not the only possible type of pentatonic scale. Any scale that uses only five notes within one octave is a pentatonic scale. The following pentatonic scale, for example, is not simply another transposition of the "black key" pentatonic scale; the pattern of intervals between the notes is different. Listen to this <link resource="penta3.mid">different pentatonic scale</link>.
+	</para>
+
+	<figure id="fig1c"><title>Different Pentatonic Scale</title>
+<media id="id4903707" alt=""><image src="../../media/Pentatonic3.png" mime-type="image/png"/><image for="pdf" src="../../media/Pentatonic3-0.eps" mime-type="application/postscript"/></media>
+<caption>This pentatonic scale is not a transposed version of <link target-id="fig1a"/>.It has a different set of intervals.</caption></figure>
+
+      <para id="p1e">The point here is that music based on the pentatonic scale in <link target-id="fig1a"/> will sound very different from music based on the pentatonic scale in <link target-id="fig1c"/>, because the relationships between the notes are different, much as music in a minor key is noticeably different from music in a major key.  So there are quite a few different possible pentatonic scales that will produce a recognizably "unique sound", and many of these possible five-note scales have been named and used in various music traditions around the world.
+      </para><exercise id="element-796"><problem id="id4914956">
+		<para id="element-148">To get a feeling for the concepts in this section, try composing some short pieces using the pentatonic scales given in <link target-id="fig1a"/> and in <link target-id="fig1c"/>. You may use more than one octave of each scale, but use only one scale for each piece. As you are composing, listen for how the constraints of using only those five notes, with those pitch relationships, affect your music. See if you can play your <link target-id="fig1a"/> composition in a different key, for example, using the scale in <link target-id="fig1b"/>.
+		</para>
+	</problem>
+
+	<solution id="id4901647">
+		<para id="element-218">If you can, have your teacher listen to your compositions.
+		</para>
+	</solution>
+</exercise>
+
+</section>
+
+<section id="s6">
+	<title>Dividing the Octave, More or Less</title>
+	<para id="p6a">
+Any scale will list a certain number of notes within an octave. For major and minor scales, there are seven notes; for pentatonic, five; for a chromatic scale, twelve. Although some divisions are more common than others, any division can be imagined, and many are used in different musical traditions around the world. For example, the classical music of India recognizes twenty-two different possible pitches within an octave; each raga uses five, six, or seven of these possible pitches. (Please see <link document="m12459" strength="3">Indian Classical Music: Tuning and Ragas</link> for more on this.) And there are some traditions in Africa that use six or eight notes within an octave. Listen to one possible eight-tone, or <link resource="Octatonic.mid">octatonic scale</link>.
+	</para>
+	<figure id="fig6a"><title>An Octatonic Scale</title>
+<media id="id4628151" alt=""><image src="../../media/octatonic.png" mime-type="image/png"/><image for="pdf" src="../../media/octatonic-0.eps" mime-type="application/postscript"/></media></figure>
+        <para id="p6b">Many Non-Western traditions, besides using different scales, also use different <link document="m11639" strength="2">tuning systems</link>; the intervals in the scales may involve <term>quarter tones</term> (a half of a half step), for example, or other intervals we don't use. Even trying to write them in common notation can be a bit misleading. 
+        </para>
+	<para id="p6c">
+<term>Microtones</term> are intervals smaller than a half step. Besides being necessary to describe the scales and tuning systems of many Non-Western traditions, they have also been used in modern Western classical music, and are also used in African-American traditions such as jazz and blues. As of this writing, the <link url="http://www.xs4all.nl/~huygensf/english/index.html">Huygens-Fokker Foundation</link> was a good place to start looking for information on microtonal music.
+	</para>
+</section>
+
+<section id="s2">
+	<title>Constructing a Blues Scale</title>
+
+	<para id="p2a">Blues scales are closely related to pentatonic scales. (Some versions are pentatonic.) Rearrange the pentatonic scale in <link target-id="fig1b"/> above so that it begins on the C, and add an F sharp in between the F and G, and you have a commonly used version of the blues scale. Listen to this <link resource="BlueScale.mid">blues scale</link>.
+	</para>
+      <figure id="fig2a"><media id="id3945751" alt=""><image src="../../media/BluesScale.png" mime-type="image/png"/><image for="pdf" src="../../media/BluesScale-0.eps" mime-type="application/postscript"/></media>
+<caption>Blues scales are closely related to pentatonic scales.</caption></figure>
+
+</section>
+
+<section id="s3">
+	<title>Modes and Ragas</title>
+
+	<para id="p3a">
+Many music traditions do not use scales. The most familiar of these to the <link document="m11421" strength="3">Western</link> listener are medieval chant and the classical music of India. In these and other modal traditions, the rules for constructing a piece of music are quite different than the rules for music that is based on a scale. Please see <link document="m11633" strength="3">Modes and Ragas</link> for more information. 
+	</para>
+
+</section>
+
+<section id="s4">
+	<title>Other Scales</title>
+
+	<para id="p4a">There are many, many other possible scales that are not part of the major-minor system. Some, like pentatonic and octatonic scales, have fewer or more notes per octave, but many have seven tones, just as a major scale does. A scale may be chosen or constructed by a composer for certain intriguing characteristics, for the types of melodies or harmonies that the scale enables, or just for the interesting or pleasant sound of music created using the scale.
+</para>
+<para id="p4d">For example, one class of scales that intrigues some composers is <term>symmetrical scales</term>. The <link document="m10866" target-id="p0bb">chromatic scale</link>
+ and <link target-id="fig5b">whole tone</link> scales fall into this category, but other symmetrical scales can also be constructed. A <term>diminished</term> scale, for example, not only has the "symmetrical" quality; it is also a very useful scale if, for example, you are improvising a jazz solo over <link document="m10890" target-id="s2">diminished chords</link>.
+</para>
+<figure id="fig4b"><title>A Diminished Scale</title><media id="id-diminished" alt=""><image src="../../media/Diminished.png" mime-type="image/png"/><image for="pdf" src="../../media/Diminished.eps" mime-type="application/postscript"/></media><caption>Like chromatic and whole tone scales, a diminished scale is "symmetrical".</caption></figure>
+
+<para id="p4c">Some scales are loosely based on the music of other cultures, and are used when the composer wants to evoke the music of another place or time. These scales are often borrowed from Non-western traditions, but are then used in ways typical of Western music. Since they usually ignore the tuning, melodic forms, and other aesthetic principles of the traditions that they are borrowed from, such uses of "exotic" scales should not be considered accurate representations of those traditions. There are examples in <link document="m11421" target-id="s6">world music</link>, however, in which the Non-western scale or <link document="m11633">mode</link> is used in an authentic way. Although there is general agreement about the names of some commonly used "exotic" scales, they are not at all standardized. Often the name of a scale simply reflects what it sounds like to the person using it, and the same name may be applied to different scales, or different names to the same scale.</para>
+
+<figure id="fig4a"><title>Some "Exotic" Scales</title><media id="id3609561" alt=""><image src="../../media/ExoticScales.png" mime-type="image/png"/><image for="pdf" src="../../media/ExoticScales.eps" mime-type="application/postscript"/></media></figure>
+
+	<para id="p4b">You may want to experiment with some of the many scales possible. Listen to one version each of: <link resource="Diminished.mid">"diminished" scale</link>, <link resource="Enigmatic.mid">"enigmatic" scale</link>, <link resource="Romanian.mid">"Romanian" Scale</link>, <link resource="Persian.mid">"Persian" scale</link> and <link resource="HungarianMajor.mid">"Hungarian Major" Scale</link>.  For even more possibilities, try a web search for "exotic scales"; or try inventing your own scales and using them in compositions and improvisations. 
+	</para>
+
+<figure id="fig4d"><title>An "Enigmatic" Scale</title><media id="id-enigmatic" alt=""><image src="../../media/EnigmaticScale.png" mime-type="image/png"/><image for="pdf" src="../../media/EnigmaticScale.eps" mime-type="application/postscript"/></media></figure>
+
+	
+
+</section>
+
+  </content>
+  
+</document>

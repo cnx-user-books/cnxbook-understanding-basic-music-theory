@@ -1,0 +1,132 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Melody</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11647</md:content-id>
+  <md:title>Melody</md:title>
+  <md:abstract>An introduction to the basic element of music called melody, with some useful definitions.</md:abstract>
+  <md:uuid>4336d682-7b96-46af-8d34-3b4f2d50dd1b</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11832/latest/" strength="3">The Shape of a Melody</link>
+      <link url="http://cnx.rice.edu/content/m11833/latest/" strength="3">A Melody Activity</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="3">Pitch</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <section id="s0">
+       <title>Introduction</title>
+    
+         <para id="p1a">
+Melody is one of the most basic elements of music. A note is a sound with a particular <link document="m10943">pitch</link> and <link document="m10945">duration</link>. String a series of notes together, one after the other, and you have a <term>melody</term>. But the melody of a piece of music isn't just any string of notes. It's the notes that catch your ear as you listen; the line that sounds most important is the melody. There are some common terms used in discussions of melody that you may find it useful to know. First of all, the <term>melodic line</term> of a piece of music is the string of notes that make up the melody. Extra notes, such as trills and slides, that are not part of the main melodic line but are added to the melody either by the composer or the performer to make the melody more complex and interesting are called <term>ornaments</term> or <term>embellishments</term>. Below are some more concepts that are associated with melody.
+         </para>
+
+     </section>
+     <section id="s1">
+        <title>The Shape or Contour of a Melody</title>
+
+         <para id="p1b">
+A melody that stays on the same <link document="m10943">pitch</link> gets boring pretty quickly. As the melody progresses, the pitches may go up or down slowly or quickly. One can picture a line that goes up steeply when the melody suddenly jumps to a much higher note, or that goes down slowly when the melody gently falls. Such a line gives the <term>contour</term> or <term>shape</term> of the melodic line. You can often get a good idea of the shape of this line by looking at the melody as it is written on the staff, but you can also hear it as you listen to the music.
+        </para>
+
+        <figure id="fig1aa"><media id="id1168712995261" alt=""><image src="../../media/Contour.png" mime-type="image/png"/><image for="pdf" src="../../media/Contour-0.eps" mime-type="application/postscript"/></media>
+<caption>Arch shapes (in which the melody rises and then falls) are easy to find in many melodies.</caption>
+        </figure>
+
+        <para id="p1bc">
+You can also describe the shape of a melody verbally. For example, you can speak of a "rising melody" or of an "arch-shaped" <link target-id="s2">phrase</link>. Please see <link document="m11832">The Shape of a Melody</link> for children's activities covering melodic contour.
+         </para>
+  </section>
+
+    <section id="s7">
+     <title>Melodic Motion</title>
+  <para id="p7a">Another set of useful terms describe how quickly a melody goes up and down. A melody that rises and falls slowly, with only small pitch changes between one note and the next, is <term>conjunct</term>. One may also speak of such a melody in terms of <term>step-wise</term> or <term>scalar</term> motion, since most of the <link document="m10867">intervals</link> in the melody are half or whole <link document="m10866">steps</link> or are part of a <link document="m10851">scale</link>. 
+  </para>
+  <para id="p7b">A melody that rises and falls quickly, with large <link document="m10867">intervals</link> between one note and the next, is a <term>disjunct</term> melody. One may also speak of "leaps" in the melody. Many melodies are a mixture of conjunct and disjunct motion.
+  </para>
+       <figure id="id1168747482143"><media id="id1168721558550" alt=""><image src="../../media/motion.png" mime-type="image/png"/><image for="pdf" src="../../media/motion-0.eps" mime-type="application/postscript"/></media>
+              <caption>
+A melody may show conjuct motion, with small changes in pitch from one note to the next, or disjunct motion, with large leaps. Many melodies are an interesting, fairly balanced mixture of conjunct and disjunct motion. 
+              </caption>
+         </figure>
+       
+     </section>
+     <section id="s2">
+        <title>Melodic Phrases</title>
+
+         <para id="p1ba">
+Melodies are often described as being made up of phrases. A musical <term>phrase</term> is actually a lot like a grammatical phrase. A phrase in a sentence (for example, "into the deep, dark forest" or "under that heavy book") is a group of words that make sense together and express a definite idea, but the phrase is not a complete sentence by itself. A melodic phrase is a group of notes that make sense together and express a definite melodic "idea", but it takes more than one phrase to make a complete melody. 
+         </para>
+         <para id="p1bb">
+How do you spot a phrase in a melody? Just as you often pause between the different sections in a sentence (for example, when you say, "wherever you go, there you are"), the melody usually pauses slightly at the end of each phrase.
+In vocal music, the musical phrases tend to follow the phrases and sentences of the text. For example, <link resource="phrases1.mid">listen</link> to the phrases in the melody of "The Riddle Song" and see how they line up with the four sentences in the song.
+         </para>
+         <figure id="fig1a"><title>The Riddle Song</title>
+<media id="id1168785323969" alt=""><image src="../../media/phrases1.png" mime-type="image/png"/><image for="pdf" src="../../media/phrases1-0.eps" mime-type="application/postscript"/></media>
+              <caption>
+This melody has four phrases, one for each sentence of the text. 
+              </caption>
+         </figure>
+         <para id="p1d">But even without text, the phrases in a melody can be very clear. Even without words, the notes are still grouped into melodic "ideas". <link resource="phrases2.MID">Listen</link> to the first strain of <link document="m10879">Scott Joplin's</link> "The Easy Winners" to see if you can hear four phrases in the melody.
+         </para>
+         <para id="element-616">One way that a composer keeps a piece of music interesting is by varying how strongly the end of each phrase sounds like "the end". Usually, full-stop ends come only at the end of the main sections of the music. (See <link document="m10842">form</link> and <link document="m12402">cadence</link> for more on this.) By varying aspects of the melody, the <link document="m11646">rhythm</link>, and the <link document="m11654">harmony</link>, the composer gives the ends of the other phrases stronger or weaker "ending" feelings. Often, phrases come in definite pairs, with the first phrase feeling very unfinished until it is completed by the second phrase, as if the second phrase were answering a question asked by the first phrase. When phrases come in pairs like this, the first phrase is called the <term>antecedent</term> phrase, and the second is called the <term>consequent</term> phrase. Listen to <link resource="antecedent.MID">antecedent</link> and <link resource="consequent.MID">consequent</link> phrases in the tune "Auld Lang Syne".</para><figure id="element-840"><title>Antecedent and Consequent Phrases</title><media id="id1168767973605" alt=""><image src="../../media/antecons.png" mime-type="image/png"/><image for="pdf" src="../../media/antecons.eps" mime-type="application/postscript"/></media>
+<caption>The rhythm of the first two phrases of "Auld Lang Syne" is the same, but both the melody and the harmony lead the first phrase to feel unfinished until it is answered by the second phrase. Note that both the melody and harmony of the second phrase end on the <link document="m10851" target-id="p1a">tonic</link>, the "home" note and chord of the key.</caption></figure><para id="p1da">
+Of course, melodies don't always divide into clear, separated phrases. Often the phrases in a melody will run into each other, cut each other short, or overlap. This is one of the things that keeps a melody interesting.
+         </para>
+
+      </section>
+      <section id="s3">
+        <title>Motif</title>
+
+         <para id="p1c">Another term that usually refers to a piece of melody (although it can also refer to a <link document="m11646">rhythm</link> or a <link document="m11654" target-id="l0b">chord progression</link>) is "motif". A <term>motif</term> is a short musical idea - shorter than a phrase - that occurs often in a piece of music. A short melodic idea may also be called a <term>motiv</term>, a <term>motive</term>, a <term>cell</term>, or a <term>figure</term>. These small pieces of melody will appear again and again in a piece of music, sometimes exactly the same and sometimes changed. When a motif returns, it can be slower or faster, or in a different key. It may return "upside down" (with the notes going up instead of down, for example), or with the pitches or rhythms altered. 
+         </para>
+         <figure id="fig1b"><media id="id1168707741010" alt=""><image src="../../media/motif1.png" mime-type="image/png"/><image for="pdf" src="../../media/motif1-0.eps" mime-type="application/postscript"/></media>
+           <caption>The <link resource="motif1.mid">"fate motif"</link> from the first movement of Beethoven's Symphony No. 5. This is a good example of a short melodic idea (a <term>cell</term>, <term>motive</term>, or <term>figure</term>) that is used in many different ways throughout the movement.</caption>
+         </figure>
+         <para id="p1e">Most figures and motifs are shorter than phrases, but some of the <foreign>leitmotifs</foreign> of Wagner's operas are long enough to be considered phrases. A <term>leitmotif</term> (whether it is a very short cell or a long phrase) is associated with a particular character, place, thing, or idea in the opera and may be heard whenever that character is on stage or that idea is an important part of the plot. As with other motifs, leitmotifs may be changed when they return. For example, the same melody may sound quite different depending on whether the character is in love, being heroic, or dying. 
+         </para>
+
+         <figure id="fig1c"><media id="id1168727649313" alt=""><image src="../../media/Motif2.png" mime-type="image/png"/><image for="pdf" src="../../media/Motif2-0.eps" mime-type="application/postscript"/></media>
+             <caption>A melodic phrase based on the <link resource="motif2.mid">Siegfried leitmotif</link>, from Wagner's opera <emphasis>The Valkyrie</emphasis>.</caption>
+         </figure>
+
+      </section>
+      <section id="s4">
+        <title>Melodies in Counterpoint</title>
+
+         <para id="p1ea"><link document="m11634">Counterpoint</link> has more than one melody at the same time. This tends to change the rules for using and developing melodies, so the terms used to talk about contrapuntal melodies are different, too. For example, the melodic idea that is most important in a <link document="m11634" target-id="s2">fugue</link> is called its <term>subject</term>. Like a motif, a subject has often changed when it reappears, sounding higher or lower, for example, or faster or slower. For more on the subject (pun intended), please see <link document="m11634">Counterpoint</link>.
+         </para>
+
+       </section>
+       <section id="s5">
+         <title>Themes</title>
+
+         <para id="p1f">
+A longer section of melody that keeps reappearing in the music - for example, in a "theme and variations" - is often called a <term>theme</term>. Themes generally are at least one phrase long and often have several phrases. Many longer works of music, such as symphony movements, have more than one melodic theme. 
+         </para>
+
+         <figure id="fig1d"><title>Theme from Beethoven's Symphony No. 9</title>
+<media id="id1168783965852" alt=""><image src="../../media/OdeTheme.png" mime-type="image/png"/><image for="pdf" src="../../media/OdeTheme-0.eps" mime-type="application/postscript"/></media>
+             <caption>The <link resource="Bninth.mid">tune</link> of this theme will be very familiar to most people, but you may want to listen to the entire last movement of the symphony to hear the different ways that Beethoven uses the melody again and again.</caption>
+         </figure>
+
+         <para id="p1fa">The musical scores for movies and television can also contain melodic <term>themes</term>, which can be developed as they might be in a symphony or may be used very much like operatic <link target-id="p1e">leitmotifs</link>. For example, in the music John Williams composed for the <emphasis>Star Wars</emphasis> movies, there are melodic themes that are associated with the main characters. These themes are often complete melodies with many phrases, but a single phrase can be taken from the melody and used as a motif. A single phrase of <link resource="motif3.mid">Ben Kenobi's Theme</link>, for example, can remind you of all the good things he stands for, even if he is not on the movie screen at the time.
+        </para>
+
+     </section>
+     <section id="s6">
+       <title>Suggestions for Presenting these Concepts to Children</title>
+
+      <para id="p2a">Melody is a particularly easy concept to convey to children, since attention to a piece of music is naturally drawn to the melody. If you would like to introduce some of these concepts and terms to children, please see <link document="m11833">A Melody Activity</link>, <link document="m11832">The Shape of a Melody</link>, <link document="m11879">Melodic Phrases</link>, and <link document="m11880">Theme and Motif in Music</link>.
+         </para>
+
+     </section></content>
+  
+</document>

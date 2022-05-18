@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Harmonic Series II: Harmonics, Intervals, and Instruments</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m13686</md:content-id>
+  <md:title>Harmonic Series II: Harmonics, Intervals, and Instruments</md:title>
+  <md:abstract>The interval between two notes is related to the ratio of the frequencies of the two pitches. A notated harmonic series can show the relationship between frequency and interval. The timbre of an instrument is determined by the relative strengths of the harmonics in each note.</md:abstract>
+  <md:uuid>d491dd8a-5479-43be-95d8-721a6ef0d911</md:uuid>
+</metadata>
+  <content>
+    
+  <section id="s0">
+  <title>Frequency and Interval</title>
+		<para id="p2d">
+The names of the various intervals, and the way they are written on the staff, are mostly the result of a long history of evolving musical notation and theory. But the actual intervals - the way the notes sound - are not arbitrary accidents of history. Like octaves, the other intervals are also produced by the harmonic series. Recall that the frequencies of any two pitches that are one <link document="m10862">octave</link> apart have a 2:1 ratio. (See <link document="m13682">Harmonic Series I</link> to review this.) Every other <link document="m10867" strength="3">interval</link> that musicians talk about can also be described as having a particular frequency ratio. To find those ratios, look at a harmonic series written in <link document="m10880">common notation</link>.
+		</para>
+
+		<figure id="fig2b"><title>A Harmonic Series Written as Notes</title>
+<media id="id1166087233901" alt=""><image src="../../media/HarmonicSeriesC.png" mime-type="image/png"/><image for="pdf" src="../../media/HarmonicSeriesC-0.eps" mime-type="application/postscript"/></media></figure>
+
+		<para id="p2e">Look at the third harmonic in <link target-id="fig2b"/>. Its frequency is three times the frequency of the first harmonic (ratio 3:1). Remember, the frequency of the second harmonic is two times that of the first harmonic (ratio 2:1). In other words, there are two waves of the higher C for every one wave of the lower C, and three waves of the third-harmonic G for every one wave of the fundamental. So the <link document="m11808" strength="2">ratio</link> of the frequencies of the second to the third harmonics is 2:3. (In other words, two waves of the C for every three of the G.) From the harmonic series shown above, you can see that the <link document="m10867" strength="3">interval</link> between these two notes is a <link document="m10867" target-id="s21" strength="2">perfect fifth</link>. The ratio of the frequencies of all perfect fifths is 2:3.
+		</para>
+
+		<exercise id="exer2b">
+			<problem id="id1166086487357">
+				<list id="prob2b" list-type="enumerated">
+					<item>
+The interval between the fourth and sixth harmonics (frequency ratio 4:6) is also a fifth. Can you explain this?
+					</item>
+					<item>
+What other harmonics have an interval of a fifth?
+					</item>
+					<item>
+Which harmonics have an interval of a fourth?
+					</item>
+					<item>
+What is the frequency ratio for the interval of a fourth?
+					</item>
+				</list>
+			</problem>
+			<solution id="id1166080142184">
+				<list id="solu2b" list-type="enumerated"><item>
+The ratio 4:6 reduced to lowest terms is 2:3. (In other words, they are two ways of writing the same mathematical relationship. If you are more comfortable with fractions than with ratios, think of all the ratios as fractions instead. 2:3 is just two-thirds, and 4:6 is four-sixths. Four-sixths reduces to two-thirds.)
+					</item>
+					<item>
+Six and nine (6:9 also reduces to 2:3); eight and twelve; ten and fifteen; and any other combination that can be reduced to 2:3 (12:18, 14:21 and so on).
+					</item>
+					<item>
+Harmonics three and four; six and eight; nine and twelve; twelve and sixteen; and so on.
+					</item>
+					<item>
+3:4
+					</item>
+				</list>
+			</solution>
+		</exercise>
+
+	<para id="p2f">
+<note id="id1166079108789">If you have been looking at the harmonic series above closely, you may have noticed that some notes that are written to give the same interval have different frequency ratios. For example, the interval between the seventh and eighth harmonics is a major second, but so are the intervals between 8 and 9, between 9 and 10, and between 10 and 11. But 7:8, 8:9, 9:10, and 10:11, although they are pretty close, are not exactly the same. In fact, modern <link document="m11421">Western</link> music uses the <link document="m11639" target-id="s22">equal temperament</link> tuning system, which divides the octave into twelve notes that are equally far apart. (They do have the same frequency ratios, unlike the <link document="m10866">half steps</link> in the harmonic series.) The positive aspect of equal temperament (and the reason it is used) is that an instrument will be equally in tune in all keys. The negative aspect is that it means that all intervals except for octaves are slightly out of tune with regard to the actual harmonic series. For more about equal temperament, see <link document="m11639" target-id="s2" strength="3">Tuning Systems</link>. Interestingly, musicians have a tendency to revert to true harmonics when they can (in other words, when it is easy to fine-tune each note). For example, an a capella choral group, or a brass ensemble, may find themselves singing or playing perfect fourths and fifths, "contracted" major thirds and "expanded" minor thirds, and half and whole steps of slightly varying sizes.</note>
+	</para>
+
+	</section>
+
+	<section id="s3">
+		<title>Brass Instruments</title>
+
+		<para id="p3a">
+The harmonic series is particularly important for brass instruments. A pianist or xylophone player only gets one note from each key. A string player who wants a different note from a string holds the string tightly in a different place. This basically makes a vibrating string of a new length, with a new fundamental.
+		</para>
+
+		<para id="p3b">But a brass player, without changing the length of the instrument, gets different notes by actually playing the harmonics of the instrument. Woodwinds also do this, although not as much. Most woodwinds can get two different octaves with essentially the same fingering; the lower octave is the fundamental of the column of air inside the instrument at that fingering. The upper octave is the first harmonic. <note id="id1166079921885">In some woodwinds, such as the <link document="m12604">clarinet</link>, the upper "octave" may actually be the third harmonic rather than the second, which complicates the fingering patterns of these instruments. Please see <link document="m12589">Standing Waves and Wind Instruments</link> for an explanation of this phenomenon.</note>
+		</para>
+
+		<para id="p3c">It is the brass instruments that excel in getting different notes from the same length of tubing. The sound of a brass instruments starts with vibrations of the player's lips. By vibrating the lips at different speeds, the player can cause a harmonic of the air column to sound instead of the fundamental. Thus a bugle player can play any note in the harmonic series of the instrument that falls within the player's range. Compare these well-known bugle calls to the harmonic series <link target-id="fig2b" strength="3">above</link>.
+		</para>
+
+		
+
+		<figure id="fig3a"><title>Bugle Calls</title>
+<media id="id1166078772965" alt=""><image src="../../media/BugleCalls.png" mime-type="image/png"/><image for="pdf" src="../../media/BugleCalls-0.eps" mime-type="application/postscript"/></media>
+			<caption>Although limited by the fact that it can only play one harmonic series, the bugle can still play many well-known tunes.</caption>
+		</figure>
+
+		<para id="p3e">For centuries, all brass instruments were valveless. A brass instrument could play only the notes of one harmonic series. (An important exception was the <link document="m12602">trombone</link> and its relatives, which can easily change their length and harmonic series using a slide.) The upper octaves of the series, where the notes are close enough together to play an interesting melody, were often difficult to play, and some of the harmonics sound quite out of tune to ears that expect equal temperament. The solution to these problems, once brass valves were perfected, was to add a few valves to the instrument; three is usually enough. Each valve opens an extra length of tube, making the instrument a little longer, and making available a whole new harmonic series. Usually one valve gives the harmonic series one half step lower than the valveless intrument; another, one whole step lower; and the third, one and a half steps lower. The valves can be used in combination, too, making even more harmonic series available. So a valved brass instrument can find, in the comfortable middle of its <link document="m12381">range</link> (its <term>middle register</term>), a valve combination that will give a reasonably in-tune version for every note of the <link document="m10866" target-id="p0bb" strength="2">chromatic scale</link>. (For more on the history of valved brass, see <link document="m11617" target-id="s2" strength="2">History of the French Horn</link>. For more on how and why harmonics are produced in wind instruments, please see <link document="m12589">Standing Waves and Wind Instruments</link>)
+		</para>
+
+		<para id="p3f">
+<note id="id1166078142411"><link document="m12602">Trombones</link> still use a slide instead of valves to make their instrument longer. But the basic principle is still the same. At each slide "position", the instrument gets a new harmonic series. The notes in between the positions aren't part of the chromatic scale, so they are usually only used for special effects like <term>glissandos</term> (sliding notes).</note>
+		</para>
+
+	
+		<figure id="fig3b"><title>Overlapping Harmonic Series in Brass Instruments</title>
+<media id="id1166088716137" alt=""><image src="../../media/harmseries6.png" mime-type="image/png"/><image for="pdf" src="../../media/harmseries6-0.eps" mime-type="application/postscript"/></media>
+			<caption>These harmonic series are for a brass instrument that has a "C" fundamental when no valves are being used - for example, a C trumpet. Remember, there is an entire harmonic series for every fundamental, and any note can be a fundamental. You just have to find the brass tube with the right length. So a trumpet or tuba can get one harmonic series using no valves, another one a half step lower using one valve, another one a whole step lower using another valve, and so on. By the time all the combinations of valves are used, there is some way to get an in-tune version of every note they need.</caption>
+                </figure>
+
+	<exercise id="exer3a">
+
+		<problem id="id1166079919141">
+			<para id="pprob3a">
+Write the harmonic series for the instrument above when both the first and second valves are open. (You can use this <link resource="staffpaper1.pdf">PDF file</link> if you need staff paper.) What new notes are added in the instrument's middle range? Are any notes still missing?
+			</para>
+
+		</problem>
+
+		<solution id="id1166079650294">
+			<para id="psolu3a">
+Opening both first and second valves gives the harmonic series one-and-a-half steps lower than "no valves".
+			</para>
+
+			<figure id="fsolu3a"><media id="id1166080120278" alt=""><image src="../../media/harmseries7.png" mime-type="image/png"/><image for="pdf" src="../../media/harmseries7-0.eps" mime-type="application/postscript"/></media></figure>
+		</solution>
+
+	</exercise>
+
+	<para id="p3g">
+<note id="id1166079937101">The <link document="m11617" strength="2">French horn</link> has a reputation for being a "difficult" instrument to play. This is also because of the harmonic series. Most brass instruments play in the first few octaves of the harmonic series, where the notes are farther apart and it takes a pretty big difference in the mouth and lips (the <link document="m12364" target-id="p2a">embouchure</link>, pronounced AHM-buh-sher) to get a different note.  The range of the French horn is higher in the harmonic series, where the notes are closer together. So very small differences in the mouth and lips can mean the wrong harmonic comes out. </note>
+	</para>
+
+	</section>
+
+	<section id="s4">
+		<title>Playing Harmonics on Strings</title>
+
+		<para id="p4a">String players also use harmonics, although not as much as brass players. Harmonics on strings have a very different <link document="m11059">timbre</link> from ordinary string sounds. They give a quieter, thinner, more bell-like tone, and are usually used as a kind of ear-catching special-effect.
+		</para>
+
+		<para id="p4b">Normally a string player holds a string down very tightly. This shortens the length of the vibrating part of the string, in effect making a (temporarily) shorter vibrating string, which has its own full set of harmonics.
+		</para>
+
+		<para id="p4c">To "play a harmonic", the string is touched very, very lightly instead. The length of the string does not change. Instead, the light touch interferes with all of the vibrations that don't have a <link document="m12413" target-id="fig0b">node</link> at that spot.
+		</para>
+
+		<figure id="fig4a"><title>String Harmonics</title>
+<media id="id1166079934382" alt=""><image src="../../media/harmseries4.png" mime-type="image/png"/><image for="pdf" src="../../media/harmseries4-0.eps" mime-type="application/postscript"/></media>
+			
+		</figure>
+
+		<para id="p4d">The thinner, quieter sound of "playing harmonics" is caused by the fact that much of the harmonic series is missing from the sound, which will of course affect the <link document="m11059">timbre</link>. Lightly touching the string in most places will result in no sound at all. This technique only works well at places on the string where a main harmonic (one of the longer, louder lower-numbered harmonics) has a node. Some string players can get more harmonics by both holding the string down in one spot and touching it lightly in another spot, but this is an advanced technique.
+		</para>
+
+	</section>
+ 
+
+  </content>
+  
+</document>

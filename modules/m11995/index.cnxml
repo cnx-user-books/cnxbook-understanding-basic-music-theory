@@ -1,0 +1,238 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Beyond Triads: Naming Other Chords</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11995</md:content-id>
+  <md:title>Beyond Triads: Naming Other Chords</md:title>
+  <md:abstract>The name of a chord is determined by the relationship to the tonic of every note in the chord.</md:abstract>
+  <md:uuid>15434483-38b9-4c35-9b62-193ef943c676</md:uuid>
+</metadata>
+
+  <content>
+
+  <section id="s0">
+    <title>Introduction</title>
+ 
+    <para id="p0a">
+Once you know how to name triads (please see <link document="m10877">Triads</link> and <link document="m10890">Naming Triads</link>), you need only a few more rules to be able to name all of the most common chords.
+    </para>
+    <para id="p0b">This skill is necessary for those studying music theory. It's also very useful at a "practical" level for composers, arrangers, and performers (especially people playing chords, like pianists and guitarists), who need to be able to talk to each other about the chords that they are reading, writing, and playing. 
+    </para>
+    <para id="p0c">Chord manuals, fingering charts, chord diagrams, and notes written out on a staff are all very useful, especially if the composer wants a very particular sound on a chord. But all you really need to know are the name of the chord, your <link document="m10851">major scales</link> and <link document="m10856">minor scales</link>, and a few rules, and you can figure out the notes in any chord for yourself. 
+    </para>
+    <list id="l0a" list-type="enumerated"><title>What do you need to know to be able to name most chords?</title>
+<item>
+You must know your major, minor, augmented and diminished triads. Either have them all memorized, or be able to figure them out following the rules for triads. (See <link document="m10877">Triads</link> and <link document="m10890">Naming Triads</link>.)
+</item>
+<item>
+You must be able to find intervals from the <link document="m10877">root</link> of the chord. One way to do this is by using the rules for intervals. (See <link document="m10867">Interval</link>.) <emphasis>Or</emphasis> if you know your scales and don't want to learn about intervals, you can use the method in #3 instead. 
+</item>
+<item>
+If you know all your scales (always a good thing to know, for so many reasons), you can find all the intervals from the root using scales. For example, the "4" in Csus4 is the 4th note in a C (major or minor) scale, and the "minor 7th" in Dm7 is the 7th note in a D (natural) minor scale. If you would prefer this method, but need to brush up on your scales, please see <link document="m10851">Major Keys and Scales</link> and <link document="m10856">Minor Keys and Scales</link>.
+</item>
+<item>
+You need to know the rules for the common <link target-id="s1">seventh chords</link>, for <link target-id="s2">extending</link> and <link target-id="s6">altering</link> chords, for <link target-id="s2">adding notes</link>, and for <link target-id="s3">naming bass notes</link>. The basic rules for these are all found below.
+</item>
+</list><para id="element-313"><note id="id14476237">Please note that the modern system of chord symbols, discussed below, is very different from the <term>figured bass</term> shorthand popular in the seventeenth century (which is not discussed here). For example, the "6" in figured bass notation implies the first <link document="m10877">inversion</link> chord, not an added 6. (As of this writing, there was a very straightforward summary of figured bass at <link url="http://www.ars-nova.com/cpmanual/realizeharmony.htm">Ars Nova Software</link>.)</note></para>
+
+
+  </section>
+
+  <section id="s5">
+    <title>Chord Symbols</title>
+   <para id="p5a">Some instrumentalists, such as guitarists and pianists, are sometimes expected to be able to play a named chord, or an <link document="m11654" target-id="l0c">accompaniment</link> based on that chord, without seeing the notes written out in <link document="m10880">common notation</link>. In such cases, a <term>chord symbol</term> above the <link document="m10880">staff</link> tells the performer what chord should be used as accompaniment to the music until the next symbol appears. </para><figure id="element-843"><title>Chord Symbols</title>
+<media id="id5269168" alt=""><image src="../../media/ChordSymbol.png" mime-type="image/png"/><image for="pdf" src="../../media/ChordSymbol-0.eps" mime-type="application/postscript"/></media>
+<caption>A chord symbol above the staff is sometimes the only indication of which notes should be used in the <link document="m11654" target-id="l0c">accompaniment</link>. Chord symbols also may be used even when an accompaniment is written out, so that performers can read either the chord symbol or the notated music, as they prefer.</caption></figure><para id="element-359">There is widespread agreement on how to name chords, but there are several different systems for writing chord symbols. Unfortunately, this can be a little confusing, particularly when different systems use the same symbol to refer to different chords. If you're not certain what chord is wanted, you can get useful clues both from the notes in the music and from the other chord symbols used. (For example, if the "minus" chord symbol is used, check to see if you can spot any chords that are clearly labelled as either minor or diminished.)</para><figure id="element-703"><title>Examples of Chord Symbol Variety</title>
+<media id="id13494427" alt=""><image src="../../media/Chordsymbols.png" mime-type="image/png"/><image for="pdf" src="../../media/ChordSymbols-0.eps" mime-type="application/postscript"/></media>
+<caption>There is unfortunately a wide variation in the use of chord symbols. In particular, notice that some symbols, such as the "minus" sign and the triangle, can refer to different chords, depending on the assumptions of the person who wrote the symbol.</caption></figure>
+  </section>
+
+  <section id="s1">
+    <title>Seventh Chords</title>
+
+    <para id="p1a">If you take a basic <link document="m10877">triad</link> and add a note that is a <link document="m10867" target-id="pexam1a">seventh</link> above the <link document="m10877">root</link>, you have a <term>seventh chord</term>. There are several different types of seventh chords, distinguished by both the type of triad and the type of seventh used. Here are the most common.
+    </para>
+
+    <list id="l1a"><title>Seventh Chords</title>
+       <item>
+Seventh (or "dominant seventh") chord = major triad + minor seventh
+       </item>
+       <item>
+Major Seventh chord = major triad + major seventh
+       </item>
+       <item>
+Minor Seventh chord = minor triad + minor seventh
+       </item>
+       <item>
+Diminished Seventh chord = diminished triad + diminished seventh (half step lower than a minor seventh)
+       </item>
+       <item>
+Half-diminished Seventh chord = diminished triad + minor seventh
+       </item></list>
+
+    <list id="l1b"><title>An easy way to remember where each seventh is:</title>
+      <item>
+The <emphasis>major seventh</emphasis> is one half step below the <link document="m10862">octave</link>.
+      </item>
+      <item>
+The <emphasis>minor seventh</emphasis> is one half step below the major seventh.
+      </item>
+      <item>
+The <emphasis>diminished seventh</emphasis> is one half step below the minor seventh.
+      </item>
+    </list>
+
+    <figure id="fig1a"><title>Common Seventh Chords</title>
+        <media id="id4892776" alt=""><image src="../../media/SeventhChords.png" mime-type="image/png"/><image for="pdf" src="../../media/SeventhChords-0.eps" mime-type="application/postscript"/></media></figure>
+
+    <para id="p1b">Listen to the differences between the <link resource="chodom7.mp3">C seventh</link>, <link resource="choM7.mp3">C major seventh</link>, <link resource="chomin7.mp3">C minor seventh</link>, <link resource="chodim7.mp3">C diminished seventh</link>, and <link resource="chohalfdim.mp3">C half-diminished seventh</link>.
+    </para>
+
+<exercise id="element-367"><problem id="id4891710">
+		<para id="pprob1">Write the following seventh chords. If you need staff paper, you can print this <link resource="staffpaper1.pdf">PDF file</link>
+		</para><list id="element-774" list-type="enumerated"><item>G minor seventh</item>
+	<item>E (dominant) seventh</item>
+	<item>B flat major seventh</item>
+        <item>D diminished seventh</item>
+        <item>F (dominant) seventh</item>
+        <item>F sharp minor seventh</item>
+        <item>G major seventh</item>
+        <item>B half-diminished seventh</item></list>
+	</problem>
+
+	<solution id="id4378059">
+		<figure id="figsolv1"><media id="id9502510" alt=""><image src="../../media/SeventhProb.png" mime-type="image/png"/><image for="pdf" src="../../media/SeventhProb-0.eps" mime-type="application/postscript"/></media></figure>
+	</solution>
+</exercise><exercise id="exer4d">
+       <problem id="id3594203">
+         <para id="prob4d">Write a Ddim7, Fdim7, G#dim7, and Bdim7. Look closely at the chords you have written and see if you can notice something surprising about them. (Hint: try rewriting the chords <link document="m11641">enharmonically</link> so that all the notes are either natural or (single) flat.
+         </para>
+       </problem>
+       <solution id="id4706538">
+          <figure id="fig4d"><media id="id16275152" alt=""><image src="../../media/dim7chords.png" mime-type="image/png"/><image for="pdf" src="../../media/dim7chords-0.eps" mime-type="application/postscript"/></media>
+          </figure>
+       </solution>
+
+    </exercise>
+
+  </section>
+
+  <section id="s2">
+     <title>Added Notes, Suspensions, and Extensions</title>
+
+    <para id="p2a">The seventh is not the only note you can add to a basic triad to get a new chord. You can continue to <emphasis>extend</emphasis> the chord by adding to the <link document="m10877">stack of thirds</link>, or you can <emphasis>add</emphasis> any note you want. The most common additions and extensions add notes that are in the scale named by the chord.
+    </para>
+
+    <figure id="fig2a"><title>Extending and Adding Notes to Chords</title>
+<media id="id13133000" alt=""><image src="../../media/AddedNotes.png" mime-type="image/png"/><image for="pdf" src="../../media/Addednotes-0.eps" mime-type="application/postscript"/></media>
+      <caption>To find out what to call a note added to a chord, count the notes of the scale named by the chord.</caption>
+    </figure>
+
+    <para id="p2b">
+The first, third, and fifth (1, 3, and 5) notes of the scale are part of the basic triad. So are any other notes in other octaves that have the same name as 1, 3, or 5. In a C major chord, for example, that would be any C naturals, E naturals, and G naturals. If you want to add a note with a different name, just list its number (its <term>scale degree</term>) after the name of the chord. 
+    </para>
+
+     <figure id="fig2b"><title>Adding to and Extending Chords</title>
+      <media id="id14272776" alt=""><image src="../../media/Caddnotes.png" mime-type="image/png"/><image for="pdf" src="../../media/Caddednote-0.eps" mime-type="application/postscript"/></media>
+      <caption>Labelling a number as "sus" (suspended) implies that it replaces the chord tone immediately below it. Labelling it "add" implies that only that note is added. In many other situations, the performer is left to decide how to play the chord most effectively. Chord tones may or may not be left out. In an extended chord, all or some of the notes in the "stack of thirds" below the named note may also be added.</caption>
+    </figure>
+ 
+    <para id="p2bb">Many of the higher added notes are considered <term>extensions</term> of the "stack of thirds" begun in the triad. In other words, a C13 can include (it's sometimes the performer's decision which notes will actually be played) the seventh, ninth, and eleventh as well as the thirteenth. Such a chord can be dominant, major, or minor; the performer must take care to play the correct third and seventh. If a chord symbol says to "add13", on the other hand, this usually means that only the thirteenth is added.
+    </para>
+
+    <figure id="fig2bb"><title>A Variety of Ninth Chords</title>
+<media id="id13055966" alt=""><image src="../../media/Cninths.png" mime-type="image/png"/><image for="pdf" src="../../media/Cninths-0.eps" mime-type="application/postscript"/></media>
+    <caption>Take care to use the correct third and seventh - dominant, major, or minor - with extended chords. If the higher note is labelled "add", don't include the chord extensions that aren't named.</caption></figure>
+
+    <para id="p2c"><note id="id4965657">All added notes and extensions, including sevenths, introduce <link document="m11953">dissonance</link> into the chord. In some modern music, many of these dissonances are heard as pleasant or interesting or jazzy and don't need to be resolved. However, in other styles of music, dissonances need to be <link document="m11953" target-id="p0h">resolved</link>, and some chords may be altered to make the dissonance sound less harsh (for example, by leaving out the 3 in a chord with a 4).
+</note>
+You may have noticed that, once you pass the octave (8), you are repeating the scale. In other words, C2 and C9 both add a D, and C4 and C11 both add an F. It may seem that C4 and C11 should therefore be the same chords, but in practice these chords usually do sound different; for example, performers given a C4 chord will put the added note near the bass note and often use it as a temporary replacement for the third (the "3") of the chord. On the other hand, they will put the added note of a C11 at the top of the chord, far away from the bass note and piled up on top of all the other notes of the chord (including the third), which may include the 7 and 9 as well as the 11. The result is that the C11 - an <term>extension</term> - has a more diffuse, jazzy, or impressionistic sound. The C4, on the other hand, has a more intense, needs-to-be-resolved, classic <term>suspension</term> sound. In fact, 2, 4, and 9 chords are often labelled <term>suspended</term> (sus), and follow the same rules for <link document="m11953" target-id="p0h">resolution</link> in popular music as they do in classical.
+    </para>
+
+     <figure id="fig2c">
+      <media id="id13605170" alt=""><image src="../../media/C4C11.png" mime-type="image/png"/><image for="pdf" src="../../media/C4C11-0.eps" mime-type="application/postscript"/></media>
+      <caption>Low-number added notes and high-number added notes are treated differently. So even though they both add an F, a <link resource="C4C.mid">C4 suspension</link> will sound quite different from a <link resource="C11.mid">C11</link> extended chord.</caption>
+    </figure>
+
+  </section>
+
+  <section id="s3">
+    <title>Bass Notes</title>
+
+    <para id="p3a">
+The <link document="m11654" target-id="l0c">bass line</link> of a piece of music is very important, and the composer/arranger often will want to specify what note should be the lowest-sounding in the chord. At the end of the chord name will be a slash followed by a note name, for example C/E. The note following the slash should be the bass note.
+    </para>
+
+    <figure id="fig3a"><title>Naming the Bass Note</title>
+       <media id="id6033503" alt=""><image src="../../media/Caddedbass.png" mime-type="image/png"/><image for="pdf" src="../../media/Caddedbass-0.eps" mime-type="application/postscript"/></media>
+       <caption>The note following the slash is the bass note of the chord. It can be a note that is already in the chord - making the chord a first or second <link document="m10877" target-id="p2a">inversion</link> - or it can be an added note, following the same basic rules as other added notes (including using it to replace other notes in the chord).
+       </caption>
+    </figure>
+
+    <para id="p3b">The note named as the bass note can be a note normally found in the chord - for example, C/E or C/G - or it can be an added note - for example C/B or C/A. If the bass note is not named, it is best to use the <link document="m10851" target-id="p1a">tonic</link> as the primary bass note.
+    </para>
+
+    <exercise id="exer4a">
+       <problem id="id13168015">
+          <para id="prob4a">Name the chords. (Hint: Look for suspensions, added notes, extensions, and basses that are not the root. Try to identify the main triad or root first.)
+          </para>
+          <figure id="fig4aa"><media id="id4180975" alt=""><image src="../../media/NameChordProb.png" mime-type="image/png"/><image for="pdf" src="../../media/NameChordProb-0.eps" mime-type="application/postscript"/></media>
+          </figure>
+       </problem>
+       <solution id="id13624856">
+          <figure id="fig4ab"><media id="id5587813" alt=""><image src="../../media/NameChordSolv.png" mime-type="image/png"/><image for="pdf" src="../../media/NameChordSolv-0.eps" mime-type="application/postscript"/></media>
+          </figure>
+       </solution>
+    </exercise>
+
+    <exercise id="exer4c">
+       <problem id="id3570981">
+         <para id="prob4c">For guitarists, pianists, and other chord players: Get some practical practice. Name some chords you don't have memorized (maybe F6, Am/G, Fsus4, BM7, etc.). Chords with fingerings that you don't know but with a sound that you would recognize work best for this exercise. Decide what notes must be in those chords, find a practical fingering for them, play the notes and see what they sound like.
+         </para>
+       </problem>
+       <solution id="id12231304">
+          <list id="solv4c"><title>You can check your work by</title> 
+            <item>listening to the chords to see if they sound correct
+            </item>
+            <item>playing your chords for your teacher or other trained musician
+            </item>
+            <item>checking your answers using a chord manual or chord diagrams</item>
+          </list>
+       </solution>
+    </exercise>
+
+  </section>
+
+  <section id="s6">
+    <title>Altering Notes and Chords</title>
+
+    <para id="p6a">If a note in the chord is not in the major or minor scale of the <link document="m10877">root</link> of the chord, it is an <term>altered note</term> and makes the chord an <term>altered chord</term>. The alteration - for example "flat five" or "sharp nine" - is listed in the chord symbol. Any number of alterations can be listed, making some chord symbols quite long. <emphasis>Alterations are not the same as <link document="m10943" target-id="p0e">accidentals</link>.</emphasis> Remember, a chord symbol always names notes in the scale of the chord <link document="m10877">root</link>, ignoring the <link document="m10881">key signature</link> of the piece that the chord is in, so the alterations are from the scale of the chord, not from the key of the piece.
+    </para>
+
+    <figure id="fig6a"><title>Altered Chords</title>
+<media id="id4885634" alt=""><image src="../../media/Altered.png" mime-type="image/png"/><image for="pdf" src="../../media/Altered-0.eps" mime-type="application/postscript"/></media>
+    <caption>There is some variation in the chord symbols for altered chords. Plus/minus or sharp/flat symbols may appear before or after the note number. When sharps and flats are used, remember that the alteration is always from the scale of the chord root, not from the key signature.</caption></figure>
+
+ 
+
+    <exercise id="exer4b">
+       <problem id="id14563769">
+         <para id="prob4b">On a treble clef staff, write the chords named. You can print this <link resource="staffpaper1.pdf">PDF file</link> if you need staff paper for this exercise.</para><list id="element-975" list-type="enumerated"><item>D (dominant) seventh with a flat nine</item>
+	<item>A minor seventh with a flat five</item>
+        <item>G minor with a sharp seven</item>
+        <item>B flat (dominant) seventh with a sharp nine</item>
+        <item>F nine sharp eleven</item></list>
+         
+       </problem>
+       <solution id="id4720204">
+          <para id="element-406">Notice that a <link target-id="l1a">half-diminished seventh</link> can be (and sometimes is) written as it is here, as a minor seventh with flat five.</para><figure id="fig4bb"><media id="id13621791" alt=""><image src="../../media/Alteredprob.png" mime-type="image/png"/><image for="pdf" src="../../media/Alteredprob-0.eps" mime-type="application/postscript"/></media></figure>
+
+          
+       </solution>
+    </exercise>
+
+
+  </section>
+
+  </content>
+  
+</document>

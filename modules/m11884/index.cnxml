@@ -1,0 +1,105 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Articulation</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11884</md:content-id>
+  <md:title>Articulation</md:title>
+  <md:abstract>An introduction to the most common musical articulation markings.</md:abstract>
+  <md:uuid>9ddddf32-a9c4-47c9-bc0d-73c1385d8d13</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11649/latest/" strength="3">Dynamics</link>
+      <link url="http://cnx.rice.edu/content/m11648/latest/" strength="2">Tempo</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10945/latest/" strength="3">Duration</link>
+      <link url="http://cnx.rice.edu/content/m10956/latest/" strength="2">Time Signature</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+  <section id="s0">
+   <title>What is Articulation?</title>
+    <para id="p0a">The word <term>articulation</term> generally refers to how the pieces of something are joined together; for example, how bones are connected to make a skeleton or syllables are connected to make a word. Articulation depends on what is happening at the beginning and end of each segment, as well as in between the segments.
+    </para>
+    <para id="p0b">In music, the segments are the individual notes of a <term>line</term> in the music. This could be the <link document="m11647">melodic</link> line, the <link document="m11654" target-id="l0c">bass</link> line, or a part of the <link document="m11654">harmony</link>. The line might be performed by any musician or group of musicians: a singer, for example, or a bassoonist, a violin section, or a trumpet and saxophone together. In any case, it is a string of notes that follow one after the other and that belong together in the music.The <term>articulation</term> is what happens in between the notes. The <term>attack</term> - the beginning of a note - and the amount of <term>space</term> in between the notes are particularly important.
+    </para>
+  </section>
+  <section id="s01">
+   <title>Performing Articulations</title>
+    <para id="p01a">Descriptions of how each articulation is done cannot be given here, because they depend too much on the particular instrument that is making the music. In other words, the technique that a <link document="m13437">violin</link> player uses to slur notes will be completely different from the technique used by a <link document="m12606">trumpet</link> player, and a pianist and a vocalist will do different things to make a melody sound legato. In fact, the violinist will have some articulations available (such as <term>pizzicato</term>, or "plucked") that a trumpet player will never see.</para>
+<para id="p01b">So if you are wondering how to play slurs on your guitar or staccato on your clarinet, ask your music teacher or director. What you will find here is a short list of the most common articulations: their names, what they look like when notated, and a vague description of how they sound. The descriptions have to be vague, because articulation, besides depending on the instrument, also depends on the style of the music. Exactly how much space there should be between staccato eighth notes, for example, depends on <link document="m11648">tempo</link> as well as on whether you're playing Rossini or Sousa. To give you some idea of the difference that articulation makes, though, here are audio examples of a violin playing a <link resource="artleg.mp3">legato</link> and a <link resource="artstacc.mp3">staccato</link>  passage. 
+(For more audio examples of violin articulations, please see <link document="m13316">Common Violin Terminology</link>.)</para>
+
+  </section>
+  <section id="s1">
+   <title>Common Articulations</title>
+
+          <para id="p1a"><term>Staccato</term> notes are short, with plenty of space between them. Please note that this doesn't mean that the <link document="m11648">tempo</link> or <link document="m11646">rhythm</link> goes any faster. The tempo and rhythm are not affected by articulations; the staccato notes sound shorter than written only because of the extra space between them.
+          </para>
+
+    <figure id="fig1a"><title>Staccato</title>
+<media id="id1164062418748" alt=""><image src="../../media/staccato.png" mime-type="image/png"/><image for="pdf" src="../../media/staccato-0.eps" mime-type="application/postscript"/></media>
+      
+    </figure>
+
+
+          <para id="p1c"><term>Legato</term> is the opposite of staccato. The notes are very connected; there is no space between the notes at all. There is, however, still some sort of articulation that causes a slight but definite break between the notes (for example, the violin player's bow changes direction, the guitar player plucks the string again, or the wind player uses the tongue to interrupt the stream of air).
+          </para>
+
+    <figure id="fig1c"><title>Legato</title>
+<media id="id1164050492229" alt=""><image src="../../media/Legato.png" mime-type="image/png"/><image for="pdf" src="../../media/Legato-0.eps" mime-type="application/postscript"/></media>
+      
+    </figure>
+
+          <para id="p1f"><term>Accents</term> - An <link document="m11649" target-id="p0d">accent</link> requires that a note stand out more than the unaccented notes around it. Accents are usually performed by making the accented note, or the beginning of the accented note, louder than the rest of the music. Although this is mostly a quick change in <link document="m11649">dynamics</link>, it usually affects the articulation of the note, too. The extra loudness of the note often requires a stronger, more definite attack at the beginning of the accented note, and it is emphasized by putting some space before and after the accented notes. The effect of a lot of accented notes in a row may sound <link target-id="p1b">marcato</link>.
+          </para>
+
+    <figure id="fig1f"><title>Accents</title>
+<media id="id1164052598691" alt=""><image src="../../media/accents.png" mime-type="image/png"/><image for="pdf" src="../../media/accents-0.eps" mime-type="application/postscript"/></media>
+      <caption>The performance of an accent depends on the style of music, but in general, sforzando and fortepiano accents involve a loud beginning to a longer note. They are usually heavier and longer than caret-type accents, which often rely more on a powerful <link target-id="p0b">attack</link> to make a short note louder than the notes around it.</caption>
+    </figure>
+
+          <para id="p1d">A <term>slur</term> is marked by a curved line joining any number of notes. When notes are slurred, only the first note under each slur marking has a definite articulation at the beginning.  The rest of the notes are so seamlessly connected that there is no break between the notes. A good example of slurring occurs when a vocalist sings more than one note on the same syllable of text.
+          </para>
+
+    <figure id="fig1d"><title>Slurs</title>
+<media id="id1164057349541" alt=""><image src="../../media/Slurs.png" mime-type="image/png"/><image for="pdf" src="../../media/Slurs-0.eps" mime-type="application/postscript"/></media>
+   
+    </figure>
+
+          <para id="p1e">A <link document="m11888" target-id="s3">tie</link> looks like a slur, but it is between two notes that are the same pitch. <emphasis>A tie is not really an articulation marking.</emphasis> It is included here because it looks like one, which can cause confusion for beginners. When notes are tied together, they are played as if they are one single note that is the length of all the notes that are tied together. (Please see <link document="m11888">Dots, Ties, and Borrowed Divisions</link>.)
+          </para>
+
+    <figure id="fig1e"><title>Slurs vs. Ties</title>
+<media id="id1164050492954" alt=""><image src="../../media/SlurTie.png" mime-type="image/png"/><image for="pdf" src="../../media/SlurTie-0.eps" mime-type="application/postscript"/></media>
+      <caption>A slur marking indicates no articulation - no break in the sound - between notes of different pitches. A tie is used between two notes of the same pitch. Since there is no articulation between them, they sound like a single note. The tied quarters here would sound exactly like a half note crossing the bar line. Like a note that crosses bar lines, the two-and-a-half-beat "note" in the fourth bar would be difficult to write without using a tie.
+</caption>
+    </figure>
+ 
+    <para id="p1h">A <term>portamento</term> is a smooth glide between the two notes, including all the <link document="m10943">pitches</link> in between. For some instruments, like <link document="m13437">violin</link> and <link document="m12602">trombone</link>, this includes even the pitches in between the written notes. For other instruments, such as <link document="m12745">guitar</link>, it means sliding through all of the possible notes between the two written pitches.
+    </para>
+
+    <figure id="fig1h"><title>Portamento</title>
+<media id="id1164050491798" alt=""><image src="../../media/Portamento.png" mime-type="image/png"/><image for="pdf" src="../../media/Portamento-0.eps" mime-type="application/postscript"/></media></figure>
+
+          <para id="element-862">Although unusual in traditional <link document="m10880">common notation</link>, a type of portamento that includes only one written pitch can be found in some styles of music, notably jazz, blues, and rock. As the <link target-id="element-590">notation</link> suggests, the proper performance of <term>scoops</term> and <term>fall-offs</term> requires that the portamento begins (in scoops) or ends (in fall-offs) with the slide itself, rather than with a specific note.</para><figure id="element-590"><title>Scoops and Fall-offs</title> 
+<media id="id1164051571261" alt=""><image src="../../media/Scoops.png" mime-type="image/png"/><image for="pdf" src="../../media/Scoops-0.eps" mime-type="application/postscript"/></media>
+<caption>The notation for scoops and fall-offs has not been standardized, but either one will look something like a portamento or slur with a note on one end only.</caption></figure><para id="p1b">Some articulations may be some combination of staccato, legato, and accent. <term>Marcato</term>, for example means "marked" in the sense of "stressed" or "noticeable". Notes marked <foreign>marcato</foreign> have enough of an accent and/or enough space between them to make each note seem stressed or set apart. They are usually longer than staccato but shorter than legato. Other notes may be marked with a combination of articulation symbols, for example legato with accents. As always, the best way to perform such notes depends on the instrument and the style of the music.
+          </para>
+
+    <figure id="fig1b"><title>Some Possible Combination Markings</title>
+<media id="id1164060510394" alt=""><image src="../../media/marcato.png" mime-type="image/png"/><image for="pdf" src="../../media/marcato-0.eps" mime-type="application/postscript"/></media></figure>
+
+          <para id="p1g">Plenty of music has no articulation marks at all, or marks on only a few notes. Often, such music calls for notes that are a little more separate or defined than legato, but still nowhere as short as staccato. Mostly, though, it is up to the performer to know what is considered proper for a particular piece. For example, most ballads are sung legato, and most marches are played fairly staccato or marcato, whether they are marked that way or not. Furthermore, singing or playing a <link document="m11647" target-id="s2">phrase</link> with musicianship often requires knowing which notes of the phrase should be legato, which should be more separate, where to add a little <foreign>portamento</foreign>, and so on. This does not mean the best players consciously decide how to play each note. Good articulation comes naturally to the musician who has mastered the instrument and the style of the music.
+          </para>
+
+    
+   
+   </section></content>
+  
+</document>

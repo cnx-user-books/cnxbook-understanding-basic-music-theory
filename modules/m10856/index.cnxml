@@ -1,0 +1,159 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Minor Keys and Scales</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10856</md:content-id>
+  <md:title>Minor Keys and Scales</md:title>
+  <md:abstract>The interval pattern for minor scales is different from that of major scales. Every minor key shares a key signature with its relative major. There are three common types of minor scales: natural minor, melodic minor, and harmonic minor. Jazz also commonly uses a "dorian minor".</md:abstract>
+  <md:uuid>aa9e4724-3e0b-435c-bb87-f438ccc5c9ab</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Major Keys</link>
+      <link url="http://cnx.rice.edu/content/m10865/latest/" strength="2">Circle of Fifths</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10881/latest/" strength="3">Key Signature</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="s1">
+    <title>Music in a Minor Key</title>
+
+    <para id="p1a">Each <link document="m10851" strength="3">major key</link> uses a different set of <link document="m10945">notes</link> (its <link document="m10851" target-id="s2" strength="3">major scale</link>). In each major scale, however, the notes are arranged in the same major scale pattern and build the same types of chords that have the same relationships with each other. (See <link document="m11643" strength="2">Beginning Harmonic Analysis</link> for more on this.) So music that is in, for example, C major, will not sound significantly different from music that is in, say, D major. But music that is in D minor will have a different quality, because the notes in the minor scale follow a different pattern and so have different relationships with each other. Music in minor keys has a different sound and emotional feel, and develops differently harmonically. So you can't, for example, <link document="m10668">transpose</link> a piece from C major to D minor (or even to C minor) without changing it a great deal. Music that is in a minor key is sometimes described as sounding more solemn, sad, mysterious, or ominous than music that is in a major key. To hear some simple examples in both major and minor keys, see <link document="m10851" target-id="exer0a" strength="3">Major Keys and Scales</link>.
+
+    </para>  
+
+    </section> 
+    <section id="s2">
+    <title>Minor Scales</title>
+
+    <para id="p2a">Minor scales sound different from major scales because they are based on a different pattern of <link document="m10867">intervals</link>. Just as it did in major scales, starting the minor scale pattern on a different note will give you a different <link document="m10881">key signature</link>, a different set of sharps or flats. The scale that is created by playing all the notes in a minor key signature is a <term>natural minor scale</term>. To create a natural minor scale, start on the <link document="m10851" target-id="p1a" strength="3">tonic note</link> and go up the scale using the interval pattern: <emphasis>whole step, half step, whole step, whole step, half step, whole step, whole step</emphasis>.
+    </para>
+
+    <figure id="fig3a"><title>Natural Minor Scale Intervals</title>
+     <media id="id42118835" alt=""><image src="../../media/minor1.png" mime-type="image/png"/><image for="pdf" src="../../media/minor1-0.eps" mime-type="application/postscript"/></media>
+    </figure>
+
+    <para id="p2aa">
+<link resource="3a.mid">Listen</link> to these minor scales.
+    </para>
+
+    <exercise id="exer2a">
+    <problem id="id49977815">
+    <para id="prob2a">For each note below, write a natural minor scale, one octave, ascending (going up) beginning on that note. If you need staff paper, you may print the <link resource="staffpaper1.pdf">staff paper</link> PDF file.
+    </para>
+    <figure id="figprob2a"><media id="id42129166" alt=""><image src="../../media/minorprob.png" mime-type="image/png"/><image for="pdf" src="../../media/minorprob-0.eps" mime-type="application/postscript"/></media> </figure>
+   </problem>
+
+    <solution id="id40383622">
+     <figure id="fig3b"><media id="id40383630" alt=""><image src="../../media/minorexercise1.png" mime-type="image/png"/><image for="pdf" src="../../media/minorexercise1-0.eps" mime-type="application/postscript"/></media>
+     </figure>
+    </solution>
+    </exercise>
+
+    </section>
+    <section id="s3">
+    <title>Relative Minor and Major Keys</title>
+
+    <para id="p3a">Each minor key shares a <link document="m10881">key signature</link> with a major key. A minor key is called the <term>relative minor</term> of the major key that has the same key signature. Even though they have the same key signature, a  minor key and its <term>relative major</term> sound very different. They have different <link document="m10851" target-id="p1a">tonal centers</link>, and each will feature melodies, harmonies, and <link document="m11654" target-id="l0b">chord progressions</link> built around their (different) tonal centers. In fact, certain strategic <link document="m10943" target-id="p0e">accidentals</link> are very useful in helping establish a strong tonal center in a minor key. These useful accidentals are featured in the <link target-id="s3">melodic minor</link> and <link target-id="s3"> harmonic minor</link> scales. 
+     </para>
+
+	<figure id="element-419"><title>Comparing Major and Minor Scale Patterns</title>
+<media id="id41862655" alt=""><image src="../../media/RelativeMm.png" mime-type="image/png"/><image for="pdf" src="../../media/RelativeMm-0.eps" mime-type="application/postscript"/></media>
+<caption>The interval patterns for major and natural minor scales are basically the same pattern starting at different points.</caption></figure><para id="element-988">It is easy to predict where the relative minor of a major key can be found. Notice that the pattern for minor scales overlaps the pattern for major scales. In other words, they are the same pattern starting in a different place. (If the patterns were very different, minor key signatures would not be the same as major key signatures.) The pattern for the minor scale starts a half step plus a whole step lower than the major scale pattern, so <emphasis>a relative minor is always three half steps lower than its relative major</emphasis>. For example, C minor has the same key signature as E flat major, since E flat is a minor third higher than C.</para><figure id="fig3s"><title>Relative Minor</title>
+		<media id="id39848434" alt=""><image src="../../media/minor2.png" mime-type="image/png"/><image for="pdf" src="../../media/minor2-0.eps" mime-type="application/postscript"/></media>
+		<caption>The C major and C minor scales start on the same note, but have different key signatures. C minor and E flat major start on different notes, but have the same key signature. C minor is the <term>relative minor</term> of E flat major.</caption>
+	</figure>
+
+    <exercise id="exer3a">
+    <problem id="id39733660">
+     <para id="prob3a">What are the relative majors of the minor keys in <link target-id="figprob2a"/>?
+      </para>
+    </problem>
+    <solution id="id39741089">
+      <list id="lsolu3a" list-type="enumerated">
+         <item>
+A minor: C major
+         </item>
+         <item>
+G minor: B flat major
+         </item>
+         <item>
+B flat minor: D flat major
+         </item>
+         <item>
+E minor: G major
+         </item>
+         <item>
+F minor: A flat major
+         </item>
+         <item>
+F sharp minor: A major
+         </item>
+      </list>
+    </solution>
+    </exercise>
+
+    </section>
+    <section id="s4">
+    <title>Harmonic and Melodic Minor Scales</title>
+
+    <note id="eip-464">Do key signatures make music more complicated than it needs to be? Is there an easier way? Join the discussion at <link url="http://openingmeasures.com/music/22/why-cant-we-use-something-simpler-than-key-signatures/">Opening Measures</link>.</note><para id="p4a">All of the scales above are <term>natural minor scales</term>. They contain only the notes in the minor key signature. There are two other kinds of minor scales that are commonly used, both of which include notes that are not in the key signature. The <term>harmonic minor scale</term> <emphasis>raises the seventh note of the scale by one half step, whether you are going up or down the scale</emphasis>. Harmonies in minor keys often use this raised seventh tone in order to make the music feel more strongly centered on the <link document="m10851" target-id="p1a" strength="3">tonic</link>. (Please see <link document="m11643" target-id="s6">Beginning Harmonic Analysis</link> for more about this.) In the <term>melodic minor scale</term>, <emphasis>the sixth and seventh notes of the scale are each raised by one half step when going up the scale, but return to the natural minor when going down the scale</emphasis>. Melodies in minor keys often use this particular pattern of <link document="m10943" target-id="p0e">accidentals</link>, so instrumentalists find it useful to practice melodic minor scales.
+    </para>
+	<figure id="fig3e"><title>Comparing Types of Minor Scales</title>
+		<media id="id42198341" alt=""><image src="../../media/minor3.png" mime-type="image/png"/><image for="pdf" src="../../media/minor3-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+
+    <para id="p4ab">Listen to the differences between the <link resource="tonminnatural.mp3">natural minor</link>, <link resource="tonminharmonic.mp3">harmonic minor</link>, and <link resource="tonminmelodic.mp3">melodic minor</link> scales.
+    </para>
+
+    <exercise id="exer4a">
+    <problem id="id40018268">
+    <para id="prob4a">Rewrite each scale from <link target-id="figprob2a"/> as an ascending harmonic minor scale.
+    </para>
+
+    </problem>
+
+    <solution id="id40427672">
+	<figure id="solv4a"><media id="id40409053" alt=""><image src="../../media/minorharmonic.png" mime-type="image/png"/><image for="pdf" src="../../media/minorharmonic-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+    </solution>
+
+    </exercise>
+
+    <exercise id="exer4b">
+    <problem id="id42616219">
+    <para id="prob4b">Rewrite each scale from <link target-id="figprob2a"/> as an ascending and descending melodic minor scale.
+    </para>
+
+    </problem>
+
+    <solution id="id40448821">
+	<figure id="solv4b"><media id="id40430358" alt=""><image src="../../media/minormelodic.png" mime-type="image/png"/><image for="pdf" src="../../media/minormelodic-0.eps" mime-type="application/postscript"/></media>
+	</figure>
+    </solution>
+
+    </exercise>
+
+    </section>
+
+    <section id="s5">
+      <title>Jazz and "Dorian Minor"</title>
+
+    <para id="p5a">Major and minor scales are traditionally the basis for <link document="m11421">Western Music</link>, but jazz theory also recognizes other scales, based on the medieval <link document="m11633" target-id="p2a">church modes</link>, which are very useful for improvisation. One of the most useful of  these is the scale based on the dorian mode, which is often called the <term>dorian minor</term>, since it has a basically minor sound. Like any minor scale, dorian minor may start on any note, but like dorian mode, it is often illustrated as natural notes beginning on d. 
+    </para><figure id="element-913"><title>Dorian Minor</title>
+<media id="id42017326" alt=""><image src="../../media/DorianMinor.png" mime-type="image/png"/><image for="pdf" src="../../media/DorianMinor-0.eps" mime-type="application/postscript"/></media>
+<caption>The "dorian minor" can be written as a scale of natural notes starting on d. Any scale with this interval pattern can be called a "dorian minor scale".</caption></figure><para id="element-260">Comparing this scale to the natural minor scale makes it easy to see why the dorian mode sounds minor; only one note is different. </para><figure id="element-463"><title>Comparing Dorian and Natural Minors</title>
+<media id="id39707808" alt=""><image src="../../media/DorianNaturalMinors.png" mime-type="image/png"/><image for="pdf" src="../../media/DorianNaturalMinors-0.eps" mime-type="application/postscript"/></media></figure><para id="element-367">You may find it helpful to notice that the "relative major" of the Dorian begins one whole step lower. (So, for example, D Dorian has the same key signature as C major.) In fact, the reason that Dorian is so useful in jazz is that it is the scale used for improvising while a <link document="m11643" target-id="s1">ii chord</link> is being played (for example, while a d minor chord is played in the key of C major), a chord which is very common in jazz. (See <link document="m11643">Beginning Harmonic Analysis</link> for more about how chords are classified within a key.) The student who is interested in modal jazz will eventually become acquainted with all of the <term>modal scales</term>. Each of these is named for the medieval <link document="m11633" target-id="p2a">church mode</link> which has the same interval pattern, and each can be used with a different chord within the key. Dorian is included here only to explain the common jazz reference to the "dorian minor" and to give notice to students that the jazz approach to scales can be quite different from the traditional classical approach.</para><figure id="element-353"><title>Comparison of Dorian and Minor Scales</title>
+<media id="id43329793" alt=""><image src="../../media/FourMinor.png" mime-type="image/png"/><image for="pdf" src="../../media/FourMinor-0.eps" mime-type="application/postscript"/></media>
+<caption>You may also find it useful to compare the dorian with the minor scales from <link target-id="fig3e"/>. Notice in particular the relationship of the altered notes in the harmonic, melodic, and dorian minors.</caption></figure>
+
+    </section>
+
+  </content>
+  
+</document>

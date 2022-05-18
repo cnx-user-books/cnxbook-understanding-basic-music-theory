@@ -1,0 +1,130 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Octaves and the Major-Minor Tonal System</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m10862</md:content-id>
+  <md:title>Octaves and the Major-Minor Tonal System</md:title>
+  <md:abstract>Introduces the relationship between frequency, octaves, major, minor, and chromatic scales, and tonal music.</md:abstract>
+  <md:uuid>b5ad889c-3804-480c-8ad8-56f40936fcd0</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Major Keys</link>
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="3">Minor Keys</link>
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="3">Physics and Music</link>
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="2">Pitch</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10881/latest/" strength="3">Key Signature</link>
+      <link url="http://cnx.rice.edu/content/m11421/latest/" strength="3">Western Music</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  
+   <section id="s1">	
+		<title>Where Octaves Come From</title>
+
+    <para id="p1a">
+Musical notes, like all sounds, are made of sound waves. The sound waves that make musical notes are very evenly-spaced waves, and the qualities of these regular waves - for example how big they are or how far apart they are - affect the sound of the note. A note can be high or low, depending on how often (how frequently) one of its waves arrives at your ear. When scientists and engineers talk about how high or low a sound is, they talk about its <link document="m11060" target-id="p1e" strength="3">frequency</link>. The higher the <term>frequency</term> of a note, the higher it sounds. They can measure the frequency of notes, and like most measurements, these will be numbers, like "440 vibrations per second."
+	</para>
+
+	<figure id="fig1a">
+		<title>High and Low Frequencies</title>
+		<media id="id1169957170924" alt=""><image src="../../media/harmseries1.png" mime-type="image/png"/><image for="pdf" src="../../media/harmseries1.eps" mime-type="application/postscript"/></media>
+		<caption>A sound that has a shorter wavelength has a higher frequency and a higher pitch.</caption>
+	</figure>
+
+	<para id="p1b">But people have been making music and talking about music since long before we knew that sounds were waves with frequencies. So when musicians talk about how high or low a note sounds, they usually don't talk about frequency; they talk about the note's <link document="m10943" strength="3">pitch</link>. And instead of numbers, they give the notes names, like "C". (For example, musicians call the note with frequency "440 vibrations per second" an "A".)
+    </para>
+
+	<para id="p1c">
+But to see where octaves come from, let's talk about frequencies a little more. Imagine a few men are singing a song together. Nobody is singing harmony; they are all singing the same pitch - the same frequency - for each note.
+	</para>
+
+	<para id="p1d">
+Now some women join in the song. They can't sing where the men are singing; that's too low for their voices. Instead they sing notes that are exactly double the frequency that the men are singing. That means their note has exactly two waves for each one wave that the men's note has. These two frequencies fit so well together that it sounds like the women are singing the same notes as the men, in the same <link document="m10851">key</link>. They are just singing them one octave higher. <emphasis>Any note that is twice the frequency of another note is one <term>octave</term> higher.</emphasis> 
+	</para>
+
+	<para id="p1e">
+Notes that are one octave apart are so closely related to each other that musicians give them the same name. A note that is an octave higher or lower than a note named "C natural" will also be named "C natural". A note that is one (or more) octaves higher or lower than an "F sharp" will also be an "F sharp". (For more discussion of how notes are related because of their frequencies, see <link document="m11118" strength="3">The Harmonic Series</link>, <link document="m12413" strength="3">Standing Waves and Musical Instruments</link>, and <link document="m12589" strength="3">Standing Waves and Wind Instruments</link>.)
+	</para>
+
+	<figure id="fig1b">
+		<title>Octave Frequencies</title>
+		<media id="id1169952639109" alt=""><image src="../../media/octavewaves.png" mime-type="image/png"/><image for="pdf" src="../../media/octavewaves.eps" mime-type="application/postscript"/></media>
+		<caption>When two notes are one octave apart, one has a frequency exactly two times higher than the other - it has twice as many waves. These waves fit together so well, in the instrument, and in the air, and in your ears, that they sound almost like different versions of the same note. </caption>
+	</figure>
+
+	</section>
+
+	<section id="s2">
+		<title>Naming Octaves</title>
+
+		<para id="p2a">
+The notes in different octaves are so closely related that when musicians talk about a note, a "G" for example, it often doesn't matter which G they are talking about. We can talk about the "F sharp" in a G <link document="m10851">major scale</link> without mentioning which octave the scale or the F sharp are in, because the scale is the same in every octave. Because of this, many discussions of music theory don't bother naming octaves. Informally, musicians often speak of "the B on the staff" or the "A above the staff", if it's clear which <link document="m10880">staff</link> they're talking about.
+		</para>
+                <para id="p2ba">
+But there are also two formal systems for naming the notes in a particular octave. Many musicians use <term>Helmholtz</term> notation. Others prefer <term>scientific pitch notation</term>, which simply labels the octaves with numbers, starting with C1 for the lowest C on a full-sized keyboard. Figure 3 shows the names of the octaves most commonly used in music.  
+                </para>
+
+		<figure id="fig2a"><title>Naming Octaves</title>
+			<media id="id1169956797870" alt=""><image src="../../media/octavenames.png" mime-type="image/png"/><image for="pdf" src="../../media/octavenames-0.eps" mime-type="application/postscript"/></media>
+			<caption>The octaves are named from one C to the next higher C. For example, all the notes in between "one line c" and "two line c" are "one line" notes. </caption> 
+		</figure>
+                <para id="p2bb">
+The octave below contra can be labelled CCC or Co; higher octaves can be labelled with higher numbers or more lines. Octaves are named from one C to the next higher C. For example, all the notes between "great C" and "small C" are "great".
+<emphasis>One-line c is also often called "middle C". No other notes are called "middle", only the C.</emphasis>
+		</para>
+
+		<example id="examp2a">
+			<figure id="figexamp1"><title>Naming Notes within a Particular Octave</title>
+<media id="id1169952745471" alt=""><image src="../../media/OctaveEx.png" mime-type="image/png"/><image for="pdf" src="../../media/OctaveEx-0.eps" mime-type="application/postscript"/></media>
+<caption>Each note is considered to be in the same octave as the C below it.</caption>
+			</figure>
+		</example>
+
+		<exercise id="exer2a">
+			<problem id="id1169951999086">
+				<para id="prob2a">
+Give the correct octave name for each note.
+				</para>
+				<figure id="probfig2a"><media id="id1169952721126" alt=""><image src="../../media/OctaveProb1.png" mime-type="image/png"/><image for="pdf" src="../../media/OctaveProb1.eps" mime-type="application/postscript"/></media>
+				</figure></problem>
+			<solution id="id1169953094972">
+				<figure id="solufig2a"><media id="id1169953997891" alt=""><image src="../../media/OctaveSolv1.png" mime-type="image/png"/><image for="pdf" src="../../media/OctaveSolv1.eps" mime-type="application/postscript"/></media>
+				</figure></solution>
+		</exercise>
+
+	</section>
+
+   <section id="s3">	
+	<title>Dividing the Octave into Scales</title>
+
+     <para id="p3a">The word "octave" comes from a Latin root meaning "eight". It seems an odd name for a frequency that is two times, not eight times, higher. The octave was named by musicians who were more interested in how octaves are divided into scales, than in how their frequencies are related. Octaves aren't the only notes that sound good together. The people in different musical traditions have different ideas about what notes they think sound best together. In the <link document="m11421" strength="2">Western</link> musical tradition - which includes most familiar music from Europe and the Americas - the octave is divided up into twelve equally spaced notes. If you play all twelve of these notes within one octave you are playing a <link document="m10866" target-id="p0bb">chromatic scale</link>. Other musical traditions - traditional Chinese music for example - have divided the octave differently and so they use different scales. (Please see <link document="m10851" strength="2">Major Keys and Scales</link>, <link document="m10856" strength="2">Minor Keys and Scales</link>, and <link document="m11636" strength="2">Scales that aren’t Major or Minor</link> for more about this.)
+     </para>
+
+	<para id="p3b">
+You may be thinking "OK, that's twelve notes; that still has nothing to do with the number eight", but out of those twelve notes, only seven are used in any particular <link document="m10851" strength="3">major</link> or <link document="m10856" strength="3">minor</link> scale. Add the first note of the next octave, so that you have that a "complete"-sounding scale ("do-re-mi-fa-so-la-ti" and then "do" again), and you have the eight notes of the <term>octave</term>. These are the <term>diatonic</term> scales, and they are the basis of most <link document="m11421">Western</link> music.
+	</para>
+
+	<para id="p3c">Now take a look at the piano keyboard. Only seven letter names are used to name notes: A, B, C, D, E, F, and G. The eighth note would, of course, be the next A, beginning the next octave. To name the other notes, the notes on the black piano keys, you have to use a <link document="m10943" strength="3">sharp or flat</link> sign. 
+	</para>
+
+	<figure id="fig3a"><title>Keyboard</title>
+      	<media id="id1169952584005" alt=""><image src="../../media/OctaveKeyboard.png" mime-type="image/png"/><image for="pdf" src="../../media/OctaveKeyboard-0.eps" mime-type="application/postscript"/></media>
+      	<caption>The white keys are the natural notes. Black keys can only be named using sharps or flats. The pattern repeats at the eighth tone of a scale, the octave.</caption>
+    	</figure>
+
+	<para id="p3d">
+Whether it is a popular song, a classical symphony, or an old folk tune, most of the music that feels comfortable and familiar (to Western listeners) is based on either a major or minor scale. It is <term>tonal</term> music that mostly uses only seven of the notes within an octave: only one of the possible A's (A sharp, A natural, or A flat), one of the possible B's (B sharp, B natural, or B flat), and so on. The other notes in the chromatic scale are (usually) used sparingly to add interest or to (temporarily) change the key in the middle of the music. For more on the keys and scales that are the basis of tonal music, see <link document="m10851" strength="3">Major Keys and Scales</link> and <link document="m10856" strength="3">Minor Keys and Scales</link>.
+	</para>
+
+
+	   </section>
+
+  </content>
+  
+</document>

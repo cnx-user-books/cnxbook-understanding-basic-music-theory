@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Syncopation</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11644</md:content-id>
+  <md:title>Syncopation</md:title>
+  <md:abstract>An explanation with examples of the musical rhythm concept called syncopation.</md:abstract>
+  <md:uuid>cbf8c786-a705-4f77-be8c-095af348046d</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11619/latest/" strength="3">Listening to Ragtime</link>
+      <link url="http://cnx.rice.edu/content/m10878/latest/" strength="2">Ragtime</link>
+      <link url="http://cnx.rice.edu/content/m10879/latest/" strength="1">Scott Joplin</link>
+      <link url="http://cnx.rice.edu/content/m11421/latest/" strength="1">Western and Non-Western Music</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10945/latest/" strength="3">Rhythm</link>
+      <link url="http://cnx.rice.edu/content/m10956/latest/" strength="3">Time Signature</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="p0a">A <term>syncopation</term> or <term>syncopated rhythm</term> is any <link document="m11646">rhythm</link> that puts an emphasis on a <link document="m10956" target-id="s1">beat</link>, or a subdivision of a beat, that is not usually emphasized. One of the most obvious features of <link document="m11421">Western</link> music, to be heard in most everything from Bach to blues, is a strong, steady beat that can easily be grouped evenly into <link document="m10956" target-id="s1">measures</link>. (In other words, each measure has the same number of beats, and you can hear the measures in the music because the first beat of the measure is the strongest. See <link document="m10956">Time Signature</link> and <link document="m12405">Meter</link> for more on this.) This makes it easy for you to dance or clap your hands to the music. But music that follows the same rhythmic pattern all the time can get pretty boring. Syncopation is one way to liven things up. The music can suddenly emphasize the weaker beats of the measure, or it can even emphasize notes that are not on the beat at all. For example, <link resource="Syncopation.MID">listen</link> to the melody in <link target-id="fig0a"/>.
+    </para> 
+      
+    <figure id="fig0a"><media id="id1168726217447" alt=""><image src="../../media/syncopation.png" mime-type="image/png"/><image for="pdf" src="../../media/syncopation-0.eps" mime-type="application/postscript"/></media>
+        <caption>
+A syncopation may involve putting an "important" note on a weak beat, or off the beat altogether.
+        </caption>
+    </figure>
+    <para id="p0c">The first measure clearly establishes a simple quadruple <link document="m12405">meter</link> ("ONE and two and THREE and four and"), in which important things, like changes in the melody, happen on beat one or three. But then, in the second measure, a syncopation happens; the longest and highest note is on beat two, normally a weak beat. In the syncopation in the third measure, the longest note doesn't even begin on a beat; it begins half-way through the third beat. (Some musicians would say "on the <term>up-beat</term>" or "on the 'and' of three".)
+Now listen to another example from a <link resource="metsync.mp3">Boccherini minuet</link>. Again, some of the long notes begin half-way between the beats, or "on the up-beat". Notice, however, that in other places in the music, the melody establishes the meter very strongly, so that the syncopations are easily heard to be syncopations.</para>
+    
+    <figure id="fig0b"><media id="id1168753318088" alt=""><image src="../../media/Sync2.png" mime-type="image/png"/><image for="pdf" src="../../media/Sync2-0.eps" mime-type="application/postscript"/></media>
+ <caption>Syncopation is one of the most important elements in <link document="m10878">ragtime</link> music, as illustrated in this example from Scott Joplin's <cite><cite-title>Peacherine Rag</cite-title></cite>. Notice that the syncopated notes in the melody come on the second and fourth quarters of the beat, essentially alternating with the strong eighth-note pattern laid down in the accompaniment.</caption>  </figure>
+    <para id="p0e">Another way to strongly establish the meter is to have the syncopated rhythm playing in one part of the music while another part plays a more regular rhythm, as in this <link resource="sync2.mid">passage</link> from Scott Joplin (see <link target-id="fig0b"/>). Syncopations can happen anywhere: in the <link document="m11647">melody</link>, the <link document="m11654" target-id="l0c">bass line</link>, the rhythm section, the chordal <link document="m11654" target-id="l0c">accompaniment</link>. Any spot in the rhythm that is normally weak (a weak beat, an upbeat, a sixteenth of a beat, a part of a triplet) can be given emphasis by a syncopation. It can suddenly be made important by a long or high note in the melody, a change in direction of the melody, a chord change, or a written <link document="m11649" target-id="p0d">accent</link>. Depending on the <link document="m11648">tempo</link> of the music and the type of syncopation, a syncopated rhythm can make the music sound jaunty, jazzy, unsteady, surprising, uncertain, exciting, or just more interesting.
+    </para>
+    <figure id="fig0c"><media id="id1168726225592" alt=""><image src="../../media/Sync3.png" mime-type="image/png"/><image for="pdf" src="../../media/Sync3-0.eps" mime-type="application/postscript"/></media>
+        <caption>
+Syncopation can be added just by putting <link document="m11649" target-id="p0d">accents</link> in unexpected places.
+        </caption>
+    </figure>
+    <para id="p0f">Other musical traditions tend to be more rhythmically complex than Western music, and much of the syncopation in modern American music is due to the influence of <link document="m11421">Non-Western</link> traditions, particularly the African roots of the African-American tradition. Syncopation is such an important aspect of much American music, in fact, that the type of syncopation used in a piece is one of the most important clues to the style and genre of the music. <link document="m10878">Ragtime</link>, for example, would hardly be ragtime without the jaunty syncopations in the melody set against the steady unsyncopated bass. The "swing" rhythm in big-band jazz and the "back-beat" of many types of rock are also specific types of syncopation. If you want practice hearing syncopations, listen to some ragtime or jazz. Tap your foot to find the beat, and then notice how often important musical "events" are happening "in between" your foot-taps.
+    </para>
+  </content>
+  
+</document>

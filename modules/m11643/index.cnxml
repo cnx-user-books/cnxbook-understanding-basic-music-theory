@@ -1,0 +1,234 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Beginning Harmonic Analysis</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11643</md:content-id>
+  <md:title>Beginning Harmonic Analysis</md:title>
+  <md:abstract>An introduction to chord relationships within a particular key.</md:abstract>
+  <md:uuid>562750a3-3578-4e83-a29d-5eba9e163fc2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m10856/latest/" strength="1">Minor Keys</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10881/latest/" strength="3">Key Signature</link>
+      <link url="http://cnx.rice.edu/content/m10851/latest/" strength="3">Major Keys</link>
+      <link url="http://cnx.rice.edu/content/m10890/latest/" strength="3">Naming Triads</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">It sounds like a very technical idea, but basic <term>harmonic analysis</term> just means understanding how a chord is related to the key and to the other chords in a piece of music. This can be such useful information that you will find many musicians who have not studied much music theory, and even some who don't read music, but who can tell you what the I ("one") or the V ("five") chord are in a certain key.
+       </para>
+
+       <para id="p0b">Why is it useful to know how chords are related? </para><list id="element-214" list-type="bulleted"><item>Many standard <link document="m10842">forms</link> (for example, a "twelve bar blues") follow very specific <link document="m11654" target-id="l0b">chord progressions</link>, which are often discussed in terms of harmonic relationships.</item>
+<item>If you understand chord relationships, you can <link document="m10668">transpose</link> any chord progression you know to any <link document="m10851">key</link> you like. 
+       </item>
+	<item>If you are searching for chords to go with a particular <link document="m11647">melody</link> (in a particular key), it is very helpful to know what chords are most likely in that key, and how they might be likely to progress from one to another.</item>
+<item>Improvisation requires an understanding of the chord progression.</item>
+	<item>Harmonic analysis is also necessary for anyone who wants to be able to compose reasonable chord progressions or to study and understand the music of the great composers.</item></list>
+
+    </section>
+    <section id="s1">
+       <title>Basic Triads in Major Keys</title>
+
+       <para id="p1a">Any chord might show up in any key, but some chords are much more likely than others. The most likely chords to show up in a key are the chords that use only the notes in that key (no <link document="m10943" target-id="p0e">accidentals</link>). So these chords have both names and numbers that tell how they fit into the key. (We'll just discuss basic <link document="m10877">triads</link> for the moment, not <link document="m11995" target-id="p1a">seventh  chords</link> or other <link document="m11995" target-id="s2">added-note</link> or <link document="m11995" target-id="p6a">altered</link> chords.) The chords are numbered using Roman numerals from I to vii.
+       </para>
+
+       <figure id="fig1a"><title>Chords in the keys of C major and D major</title>
+         <media id="id1169997884433" alt=""><image src="../../media/CmajDmajChords.png" mime-type="image/png"/><image for="pdf" src="../../media/CmajDmajChords-0.eps" mime-type="application/postscript"/></media>
+         <caption>To find all the basic chords in a key, build a simple triad (in the key) on each note of the scale. You'll find that although the chords change from one key to the next, the <emphasis>pattern</emphasis> of major and minor chords is always the same.
+         </caption>
+       </figure>
+
+       <exercise id="exer1a">
+          <problem id="id4875905">
+            <para id="prob1a">Write and name the chords in G major and in B flat major. (Hint: Determine the <link document="m10881">key signature</link> first. Make certain that each chord begins on a note in the <link document="m10851">major scale</link> and contains only notes in the key signature.) If you need some staff paper, you can print this <link resource="staffpaper1.pdf">PDF file</link>
+</para>
+          </problem>
+          <solution id="id1169990950498">
+            <figure id="solv1a"><media id="id1170003201006" alt=""><image src="../../media/GBbChords.png" mime-type="image/png"/><image for="pdf" src="../../media/GBbChords-0.eps" mime-type="application/postscript"/></media>
+            </figure>
+          </solution>
+       </exercise>
+
+       <para id="p1b">You can find all the basic triads that are possible in a key by building one triad, in the key, on each note of the scale (each <term>scale degree</term>). One easy way to name all these chords is just to number them: the chord that starts on the first note of the scale is "I", the chord that starts on the next scale degree is "ii", and so on. Roman numerals are used to number the chords. Capital Roman numerals are used for <link document="m10890" target-id="s1">major chords</link> and small Roman numerals for <link document="m10890" target-id="s1">minor chords</link>. The <link document="m10890" target-id="s2">diminished chord</link> is in small Roman numerals followed by a small circle. Because major scales always follow the same pattern, the pattern of major and minor chords is also the same in any major key. The chords built on the first, fourth, and fifth degrees of the scale are always major chords (I, IV, and V). The chords built on the second, third, and sixth degrees of the scale are always minor chords (ii, iii, and vi). The chord built on the seventh degree of the scale is a diminished chord.
+       </para>
+
+
+
+       <para id="p1c">
+<note id="id1169991630548">Notice that IV in the key of B flat is an E flat major chord, not an E major chord, and vii in the key of G is F sharp diminished, not F diminished. If you can't name the scale notes in a key, you may find it difficult to predict whether a chord should be based on a sharp, flat, or natural note. This is only one reason (out of many) why it is a good idea to memorize all the scales. (See <link document="m10851">Major Keys and Scales</link>.) However, if you don't plan on memorizing all the scales at this time, you'll find it useful to memorize at least the most important chords (start with I, IV, and V) in your favorite keys.</note>
+       </para>
+
+    </section>
+
+    <section id="s2">
+       <title>A Hierarchy of Chords</title>
+       
+       <para id="p2a">Even among the chords that naturally occur in a key signature, some are much more likely to be used than others. In most music, the most common chord is I. In <link document="m11421">Western music</link>, I is the <link document="m10851">tonal center</link> of the music, the chord that feels like the "home base" of the music. As the other two major chords in the key, IV and V are also likely to be very common. In fact, the most common added-note chord in most types of Western music is a V chord (the <link target-id="s3">dominant chord</link>) with a <link document="m10867" target-id="list22a">minor seventh</link> added (V7). It is so common that this particular flavor of <link document="m11995" target-id="s1">seventh</link> (a major chord with a minor seventh added) is often called a <term>dominant seventh</term>, regardless of whether the chord is being used as the V (the dominant) of the key. Whereas the I chord feels most strongly "at home", V7 gives the strongest feeling of "time to head home now". This is very useful for giving music a satisfying ending. Although it is much less common than the V7, the diminished vii chord (often with a <link document="m10890" target-id="s2">diminished seventh</link> added), is considered to be a harmonically unstable chord that strongly wants to resolve to I. Listen to these very short progressions and see how strongly each suggests that you must be in the key of C: <link resource="Cchord.mid">C (major) chord(I)</link>; <link resource="FchordCchord.mid">F chord to C chord (IV - I)</link>; <link resource="GchordCchord.mid">G chord to C chord (V - I)</link>; <link resource="G7chordCchord.mid">G seventh chord to C chord (V7 - I)</link>; <link resource="BdimchordCchord.MID">B diminished seventh chord to C chord (viidim7 - I)</link> (Please see <link document="m12402">Cadence</link> for more on this subject.)
+       </para>
+       <para id="p2b">
+Many folk songs and other simple tunes can be accompanied using only the I, IV and V (or V7) chords of a key, a fact greatly appreciated by many beginning guitar players. Look at some chord progressions from real music.
+       </para>
+       
+       <figure id="fig2a"><title>Some chord progressions</title>
+          <media id="id1169996255402" alt=""><image src="../../media/ChordProg.png" mime-type="image/png"/><image for="pdf" src="../../media/ChordProg-0.eps" mime-type="application/postscript"/></media>
+          <caption>
+Much Western music is harmonically pretty simple, so it can be very useful just to know I, IV, and V in your favorite keys. This figure shows progressions as a list of chords (read left to right as if reading a paragraph), one per measure.
+          </caption>
+       </figure>
+
+       <para id="p2c">Typically, folk, blues, rock, marches, and <link document="m15294">Classical-era</link> music is based on relatively straightforward chord progressions, but of course there are plenty of exceptions. Jazz and some pop styles tend to include many chords with <link document="m11995" target-id="s2">added</link> or <link document="m11995" target-id="p6a">altered</link> notes. <link document="m11606">Romantic-era</link> music also tends to use more complex chords in greater variety, and is very likely to use chords that are not in the key.</para><figure id="fig2b"><title>More Complex Chord Progressions</title>
+          <media id="id6605924" alt=""><image src="../../media/ChordProg2.png" mime-type="image/png"/><image for="pdf" src="../../media/chordprog2-0.eps" mime-type="application/postscript"/></media>
+          <caption>
+Some music has more complex harmonies. This can include more unusual chords such as major sevenths, and chords with <link document="m11995" target-id="p6a">altered</link> notes such as sharp fives. It may also include more basic chords that aren't in the key, such as I diminished and II (major), or even chords based on notes that are not in the key such as a sharp IV chord. (Please see <link document="m11995" target-id="s5">Beyond Triads</link> to review how to read chord symbols.)
+          </caption>
+       </figure><para id="element-436">Extensive study and practice are needed to be able to identify and understand these more complex progressions. It is not uncommon to find college-level music theory courses that are largely devoted to harmonic analysis and its relationship to musical forms. This course will go no further than to encourage you to develop a basic understanding of what harmonic analysis is about.</para>
+
+    </section>
+    <section id="s3">
+      <title>Naming Chords Within a Key</title>
+
+      <para id="p3a">So far we have concentrated on identifying chord relationships by number, because this system is commonly used by musicians to talk about every kind of music from classical to jazz to blues. There is another set of names that is commonly used, particularly in classical music, to talk about harmonic relationships. Because numbers are used in music to identify everything from beats to intervals to harmonics to what fingering to use, this naming system is sometimes less confusing.
+      </para>
+
+      <figure id="fig3a"><media id="id1169995309221" alt=""><image src="../../media/harmrels.png" mime-type="image/png"/><image for="pdf" src="../../media/harmrels-0.eps" mime-type="application/postscript"/></media>
+      </figure>
+
+      <exercise id="exer3a">
+        <problem id="id1170000688973">
+             <list id="prob3a" list-type="enumerated">
+               <title>
+Name the chord.
+               </title>
+               <item>
+Dominant in C major
+               </item>
+               <item>
+Subdominant in E major
+               </item>
+               <item>
+Tonic in G sharp major
+               </item>
+               <item>
+Mediant in F major
+               </item>
+               <item>
+Supertonic in D major
+               </item>
+               <item>
+Submediant in C major
+               </item>
+               <item>
+Dominant seventh in A major
+               </item>
+             </list>
+        </problem>
+        <solution id="id1169998551566">
+             <list id="solv3a" list-type="enumerated">
+                <item>
+G major (G)
+                </item>
+                <item>
+A major (A)
+                </item>
+                <item>
+G sharp major (G#)
+                </item>
+                <item>
+A minor (Am)
+                </item>
+                <item>
+E minor (Em)
+                </item>
+                <item>
+A minor (Am)
+                </item>
+                <item>
+E seventh (E7)
+                </item>
+             </list>
+        </solution>
+      </exercise>
+
+      <exercise id="exer3b">
+        <problem id="id1169991829050">
+            <para id="prob3b">The following chord progression is in the key of G major. Identify the relationship of each chord to the key by both name and number. Which chord is not in the key? Which chord in the key has been left out of the progression?
+            </para>
+            <figure id="figprob3b"><media id="id1169990198676" alt=""><image src="../../media/chordprogprob.png" mime-type="image/png"/><image for="pdf" src="../../media/chordprogprob-0.eps" mime-type="application/postscript"/></media>
+            </figure>
+        </problem>
+        <solution id="id1169991856132">
+            <figure id="solv3b"><media id="id1170002829886" alt=""><image src="../../media/chordprog3.png" mime-type="image/png"/><image for="pdf" src="../../media/chordprog3-0.eps" mime-type="application/postscript"/></media>
+            </figure>
+        </solution>
+      </exercise>
+
+    </section>
+    <section id="s6">
+      <title>Minor Keys</title>
+      
+      <para id="p6a">Since <link document="m10856">minor scales</link> follow a different pattern of <link document="m10867">intervals</link> than major scales, they will produce chord progressions with important differences from major key chord progressions.
+      </para>
+
+      <exercise id="minorexercise1"><problem id="id1169992722515">
+         <para id="pminexer1">Write (triad) chords that occur in the keys of A minor, E minor, and D minor. Remember to begin each triad on a note of the <link document="m10856" target-id="s3">natural minor</link>
+ scale and to include only notes in the scale in each chord. Which chord relationships are major? Which minor? Which diminished? If you need staff paper, print this <link resource="staffpaper1.pdf">PDF file</link>
+         </para>
+        </problem>
+        <solution id="id1170003907356">
+        <para id="element-825">The tonic, subdominant, and dominant are minor (i, iv, and v). The mediant, submediant, and subtonic are major (III, VI, and VII). The supertonic (ii) is diminished.</para>
+        <figure id="figminex1"><media id="id1170004252642" alt=""><image src="../../media/minharmprob1.png" mime-type="image/png"/><image for="pdf" src="../../media/minharmprob1-0.eps" mime-type="application/postscript"/></media>
+        </figure>
+        </solution>
+      </exercise>
+
+      <para id="element-235">Notice that the actual chords created using the major scale and its <link document="m10856" target-id="s3">relative minor</link> scale are the same. For example, compare the chords in A minor (<link target-id="figminex1"/>) to the chords in C major (<link target-id="fig1a"/>). The difference is in how the chords are used. As explained <link target-id="p2a">above</link>, if the key is C major, the <link document="m11654" target-id="l0b">chord progression</link> will likely make it clear that C is the <link document="m10851" target-id="p1a">tonal center</link> of the piece, for example by featuring the bright-sounding (major) tonic, dominant, and subdominant chords (C major, G major or G7, and F major), particularly in strong <link document="m12402">cadences</link> that end on a C chord.</para><para id="element-946">If the piece is in A minor, on the other hand, it will be more likely to feature (particularly in cadences) the tonic, dominant, and subdominant of A minor (the A minor, D minor, and E minor chords). These chords are also available in the key of C major, of course, but they typically are not given such a prominent place.</para><para id="element-725">As mentioned <link target-id="p2a">above</link>, the "flavor" of sound that is created by a major chord with a minor seventh added, gives a particularly dominant (wanting-to-go-to-the-home-chord) sound, which in turn gives a more strong feeling of tonality to a piece of music. Because of this, many minor pieces change the dominant chord so that it is a dominant seventh (a major chord with a minor seventh), even though that requires using a note that is not in the key.</para><exercise id="minorexercise2">
+        <problem id="id1169996704973">
+         <para id="pminexer2">Look at the chords in <link target-id="figminex1"/>. What note of each scale would have to be changed in order to make v major? Which other chords would be affected by this change? What would they become, and are these altered chords also likely to be used in the minor key?</para>
+        </problem>
+        <solution id="id1169993963497">
+        <para id="element-952">The seventh degree of the scale must be raised by one half step to make the v chord major. If the seventh scale note is raised, the III chord becomes augmented, and and the vii chord becomes a diminished chord (based on the sharp vii rather than the vii). The augmented III chord would not be particularly useful in the key, but, as mentioned <link target-id="p2a">above</link>, a diminished seventh chord based on the leading tone (here, the sharp vii) is sometimes used in <link document="m12402">cadences</link>.</para><figure id="figminex2"><media id="id1169992795484" alt=""><image src="../../media/minharmprob2.png" mime-type="image/png"/><image for="pdf" src="../../media/minharmprob2-0.eps" mime-type="application/postscript"/></media></figure>
+        </solution>
+      </exercise>
+<para id="element-694">The point of the <link document="m10856" target-id="s3">harmonic minor</link> scale is to familiarize the musician with this common feature of harmony, so that the expected chords become easy to play in every minor key. There are also changes that can be made to the <link document="m11647">melodic</link> lines of a minor-key piece that also make it more strongly tonal. This involves raising (by one <link document="m10866">half step</link>) both the sixth and seventh scale notes, but only when the melody is ascending. So the musician who wants to become familiar with melodic patterns in every minor key will practice <link document="m10856" target-id="s3">melodic minor</link> scales, which use different notes for the ascending and descending scale. </para><para id="element-534">You can begin practicing harmonic analysis by practicing identifying whether a piece is in the major key or in its relative minor. Pick any piece of music for which you have the written music, and use the following steps to determine whether the piece is major or minor:</para>
+<list id="element-634" list-type="bulleted"><title>Is it Major or Minor?</title><item>
+Identify the chords used in the piece, particularly at the very end, and at other important <link document="m12402">cadences</link> (places where the music comes to a stopping or resting point). This is an important first step that may require practice before you become good at it. Try to start with simple music which either includes the names of the chords, or has simple chords in the accompaniment that will be relatively easy to find and name. If the chords are not named for you and you need to review how to name them just by looking at the written notes, see <link document="m10890">Naming Triads</link> and <link document="m11995">Beyond Triads</link>.
+</item>
+<item>Find the <link document="m10881">key signature</link>.</item>
+<item>Determine both the <link document="m10851">major key</link>
+ represented by that key signature, and its <link document="m10856" target-id="s3">relative minor</link> (the minor key that has the same key signature).</item>
+<item>Look at the very end of the piece. Most pieces will end on the tonic chord. If the final chord is the tonic of either the major or minor key for that key signature, you have almost certainly identified the key.</item>
+<item>
+If the final chord is not the tonic of either the major or the minor key for that key signature, there are two possibilities. One is that the music is not in a major or minor key! Music from other cultures, as well as some jazz, folk, modern, and pre-<link document="m14737">Baroque</link> European music are based on other modes or scales. (Please see <link document="m11633">Modes and Ragas</link> and <link document="m11636">Scales that aren’t Major or Minor</link> for more about this.) If the music sounds at all "exotic" or "unusual", you should suspect that this may be the case.
+</item>
+<item>
+If the final chord is not the tonic of either the major or the minor key for that key signature, but you still suspect that it is in a major or minor key (for example, perhaps it has a "repeat and fade" ending which avoids coming to rest on the tonic), you may have to study the rest of the music in order to discern the key. Look for important cadences before the end of the music (to identify I). You may be able to identify, just by listening, when the piece sounds as if it is approaching and landing on its "resting place". Also look for chords that have that "dominant seventh" flavor (to identify V). Look for the specific <link document="m10943" target-id="p0e">accidentals</link> that you would expect if the <link document="m10856" target-id="s3">harmonic minor</link> or <link document="m10856" target-id="s3">melodic minor</link> scales were being used. Check to see whether the major or minor chords are emphasized overall. Put together the various clues to reach your final decision, and check it with your music teacher or a musician friend if possible.
+</item></list>
+    </section>
+    <section id="s4">
+      <title>Modulation</title>
+      
+      <para id="p4a">Sometimes a piece of music temporarily moves into a new key. This is called <term>modulation</term>. It is very common in traditional classical music; long symphony and concerto movements almost always spend at least some time in a different key (usually a closely <link document="m10865">related key</link> such as the <link document="m11643" target-id="s3">dominant</link> or <link document="m11643" target-id="s3">subdominant</link>, or the <link document="m10856" target-id="s3">relative minor or relative major</link>), in order to keep things interesting. Shorter works, even in classical style, are less likely to have complete modulations. Abrupt changes of key can seem unpleasant and jarring. In most styles of music, modulation is accomplished gradually, using a progression of chords that seems to move naturally towards the new key. But implied modulations, in which the tonal center seems to suddenly shift for a short time, can be very common in some shorter works (jazz standards, for example). As in longer works, modulation, with its new set of chords, is a good way to keep a piece interesting. If you find that the chord progression in a piece of music suddenly contains many chords that you would not expect in that key, it may be that the piece has modulated. Lots of accidentals, or even an actual change of <link document="m10881">key signature</link>, are other clues that the music has modulated. </para><para id="element-793">A new <link document="m10881">key signature</link> may help you to identify the modulation key. If there is not a change of key signature, remember that the new key is likely to contain whatever <link document="m10943" target-id="p0e">accidentals</link> are showing up. It is also likely that many of the chords in the progression will be chords that are common in the new key. Look particularly for tonic chords and dominant sevenths. The new key is likely to be <link document="m10865"> closely related</link> to the original key, but another favorite trick in popular music is to simply move the key up one <link document="m10866">whole step</link>, for example from C major to D major. Modulations can make harmonic analysis much more challenging, so try to become comfortable analyzing easier pieces before tackling pieces with modulations.
+      </para>
+
+    </section>
+    <section id="s5">
+      <title>Further Study</title>
+
+   <para id="p5a">Although the concept of harmonic analysis is pretty basic, actually analyzing complex pieces can be a major challenge. This is one of the main fields of study for those who are interested in studying music theory at a more advanced level. One next step for those interested in the subject is to become familiar with all the ways notes may be added to basic triads. (Please see <link document="m11995">Beyond Triads</link> for an introduction to that subject.) At that point, you may want to spend some time practicing analyzing some simple, familiar pieces. Depending on your interests, you may also want to spend time creating pleasing chord progressions by choosing chords from the correct key that will complement a melody that you know. As of this writing, the site <link url="http://www.chordmaps.com">Music Theory for Songwriters</link> featured "chord maps" that help the student predict likely chord progressions.
+   </para><para id="element-920">For more advanced practice, look for music theory books that focus entirely on harmony or that spend plenty of time analyzing harmonies in real music. (Some music history textbooks are in this category.) You will progress more quickly if you can find books that focus on the music genre that you are most interested in (there are books specifically about jazz harmony, for example).</para>
+
+    </section>
+
+  </content>
+  
+</document>
