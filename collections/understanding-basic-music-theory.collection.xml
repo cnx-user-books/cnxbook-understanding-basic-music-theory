@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Catherine Schmidt-Jones">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10363</md:content-id>
     <md:title>Understanding Basic Music Theory</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>2ad74b7b-a72f-42a9-a31b-7e75542e54bd</md:uuid>
-<md:slug>understanding-basic-music-theory</md:slug>
-</metadata>
+    <md:slug>understanding-basic-music-theory</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m13685"/>
     <col:subcollection>
